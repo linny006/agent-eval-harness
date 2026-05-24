@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 18:45 UTC
+> ⏰ Last updated: 2026-05-24 19:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -135,7 +135,7 @@ expired items removed — so you can rely on what you see being current.
 | 91 | [yuzu-ai/ShinRakuda](https://github.com/yuzu-ai/ShinRakuda) | 3 | Python | 2024-09-17 | Shin Rakuda is a comprehensive framework for evaluating and benchmarking Japanese large language models, offering resear |
 | 92 | [yukinagae/genkit-promptfoo-sample](https://github.com/yukinagae/genkit-promptfoo-sample) | 0 | TypeScript | 2024-09-11 | Sample implementation demonstrating how to use Firebase Genkit with Promptfoo |
 | 93 | [yukinagae/promptfoo-sample](https://github.com/yukinagae/promptfoo-sample) | 2 | — | 2024-09-10 | Sample project demonstrates how to use Promptfoo, a test framework for evaluating the output of generative AI models |
-| 94 | [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) | 2348 | Python | 2024-08-18 | UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ |
+| 94 | [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) | 2349 | Python | 2024-08-18 | UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ |
 | 95 | [prompt-foundry/dotnet-sdk](https://github.com/prompt-foundry/dotnet-sdk) | 0 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for C# and .NET |
 | 96 | [prompt-foundry/ruby-sdk](https://github.com/prompt-foundry/ruby-sdk) | 1 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for Ruby. |
 | 97 | [prompt-foundry/kotlin-sdk](https://github.com/prompt-foundry/kotlin-sdk) | 0 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for Kotlin. |
