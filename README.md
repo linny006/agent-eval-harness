@@ -71,6 +71,8 @@ MIT — see `LICENSE`.
 ## More from linny006
 
 
+- [**Agent Skills Daily Tracker**](https://github.com/linny006/skills-tracker) — Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend (⭐ 0)
+
 - [**Agent Eval Harness**](https://github.com/linny006/agent-eval-harness) — Live, open-source benchmark for comparing AI coding agents on real GitHub issues (⭐ 0)
 
 - [**Prompt Tools Live**](https://github.com/linny006/prompt-tools-live) — Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 minutes (⭐ 0)
@@ -79,4 +81,3 @@ MIT — see `LICENSE`.
 
 - [**Vector DB Live Tracker**](https://github.com/linny006/vector-db-live) — Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every 15 minutes (⭐ 0)
 
-- [**Agent Framework Radar**](https://github.com/linny006/agent-framework-radar) — Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars (⭐ 0)
