@@ -1,12 +1,12 @@
 [
   {
-    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
-    "id": "homemade-software-inc/completion-kit",
-    "language": "Ruby",
-    "name": "homemade-software-inc/completion-kit",
-    "stars": 1,
-    "updated_at": "2026-05-24T20:37:12Z",
-    "url": "https://github.com/homemade-software-inc/completion-kit"
+    "description": "Online evals on live agent traces. Open-source, self-hostable, OpenTelemetry-native eval harness with regression detecti",
+    "id": "matt-rachlin/agent-eval-harness",
+    "language": "Python",
+    "name": "matt-rachlin/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-05-24T20:52:41Z",
+    "url": "https://github.com/matt-rachlin/agent-eval-harness"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9813,
-    "updated_at": "2026-05-24T20:35:43Z",
+    "updated_at": "2026-05-24T20:51:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
+    "id": "homemade-software-inc/completion-kit",
+    "language": "Ruby",
+    "name": "homemade-software-inc/completion-kit",
+    "stars": 1,
+    "updated_at": "2026-05-24T20:49:07Z",
+    "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
     "description": "An graph-eval framework for LLM's ",
@@ -889,14 +898,5 @@
     "stars": 2,
     "updated_at": "2024-04-09T10:16:52Z",
     "url": "https://github.com/genia-dev/vibraniumdome-docs"
-  },
-  {
-    "description": "A simple GPT-based evaluation tool for multi-aspect, interpretable assessment of LLMs.",
-    "id": "Re-Align/just-eval",
-    "language": "Python",
-    "name": "Re-Align/just-eval",
-    "stars": 90,
-    "updated_at": "2024-01-29T23:45:40Z",
-    "url": "https://github.com/Re-Align/just-eval"
   }
 ]
