@@ -5,7 +5,7 @@
     "language": "Ruby",
     "name": "homemade-software-inc/completion-kit",
     "stars": 1,
-    "updated_at": "2026-05-24T23:10:39Z",
+    "updated_at": "2026-05-24T23:30:15Z",
     "url": "https://github.com/homemade-software-inc/completion-kit"
   },
   {
@@ -571,7 +571,7 @@
     "id": "paradime-io/dbt-llm-evals",
     "language": "Python",
     "name": "paradime-io/dbt-llm-evals",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-02-10T21:32:55Z",
     "url": "https://github.com/paradime-io/dbt-llm-evals"
   },

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 23:15 UTC
+> ⏰ Last updated: 2026-05-24 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -105,7 +105,7 @@ expired items removed — so you can rely on what you see being current.
 | 61 | [tpertner/squeeze](https://github.com/tpertner/squeeze) | 5 | Python | 2026-03-01 | Squeeze your model with pressure prompts to see if its behavior leaks.  |
 | 62 | [grigio/llm-eval-simple](https://github.com/grigio/llm-eval-simple) | 68 | Python | 2026-02-28 | llm-eval-simple is a simple LLM evaluation framework with intermediate actions and prompt pattern selection |
 | 63 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 90 | Shell | 2026-02-27 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
-| 64 | [paradime-io/dbt-llm-evals](https://github.com/paradime-io/dbt-llm-evals) | 26 | Python | 2026-02-10 | The warehouse-native LLM evaluation package for dbt™ - monitor AI quality without data egress |
+| 64 | [paradime-io/dbt-llm-evals](https://github.com/paradime-io/dbt-llm-evals) | 27 | Python | 2026-02-10 | The warehouse-native LLM evaluation package for dbt™ - monitor AI quality without data egress |
 | 65 | [Striveworks/valor](https://github.com/Striveworks/valor) | 41 | Python | 2026-02-09 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
 | 66 | [TADSTech/llm-output-grader](https://github.com/TADSTech/llm-output-grader) | 0 | Python | 2026-01-24 | systematic llm grading |
 | 67 | [3ahmood/Agentic-Author-CrewAI](https://github.com/3ahmood/Agentic-Author-CrewAI) | 1 | Jupyter Notebook | 2026-01-15 | On device autonomous research and content writing using open-sourced LLMs and Crew AI. |
