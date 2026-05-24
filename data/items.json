@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
+    "id": "penpoen/llm-SugarScape",
+    "language": "Python",
+    "name": "penpoen/llm-SugarScape",
+    "stars": 1,
+    "updated_at": "2026-05-24T21:15:22Z",
+    "url": "https://github.com/penpoen/llm-SugarScape"
+  },
+  {
     "description": "Online evals on live agent traces. Open-source, self-hostable, OpenTelemetry-native eval harness with regression detecti",
     "id": "matt-rachlin/agent-eval-harness",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9813,
-    "updated_at": "2026-05-24T20:51:16Z",
+    "updated_at": "2026-05-24T21:09:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T17:19:48Z",
     "url": "https://github.com/Phinchanbora/llm-evaluation"
-  },
-  {
-    "description": "\ud83c\udf10 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok",
-    "id": "penpoen/llm-SugarScape",
-    "language": "Python",
-    "name": "penpoen/llm-SugarScape",
-    "stars": 1,
-    "updated_at": "2026-05-24T17:05:35Z",
-    "url": "https://github.com/penpoen/llm-SugarScape"
   },
   {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
