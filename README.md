@@ -67,3 +67,16 @@ an issue.
 ## 📜 License
 
 MIT — see `LICENSE`.
+
+## More from linny006
+
+
+- [**Agent Eval Harness**](https://github.com/linny006/agent-eval-harness) — Live, open-source benchmark for comparing AI coding agents on real GitHub issues (⭐ 0)
+
+- [**Prompt Tools Live**](https://github.com/linny006/prompt-tools-live) — Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 minutes (⭐ 0)
+
+- [**LLMOps Radar**](https://github.com/linny006/llmops-radar) — Live index of the newest LLMOps tooling — track what's shipping in LLM observability and deployment (⭐ 0)
+
+- [**Vector DB Live Tracker**](https://github.com/linny006/vector-db-live) — Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every 15 minutes (⭐ 0)
+
+- [**Agent Framework Radar**](https://github.com/linny006/agent-framework-radar) — Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars (⭐ 0)
