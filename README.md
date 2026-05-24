@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 12:45 UTC
+> ⏰ Last updated: 2026-05-24 14:20 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21547 | TypeScript | 2026-05-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-24 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9810 | Python | 2026-05-24 | AI Observability & Evaluation |
-| 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-24 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 5 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-24 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
-| 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-05-24 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-05-24 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 8 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-24 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
-| 9 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-24 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
+| 1 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-24 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-24 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 3 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-24 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
+| 4 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-05-24 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 5 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-05-24 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 6 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-24 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
+| 7 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-24 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21547 | TypeScript | 2026-05-24 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9809 | Python | 2026-05-24 | AI Observability & Evaluation |
 | 10 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-05-24 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 11 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 36 | Python | 2026-05-24 | An graph-eval framework for LLM's  |
 | 12 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-24 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
@@ -103,7 +103,7 @@ expired items removed — so you can rely on what you see being current.
 | 59 | [whitecircle/circle-guard-bench](https://github.com/whitecircle/circle-guard-bench) | 69 | Python | 2026-03-07 | First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (g |
 | 60 | [tpertner/squeeze](https://github.com/tpertner/squeeze) | 5 | Python | 2026-03-01 | Squeeze your model with pressure prompts to see if its behavior leaks.  |
 | 61 | [grigio/llm-eval-simple](https://github.com/grigio/llm-eval-simple) | 68 | Python | 2026-02-28 | llm-eval-simple is a simple LLM evaluation framework with intermediate actions and prompt pattern selection |
-| 62 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 89 | Shell | 2026-02-27 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
+| 62 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 90 | Shell | 2026-02-27 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
 | 63 | [paradime-io/dbt-llm-evals](https://github.com/paradime-io/dbt-llm-evals) | 26 | Python | 2026-02-10 | The warehouse-native LLM evaluation package for dbt™ - monitor AI quality without data egress |
 | 64 | [Striveworks/valor](https://github.com/Striveworks/valor) | 41 | Python | 2026-02-09 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
 | 65 | [TADSTech/llm-output-grader](https://github.com/TADSTech/llm-output-grader) | 0 | Python | 2026-01-24 | systematic llm grading |
