@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 05:30 UTC
+> ⏰ Last updated: 2026-05-27 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-27 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
-| 2 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-27 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21634 | TypeScript | 2026-05-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9857 | Python | 2026-05-27 | AI Observability & Evaluation |
-| 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-27 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-27 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 7 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-27 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
-| 8 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-05-27 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 9 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-05-27 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 1 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 0 | — | 2026-05-27 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
+| 2 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-05-27 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 3 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-05-27 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 4 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-05-27 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
+| 5 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-05-27 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21634 | TypeScript | 2026-05-27 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 7 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 9859 | Python | 2026-05-27 | AI Observability & Evaluation |
+| 8 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-05-27 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 9 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-05-27 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 292 | TypeScript | 2026-05-27 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 11 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-05-26 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 12 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-05-26 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
@@ -123,7 +123,7 @@ expired items removed — so you can rely on what you see being current.
 | 79 | [jaaack-wang/multi-problem-eval-llm](https://github.com/jaaack-wang/multi-problem-eval-llm) | 3 | Jupyter Notebook | 2025-08-08 | Evaluating LLMs with Multiple Problems at once: A New Paradigm for Probing LLM Capabilities |
 | 80 | [alan-turing-institute/prompto](https://github.com/alan-turing-institute/prompto) | 37 | Python | 2025-07-18 | An open source library for asynchronous querying of LLM endpoints |
 | 81 | [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) | 300 | Python | 2025-06-06 | Python SDK for running evaluations on LLM generated responses |
-| 82 | [amplifying-ai/ai-product-bench](https://github.com/amplifying-ai/ai-product-bench) | 22 | HTML | 2025-05-27 |  |
+| 82 | [amplifying-ai/ai-product-bench](https://github.com/amplifying-ai/ai-product-bench) | 23 | HTML | 2025-05-27 |  |
 | 83 | [regankight/mirror-model-eval-tests](https://github.com/regankight/mirror-model-eval-tests) | 0 | — | 2025-05-17 | LLM behavior QA: tone collapse, false consent, and reroute logic scoring. |
 | 84 | [pyladiesams/eval-llm-based-apps-jan2025](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) | 8 | Jupyter Notebook | 2025-05-06 | Create an evaluation framework for your LLM based app. Incorporate it into your test suite. Lay the monitoring foundatio |
 | 85 | [daqh/llm-eval](https://github.com/daqh/llm-eval) | 0 | Python | 2025-03-24 | This project applies the LLM-Eval framework to the PersonaChat dataset to assess response quality in a conversational co |
