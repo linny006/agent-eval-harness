@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-30 23:30 UTC
+> ⏰ Last updated: 2026-05-30 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -115,33 +115,33 @@ expired items removed — so you can rely on what you see being current.
 | 71 | [higuseonhye/worldsim-eval](https://github.com/higuseonhye/worldsim-eval) | 0 | — | 2025-12-20 | Evaluate AI agents by simulating world-level consequences. |
 | 72 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 6 | Python | 2025-11-28 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
 | 73 | [IAAR-Shanghai/GuessArena](https://github.com/IAAR-Shanghai/GuessArena) | 10 | Python | 2025-11-15 | [ACL 2025] GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Re |
-| 74 | [iltutishrak/eval-metrics-lab](https://github.com/iltutishrak/eval-metrics-lab) | 0 | Python | 2025-11-10 | Text-only playground for evaluating reasoning model outputs with mock accuracy, hallucination, and trust metrics — runs  |
-| 75 | [artefactop/promptdev](https://github.com/artefactop/promptdev) | 2 | Python | 2025-09-22 | A prompt evaluation framework that provides comprehensive testing for AI agents across multiple providers. |
-| 76 | [multinear/multinear](https://github.com/multinear/multinear) | 45 | Python | 2025-09-02 | Develop reliable AI apps |
-| 77 | [attogram/ollama-multirun](https://github.com/attogram/ollama-multirun) | 16 | Shell | 2025-08-30 | Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat |
-| 78 | [khoj-ai/llm-coup](https://github.com/khoj-ai/llm-coup) | 12 | TypeScript | 2025-08-18 | Let LLMs play coup with each other and see who's the best at deception & strategy |
-| 79 | [jaaack-wang/multi-problem-eval-llm](https://github.com/jaaack-wang/multi-problem-eval-llm) | 3 | Jupyter Notebook | 2025-08-08 | Evaluating LLMs with Multiple Problems at once: A New Paradigm for Probing LLM Capabilities |
-| 80 | [alan-turing-institute/prompto](https://github.com/alan-turing-institute/prompto) | 37 | Python | 2025-07-18 | An open source library for asynchronous querying of LLM endpoints |
-| 81 | [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) | 300 | Python | 2025-06-06 | Python SDK for running evaluations on LLM generated responses |
-| 82 | [amplifying-ai/ai-product-bench](https://github.com/amplifying-ai/ai-product-bench) | 23 | HTML | 2025-05-27 |  |
-| 83 | [regankight/mirror-model-eval-tests](https://github.com/regankight/mirror-model-eval-tests) | 0 | — | 2025-05-17 | LLM behavior QA: tone collapse, false consent, and reroute logic scoring. |
-| 84 | [pyladiesams/eval-llm-based-apps-jan2025](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) | 8 | Jupyter Notebook | 2025-05-06 | Create an evaluation framework for your LLM based app. Incorporate it into your test suite. Lay the monitoring foundatio |
-| 85 | [daqh/llm-eval](https://github.com/daqh/llm-eval) | 0 | Python | 2025-03-24 | This project applies the LLM-Eval framework to the PersonaChat dataset to assess response quality in a conversational co |
-| 86 | [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py) | 82 | Python | 2025-02-13 | Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23) |
-| 87 | [parea-ai/parea-sdk-ts](https://github.com/parea-ai/parea-sdk-ts) | 4 | TypeScript | 2025-01-17 | TypeScript SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23) |
-| 88 | [yukinagae/genkitx-promptfoo](https://github.com/yukinagae/genkitx-promptfoo) | 7 | TypeScript | 2025-01-03 | Community Plugin for Genkit to use Promptfoo |
-| 89 | [honeyhiveai/realign](https://github.com/honeyhiveai/realign) | 19 | Python | 2024-12-04 | Realign is a testing and simulation framework for AI applications. |
-| 90 | [harlev/eva-l](https://github.com/harlev/eva-l) | 5 | Python | 2024-11-27 | LLM Evaluation Framework |
-| 91 | [genia-dev/vibraniumdome](https://github.com/genia-dev/vibraniumdome) | 27 | Python | 2024-10-28 | LLM Security Platform. |
-| 92 | [Human-Centric-Machine-Learning/prediction-powered-ranking](https://github.com/Human-Centric-Machine-Learning/prediction-powered-ranking) | 9 | Jupyter Notebook | 2024-10-28 | Code for "Prediction-Powered Ranking of Large Language Models", NeurIPS 2024. |
-| 93 | [yuzu-ai/ShinRakuda](https://github.com/yuzu-ai/ShinRakuda) | 3 | Python | 2024-09-17 | Shin Rakuda is a comprehensive framework for evaluating and benchmarking Japanese large language models, offering resear |
-| 94 | [yukinagae/genkit-promptfoo-sample](https://github.com/yukinagae/genkit-promptfoo-sample) | 0 | TypeScript | 2024-09-11 | Sample implementation demonstrating how to use Firebase Genkit with Promptfoo |
-| 95 | [yukinagae/promptfoo-sample](https://github.com/yukinagae/promptfoo-sample) | 2 | — | 2024-09-10 | Sample project demonstrates how to use Promptfoo, a test framework for evaluating the output of generative AI models |
-| 96 | [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) | 2350 | Python | 2024-08-18 | UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ |
-| 97 | [prompt-foundry/dotnet-sdk](https://github.com/prompt-foundry/dotnet-sdk) | 0 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for C# and .NET |
-| 98 | [prompt-foundry/ruby-sdk](https://github.com/prompt-foundry/ruby-sdk) | 1 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for Ruby. |
-| 99 | [prompt-foundry/kotlin-sdk](https://github.com/prompt-foundry/kotlin-sdk) | 0 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for Kotlin. |
-| 100 | [prompt-foundry/go-sdk](https://github.com/prompt-foundry/go-sdk) | 1 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for Go. |
+| 74 | [artefactop/promptdev](https://github.com/artefactop/promptdev) | 2 | Python | 2025-09-22 | A prompt evaluation framework that provides comprehensive testing for AI agents across multiple providers. |
+| 75 | [multinear/multinear](https://github.com/multinear/multinear) | 45 | Python | 2025-09-02 | Develop reliable AI apps |
+| 76 | [attogram/ollama-multirun](https://github.com/attogram/ollama-multirun) | 16 | Shell | 2025-08-30 | Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat |
+| 77 | [khoj-ai/llm-coup](https://github.com/khoj-ai/llm-coup) | 12 | TypeScript | 2025-08-18 | Let LLMs play coup with each other and see who's the best at deception & strategy |
+| 78 | [jaaack-wang/multi-problem-eval-llm](https://github.com/jaaack-wang/multi-problem-eval-llm) | 3 | Jupyter Notebook | 2025-08-08 | Evaluating LLMs with Multiple Problems at once: A New Paradigm for Probing LLM Capabilities |
+| 79 | [alan-turing-institute/prompto](https://github.com/alan-turing-institute/prompto) | 37 | Python | 2025-07-18 | An open source library for asynchronous querying of LLM endpoints |
+| 80 | [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) | 300 | Python | 2025-06-06 | Python SDK for running evaluations on LLM generated responses |
+| 81 | [amplifying-ai/ai-product-bench](https://github.com/amplifying-ai/ai-product-bench) | 23 | HTML | 2025-05-27 |  |
+| 82 | [regankight/mirror-model-eval-tests](https://github.com/regankight/mirror-model-eval-tests) | 0 | — | 2025-05-17 | LLM behavior QA: tone collapse, false consent, and reroute logic scoring. |
+| 83 | [pyladiesams/eval-llm-based-apps-jan2025](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) | 8 | Jupyter Notebook | 2025-05-06 | Create an evaluation framework for your LLM based app. Incorporate it into your test suite. Lay the monitoring foundatio |
+| 84 | [daqh/llm-eval](https://github.com/daqh/llm-eval) | 0 | Python | 2025-03-24 | This project applies the LLM-Eval framework to the PersonaChat dataset to assess response quality in a conversational co |
+| 85 | [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py) | 82 | Python | 2025-02-13 | Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23) |
+| 86 | [parea-ai/parea-sdk-ts](https://github.com/parea-ai/parea-sdk-ts) | 4 | TypeScript | 2025-01-17 | TypeScript SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23) |
+| 87 | [yukinagae/genkitx-promptfoo](https://github.com/yukinagae/genkitx-promptfoo) | 7 | TypeScript | 2025-01-03 | Community Plugin for Genkit to use Promptfoo |
+| 88 | [honeyhiveai/realign](https://github.com/honeyhiveai/realign) | 19 | Python | 2024-12-04 | Realign is a testing and simulation framework for AI applications. |
+| 89 | [harlev/eva-l](https://github.com/harlev/eva-l) | 5 | Python | 2024-11-27 | LLM Evaluation Framework |
+| 90 | [genia-dev/vibraniumdome](https://github.com/genia-dev/vibraniumdome) | 27 | Python | 2024-10-28 | LLM Security Platform. |
+| 91 | [Human-Centric-Machine-Learning/prediction-powered-ranking](https://github.com/Human-Centric-Machine-Learning/prediction-powered-ranking) | 9 | Jupyter Notebook | 2024-10-28 | Code for "Prediction-Powered Ranking of Large Language Models", NeurIPS 2024. |
+| 92 | [yuzu-ai/ShinRakuda](https://github.com/yuzu-ai/ShinRakuda) | 3 | Python | 2024-09-17 | Shin Rakuda is a comprehensive framework for evaluating and benchmarking Japanese large language models, offering resear |
+| 93 | [yukinagae/genkit-promptfoo-sample](https://github.com/yukinagae/genkit-promptfoo-sample) | 0 | TypeScript | 2024-09-11 | Sample implementation demonstrating how to use Firebase Genkit with Promptfoo |
+| 94 | [yukinagae/promptfoo-sample](https://github.com/yukinagae/promptfoo-sample) | 2 | — | 2024-09-10 | Sample project demonstrates how to use Promptfoo, a test framework for evaluating the output of generative AI models |
+| 95 | [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) | 2350 | Python | 2024-08-18 | UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ |
+| 96 | [prompt-foundry/dotnet-sdk](https://github.com/prompt-foundry/dotnet-sdk) | 0 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for C# and .NET |
+| 97 | [prompt-foundry/ruby-sdk](https://github.com/prompt-foundry/ruby-sdk) | 1 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for Ruby. |
+| 98 | [prompt-foundry/kotlin-sdk](https://github.com/prompt-foundry/kotlin-sdk) | 0 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for Kotlin. |
+| 99 | [prompt-foundry/go-sdk](https://github.com/prompt-foundry/go-sdk) | 1 | — | 2024-06-16 | The prompt engineering, prompt management, and prompt evaluation tool for Go. |
+| 100 | [genia-dev/vibraniumdome-docs](https://github.com/genia-dev/vibraniumdome-docs) | 2 | MDX | 2024-04-09 | LLM Security Platform Docs |
 <!-- TRACKER_TABLE_END -->
 
 ---
