@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-01 19:15 UTC
+> ⏰ Last updated: 2026-06-01 19:29 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-01 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 12 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 296 | TypeScript | 2026-06-01 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 13 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-06-01 | Agent and LLM evaluation harness — golden datasets, multi-scorer execution, regression detection across model versions,  |
-| 14 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 4 | Python | 2026-06-01 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
+| 14 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 5 | Python | 2026-06-01 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
 | 15 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
 | 16 | [truera/trulens](https://github.com/truera/trulens) | 3354 | Python | 2026-05-31 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 17 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-05-31 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
