@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-03 14:00 UTC
+> ⏰ Last updated: 2026-06-03 14:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -92,7 +92,7 @@ expired items removed — so you can rely on what you see being current.
 | 48 | [SAY-5/genai-eval](https://github.com/SAY-5/genai-eval) | 0 | Python | 2026-05-07 | Multilingual GenAI evaluation service across 5 task types and 3 languages, with regression-trend dashboard |
 | 49 | [HumphreySun98/repoagentbench](https://github.com/HumphreySun98/repoagentbench) | 31 | Python | 2026-04-30 | SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: cla |
 | 50 | [YagneshKhamar/phasio](https://github.com/YagneshKhamar/phasio) | 0 | TypeScript | 2026-04-29 | Jest-style testing for LLM prompts. Version prompts, run evals across OpenAI and Anthropic, catch regressions in CI. |
-| 51 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-06-01 | Handwritten Text Recognition llm eval tool |
+| 51 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-06-03 | Handwritten Text Recognition llm eval tool |
 | 52 | [JSLEEKR/evaltrack](https://github.com/JSLEEKR/evaltrack) | 0 | TypeScript | 2026-04-24 | Local-first regression and trend CLI for promptfoo eval histories — the git log + git diff for LLM eval outputs. |
 | 53 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-04-21 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 54 | [arthursoares/openclaw-llm-bench](https://github.com/arthursoares/openclaw-llm-bench) | 2 | Python | 2026-04-11 | A reasoning benchmark runner for comparing LLMs as OpenClaw agents use them. 52 prompts, 3 eval sets, 11 traps, LLM-as-j |
