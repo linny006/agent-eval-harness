@@ -4,9 +4,18 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 21919,
-    "updated_at": "2026-06-05T14:08:36Z",
+    "stars": 21920,
+    "updated_at": "2026-06-05T14:23:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "tjoe ToolTraceEval: local offline AI agent eval toolkit; not SaaS, not runtime trace collector or SDK",
+    "id": "thewonderofyou777z-dot/tjoe-tooltraceeval",
+    "language": "Python",
+    "name": "thewonderofyou777z-dot/tjoe-tooltraceeval",
+    "stars": 0,
+    "updated_at": "2026-06-05T14:14:43Z",
+    "url": "https://github.com/thewonderofyou777z-dot/tjoe-tooltraceeval"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 9991,
-    "updated_at": "2026-06-05T13:40:04Z",
+    "updated_at": "2026-06-05T14:21:09Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 2,
     "updated_at": "2024-09-10T12:53:24Z",
     "url": "https://github.com/yukinagae/promptfoo-sample"
-  },
-  {
-    "description": "UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+",
-    "id": "uptrain-ai/uptrain",
-    "language": "Python",
-    "name": "uptrain-ai/uptrain",
-    "stars": 2348,
-    "updated_at": "2024-08-18T13:30:44Z",
-    "url": "https://github.com/uptrain-ai/uptrain"
   }
 ]
