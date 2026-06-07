@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-07 04:30 UTC
+> ⏰ Last updated: 2026-06-07 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-06-07 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
-| 2 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-07 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
-| 3 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 4 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 5 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-07 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
-| 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-07 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-07 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 1 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-07 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 2 | [Phinchanbora/llm-evaluation](https://github.com/Phinchanbora/llm-evaluation) | 0 | Python | 2026-06-07 | 🎯 Benchmark LLMs effectively with over 10 tests and 108,000 real questions to assess model performance and enhance AI ev |
+| 3 | [penpoen/llm-SugarScape](https://github.com/penpoen/llm-SugarScape) | 1 | Python | 2026-06-07 | 🌐 Explore AI behaviors in a Sugarscape simulation, revealing insights into cooperation and survival instincts using Grok |
+| 4 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 6 | [Kamixon131/claude-config](https://github.com/Kamixon131/claude-config) | 1 | — | 2026-06-07 | ⚙️ Enhance Claude Code with a powerful configuration framework that features specialized agents and workflows for effici |
+| 7 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-07 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 21962 | TypeScript | 2026-06-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10008 | Python | 2026-06-07 | AI Observability & Evaluation |
 | 10 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-06 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
@@ -124,7 +124,7 @@ expired items removed — so you can rely on what you see being current.
 | 80 | [artefactop/promptdev](https://github.com/artefactop/promptdev) | 2 | Python | 2025-09-22 | A prompt evaluation framework that provides comprehensive testing for AI agents across multiple providers. |
 | 81 | [multinear/multinear](https://github.com/multinear/multinear) | 45 | Python | 2025-09-02 | Develop reliable AI apps |
 | 82 | [attogram/ollama-multirun](https://github.com/attogram/ollama-multirun) | 16 | Shell | 2025-08-30 | Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat |
-| 83 | [khoj-ai/llm-coup](https://github.com/khoj-ai/llm-coup) | 12 | TypeScript | 2025-08-18 | Let LLMs play coup with each other and see who's the best at deception & strategy |
+| 83 | [khoj-ai/llm-coup](https://github.com/khoj-ai/llm-coup) | 13 | TypeScript | 2025-08-18 | Let LLMs play coup with each other and see who's the best at deception & strategy |
 | 84 | [jaaack-wang/multi-problem-eval-llm](https://github.com/jaaack-wang/multi-problem-eval-llm) | 3 | Jupyter Notebook | 2025-08-08 | Evaluating LLMs with Multiple Problems at once: A New Paradigm for Probing LLM Capabilities |
 | 85 | [alan-turing-institute/prompto](https://github.com/alan-turing-institute/prompto) | 37 | Python | 2025-07-18 | An open source library for asynchronous querying of LLM endpoints |
 | 86 | [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) | 300 | Python | 2025-06-06 | Python SDK for running evaluations on LLM generated responses |
