@@ -81,15 +81,6 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
-    "description": "Serious hybrid RAG reference \u2014 vector + BM25 + reranker over Qdrant, chunking strategies benchmarked, eval set included,",
-    "id": "reaatech/hybrid-rag",
-    "language": "TypeScript",
-    "name": "reaatech/hybrid-rag",
-    "stars": 1,
-    "updated_at": "2026-06-08T00:13:33Z",
-    "url": "https://github.com/reaatech/hybrid-rag"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -898,5 +889,14 @@
     "stars": 2,
     "updated_at": "2024-09-10T12:53:24Z",
     "url": "https://github.com/yukinagae/promptfoo-sample"
+  },
+  {
+    "description": "UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+",
+    "id": "uptrain-ai/uptrain",
+    "language": "Python",
+    "name": "uptrain-ai/uptrain",
+    "stars": 2348,
+    "updated_at": "2024-08-18T13:30:44Z",
+    "url": "https://github.com/uptrain-ai/uptrain"
   }
 ]
