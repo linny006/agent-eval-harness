@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-09 11:30 UTC
+> ⏰ Last updated: 2026-06-09 11:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -54,12 +54,12 @@ expired items removed — so you can rely on what you see being current.
 | 10 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-09 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 11 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22038 | TypeScript | 2026-06-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 12 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-09 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
-| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10054 | Python | 2026-06-09 | AI Observability & Evaluation |
+| 13 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10055 | Python | 2026-06-09 | AI Observability & Evaluation |
 | 14 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-09 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 15 | [alyssadata/continuity-keys](https://github.com/alyssadata/continuity-keys) | 1 | — | 2026-06-08 | Continuity Keys: tests for “same someone” returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen) |
 | 16 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-08 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 17 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-06 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
-| 18 | [truera/trulens](https://github.com/truera/trulens) | 3365 | Python | 2026-06-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 18 | [truera/trulens](https://github.com/truera/trulens) | 3366 | Python | 2026-06-05 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 19 | [melody-ling-L/eval-resume](https://github.com/melody-ling-L/eval-resume) | 0 | HTML | 2026-06-04 | 第一个聚焦"简历改写诚实度"的中文 LLM benchmark：20 真实脱敏简历 × 3 模型 × 4 评分维度 |
 | 20 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-06-04 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
 | 21 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-06-08 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
