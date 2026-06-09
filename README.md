@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-09 07:00 UTC
+> ⏰ Last updated: 2026-06-09 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -107,7 +107,7 @@ expired items removed — so you can rely on what you see being current.
 | 63 | [Aysnc-Labs/llm-eval](https://github.com/Aysnc-Labs/llm-eval) | 1 | PHP | 2026-03-20 | A PHP package for evaluating LLM outputs. Test your prompts, validate responses, and ensure your AI features work correc |
 | 64 | [asarnaout/veritail](https://github.com/asarnaout/veritail) | 6 | Python | 2026-03-15 | LLM-as-a-Judge evaluation platform for ecommerce search. Scores relevance, computes IR metrics, and flags quality issues |
 | 65 | [vola-trebla/llm-infrastructure](https://github.com/vola-trebla/llm-infrastructure) | 0 | — | 2026-03-14 | Full-stack AI infrastructure - 5 projects from data ingestion to autonomous agents |
-| 66 | [whitecircle/circle-guard-bench](https://github.com/whitecircle/circle-guard-bench) | 69 | Python | 2026-03-07 | First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (g |
+| 66 | [whitecircle/circle-guard-bench](https://github.com/whitecircle/circle-guard-bench) | 70 | Python | 2026-03-07 | First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (g |
 | 67 | [tpertner/squeeze](https://github.com/tpertner/squeeze) | 5 | Python | 2026-03-01 | Squeeze your model with pressure prompts to see if its behavior leaks.  |
 | 68 | [grigio/llm-eval-simple](https://github.com/grigio/llm-eval-simple) | 69 | Python | 2026-02-28 | llm-eval-simple is a simple LLM evaluation framework with intermediate actions and prompt pattern selection |
 | 69 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 92 | Shell | 2026-02-27 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
