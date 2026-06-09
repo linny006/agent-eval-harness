@@ -1,11 +1,20 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 302,
+    "updated_at": "2026-06-09T08:30:26Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5422,
-    "updated_at": "2026-06-09T08:14:58Z",
+    "updated_at": "2026-06-09T08:19:08Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -76,7 +85,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22024,
+    "stars": 22026,
     "updated_at": "2026-06-09T06:03:23Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "NoesisVision/nasde-toolkit",
     "stars": 10,
-    "updated_at": "2026-06-09T08:10:21Z",
+    "updated_at": "2026-06-09T08:29:57Z",
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
@@ -103,18 +112,9 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10049,
+    "stars": 10050,
     "updated_at": "2026-06-09T02:55:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 302,
-    "updated_at": "2026-06-09T02:49:58Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
