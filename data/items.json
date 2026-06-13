@@ -108,6 +108,15 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 7,
+    "updated_at": "2026-06-12T22:43:42Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2024-09-11T04:44:55Z",
     "url": "https://github.com/yukinagae/genkit-promptfoo-sample"
-  },
-  {
-    "description": "Sample project demonstrates how to use Promptfoo, a test framework for evaluating the output of generative AI models",
-    "id": "yukinagae/promptfoo-sample",
-    "language": "\u2014",
-    "name": "yukinagae/promptfoo-sample",
-    "stars": 2,
-    "updated_at": "2024-09-10T12:53:24Z",
-    "url": "https://github.com/yukinagae/promptfoo-sample"
   }
 ]
