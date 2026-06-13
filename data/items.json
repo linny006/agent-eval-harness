@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10124,
-    "updated_at": "2026-06-13T16:41:47Z",
+    "updated_at": "2026-06-13T19:10:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -331,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T08:05:42Z",
     "url": "https://github.com/MyForgeLabs/myforge-vault-1111"
-  },
-  {
-    "description": "Online evals on live agent traces. Open-source, self-hostable, OpenTelemetry-native eval harness with regression detecti",
-    "id": "matt-rachlin/agent-eval-harness",
-    "language": "Python",
-    "name": "matt-rachlin/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-05-24T20:52:41Z",
-    "url": "https://github.com/matt-rachlin/agent-eval-harness"
   },
   {
     "description": "Mission Spec \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ud50c\ub85c\ub97c \uc704\ud55c task contract layer",
@@ -898,5 +889,14 @@
     "stars": 0,
     "updated_at": "2024-09-11T04:44:55Z",
     "url": "https://github.com/yukinagae/genkit-promptfoo-sample"
+  },
+  {
+    "description": "Sample project demonstrates how to use Promptfoo, a test framework for evaluating the output of generative AI models",
+    "id": "yukinagae/promptfoo-sample",
+    "language": "\u2014",
+    "name": "yukinagae/promptfoo-sample",
+    "stars": 2,
+    "updated_at": "2024-09-10T12:53:24Z",
+    "url": "https://github.com/yukinagae/promptfoo-sample"
   }
 ]
