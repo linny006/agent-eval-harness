@@ -1,5 +1,14 @@
 [
   {
+    "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
+    "id": "tushariitr-19/assay",
+    "language": "\u2014",
+    "name": "tushariitr-19/assay",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:26:19Z",
+    "url": "https://github.com/tushariitr-19/assay"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2024-09-11T04:44:55Z",
     "url": "https://github.com/yukinagae/genkit-promptfoo-sample"
-  },
-  {
-    "description": "Sample project demonstrates how to use Promptfoo, a test framework for evaluating the output of generative AI models",
-    "id": "yukinagae/promptfoo-sample",
-    "language": "\u2014",
-    "name": "yukinagae/promptfoo-sample",
-    "stars": 2,
-    "updated_at": "2024-09-10T12:53:24Z",
-    "url": "https://github.com/yukinagae/promptfoo-sample"
   }
 ]
