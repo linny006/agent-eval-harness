@@ -1,5 +1,23 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22227,
+    "updated_at": "2026-06-15T15:57:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 306,
+    "updated_at": "2026-06-15T15:53:30Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10150,
-    "updated_at": "2026-06-15T15:45:22Z",
+    "updated_at": "2026-06-15T16:00:14Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-15T14:59:48Z",
     "url": "https://github.com/penpoen/llm-SugarScape"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22227,
-    "updated_at": "2026-06-15T15:45:23Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-15T08:44:59Z",
     "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 306,
-    "updated_at": "2026-06-15T15:12:13Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
