@@ -10,7 +10,7 @@ Live, open-source benchmark for comparing AI coding agents on real GitHub issues
 
 [![Stars](https://img.shields.io/github/stars/linny006-tecch/agent-eval-harness?style=for-the-badge&logo=github)](https://github.com/linny006-tecch/agent-eval-harness/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/linny006-tecch/agent-eval-harness?style=for-the-badge)](https://github.com/linny006-tecch/agent-eval-harness/commits)
-[![Items](https://img.shields.io/badge/Tracked_Items-99-brightgreen?style=for-the-badge)](#)
+[![Items](https://img.shields.io/badge/Tracked_Items-100-brightgreen?style=for-the-badge)](#)
 [![Updated](https://img.shields.io/badge/Updates-every_15min-blue?style=for-the-badge)](#)
 
 **⭐ Star this repo to bookmark — fresh data every 15 minutes**
@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-15 12:30 UTC
+> ⏰ Last updated: 2026-06-15 12:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -57,7 +57,7 @@ expired items removed — so you can rely on what you see being current.
 | 13 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-15 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 14 | [ALEX-nlp/OpenSkillEval](https://github.com/ALEX-nlp/OpenSkillEval) | 12 | Python | 2026-06-15 | OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents |
 | 15 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-06-15 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
-| 16 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10145 | Python | 2026-06-14 | AI Observability & Evaluation |
+| 16 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10146 | Python | 2026-06-14 | AI Observability & Evaluation |
 | 17 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 0 | Python | 2026-06-14 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 18 | [mpuodziukas-labs/eval-harness-template](https://github.com/mpuodziukas-labs/eval-harness-template) | 0 | Python | 2026-06-14 | Eval harness template for LLM systems: golden regression, LLM-as-judge, invariants |
 | 19 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-13 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
@@ -141,6 +141,7 @@ expired items removed — so you can rely on what you see being current.
 | 97 | [honeyhiveai/realign](https://github.com/honeyhiveai/realign) | 19 | Python | 2024-12-04 | Realign is a testing and simulation framework for AI applications. |
 | 98 | [harlev/eva-l](https://github.com/harlev/eva-l) | 5 | Python | 2024-11-27 | LLM Evaluation Framework |
 | 99 | [genia-dev/vibraniumdome](https://github.com/genia-dev/vibraniumdome) | 27 | Python | 2024-10-28 | LLM Security Platform. |
+| 100 | [Human-Centric-Machine-Learning/prediction-powered-ranking](https://github.com/Human-Centric-Machine-Learning/prediction-powered-ranking) | 9 | Jupyter Notebook | 2024-10-28 | Code for "Prediction-Powered Ranking of Large Language Models", NeurIPS 2024. |
 <!-- TRACKER_TABLE_END -->
 
 ---

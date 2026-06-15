@@ -139,7 +139,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10145,
+    "stars": 10146,
     "updated_at": "2026-06-14T20:56:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -889,5 +889,14 @@
     "stars": 27,
     "updated_at": "2024-10-28T16:16:04Z",
     "url": "https://github.com/genia-dev/vibraniumdome"
+  },
+  {
+    "description": "Code for \"Prediction-Powered Ranking of Large Language Models\", NeurIPS 2024.",
+    "id": "Human-Centric-Machine-Learning/prediction-powered-ranking",
+    "language": "Jupyter Notebook",
+    "name": "Human-Centric-Machine-Learning/prediction-powered-ranking",
+    "stars": 9,
+    "updated_at": "2024-10-28T10:35:13Z",
+    "url": "https://github.com/Human-Centric-Machine-Learning/prediction-powered-ranking"
   }
 ]
