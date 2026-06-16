@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 20:45 UTC
+> ⏰ Last updated: 2026-06-16 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22282 | TypeScript | 2026-06-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | Python | 2026-06-16 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
-| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10166 | Python | 2026-06-16 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10166 | Python | 2026-06-16 | AI Observability & Evaluation |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22283 | TypeScript | 2026-06-16 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [anejakartik/evalstack](https://github.com/anejakartik/evalstack) | 0 | Python | 2026-06-16 | Open-source LLM evaluation framework — drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable |
 | 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 307 | TypeScript | 2026-06-16 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-16 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 6 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-16 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
@@ -129,7 +129,7 @@ expired items removed — so you can rely on what you see being current.
 | 85 | [artefactop/promptdev](https://github.com/artefactop/promptdev) | 2 | Python | 2025-09-22 | A prompt evaluation framework that provides comprehensive testing for AI agents across multiple providers. |
 | 86 | [multinear/multinear](https://github.com/multinear/multinear) | 45 | Python | 2025-09-02 | Develop reliable AI apps |
 | 87 | [attogram/ollama-multirun](https://github.com/attogram/ollama-multirun) | 16 | Shell | 2025-08-30 | Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat |
-| 88 | [khoj-ai/llm-coup](https://github.com/khoj-ai/llm-coup) | 13 | TypeScript | 2025-08-18 | Let LLMs play coup with each other and see who's the best at deception & strategy |
+| 88 | [khoj-ai/llm-coup](https://github.com/khoj-ai/llm-coup) | 14 | TypeScript | 2025-08-18 | Let LLMs play coup with each other and see who's the best at deception & strategy |
 | 89 | [jaaack-wang/multi-problem-eval-llm](https://github.com/jaaack-wang/multi-problem-eval-llm) | 3 | Jupyter Notebook | 2025-08-08 | Evaluating LLMs with Multiple Problems at once: A New Paradigm for Probing LLM Capabilities |
 | 90 | [alan-turing-institute/prompto](https://github.com/alan-turing-institute/prompto) | 38 | Python | 2025-07-18 | An open source library for asynchronous querying of LLM endpoints |
 | 91 | [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) | 300 | Python | 2025-06-06 | Python SDK for running evaluations on LLM generated responses |
