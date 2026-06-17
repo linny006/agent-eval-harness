@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10176,
+    "updated_at": "2026-06-17T14:30:16Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -27,15 +36,6 @@
     "url": "https://github.com/thewonderofyou777z-dot/tjoe-reviewkit"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10175,
-    "updated_at": "2026-06-17T14:30:16Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
     "id": "tushariitr-19/assay",
     "language": "Go",
@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22309,
-    "updated_at": "2026-06-17T03:37:01Z",
+    "updated_at": "2026-06-17T14:33:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
