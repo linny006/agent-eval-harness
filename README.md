@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 22:15 UTC
+> ⏰ Last updated: 2026-06-18 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 310 | TypeScript | 2026-06-18 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10190 | Python | 2026-06-18 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10190 | Python | 2026-06-18 | AI Observability & Evaluation |
+| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 310 | TypeScript | 2026-06-18 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 3 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-06-18 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22355 | TypeScript | 2026-06-18 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-18 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
@@ -140,7 +140,7 @@ expired items removed — so you can rely on what you see being current.
 | 96 | [yukinagae/genkitx-promptfoo](https://github.com/yukinagae/genkitx-promptfoo) | 7 | TypeScript | 2025-01-03 | Community Plugin for Genkit to use Promptfoo |
 | 97 | [honeyhiveai/realign](https://github.com/honeyhiveai/realign) | 19 | Python | 2024-12-04 | Realign is a testing and simulation framework for AI applications. |
 | 98 | [harlev/eva-l](https://github.com/harlev/eva-l) | 5 | Python | 2024-11-27 | LLM Evaluation Framework |
-| 99 | [genia-dev/vibraniumdome](https://github.com/genia-dev/vibraniumdome) | 27 | Python | 2024-10-28 | LLM Security Platform. |
+| 99 | [genia-dev/vibraniumdome](https://github.com/genia-dev/vibraniumdome) | 28 | Python | 2024-10-28 | LLM Security Platform. |
 | 100 | [Human-Centric-Machine-Learning/prediction-powered-ranking](https://github.com/Human-Centric-Machine-Learning/prediction-powered-ranking) | 9 | Jupyter Notebook | 2024-10-28 | Code for "Prediction-Powered Ranking of Large Language Models", NeurIPS 2024. |
 <!-- TRACKER_TABLE_END -->
 
