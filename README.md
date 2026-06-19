@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 14:15 UTC
+> ⏰ Last updated: 2026-06-19 14:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -113,7 +113,7 @@ expired items removed — so you can rely on what you see being current.
 | 69 | [vola-trebla/llm-infrastructure](https://github.com/vola-trebla/llm-infrastructure) | 0 | — | 2026-03-14 | Full-stack AI infrastructure - 5 projects from data ingestion to autonomous agents |
 | 70 | [whitecircle/circle-guard-bench](https://github.com/whitecircle/circle-guard-bench) | 70 | Python | 2026-03-07 | First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (g |
 | 71 | [tpertner/squeeze](https://github.com/tpertner/squeeze) | 5 | Python | 2026-03-01 | Squeeze your model with pressure prompts to see if its behavior leaks.  |
-| 72 | [grigio/llm-eval-simple](https://github.com/grigio/llm-eval-simple) | 69 | Python | 2026-02-28 | llm-eval-simple is a simple LLM evaluation framework with intermediate actions and prompt pattern selection |
+| 72 | [grigio/llm-eval-simple](https://github.com/grigio/llm-eval-simple) | 70 | Python | 2026-02-28 | llm-eval-simple is a simple LLM evaluation framework with intermediate actions and prompt pattern selection |
 | 73 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 92 | Shell | 2026-02-27 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
 | 74 | [paradime-io/dbt-llm-evals](https://github.com/paradime-io/dbt-llm-evals) | 28 | Python | 2026-02-10 | The warehouse-native LLM evaluation package for dbt™ - monitor AI quality without data egress |
 | 75 | [Striveworks/valor](https://github.com/Striveworks/valor) | 41 | Python | 2026-02-09 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
