@@ -1,10 +1,19 @@
 [
   {
+    "description": "Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers \u2014 CLI + library with s",
+    "id": "Ayubjon/refusal-radar",
+    "language": "JavaScript",
+    "name": "Ayubjon/refusal-radar",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:14:56Z",
+    "url": "https://github.com/Ayubjon/refusal-radar"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22401,
+    "stars": 22402,
     "updated_at": "2026-06-20T12:04:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -889,14 +898,5 @@
     "stars": 5,
     "updated_at": "2024-11-27T03:58:03Z",
     "url": "https://github.com/harlev/eva-l"
-  },
-  {
-    "description": "LLM Security Platform.",
-    "id": "genia-dev/vibraniumdome",
-    "language": "Python",
-    "name": "genia-dev/vibraniumdome",
-    "stars": 28,
-    "updated_at": "2024-10-28T16:16:04Z",
-    "url": "https://github.com/genia-dev/vibraniumdome"
   }
 ]
