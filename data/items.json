@@ -1,5 +1,23 @@
 [
   {
+    "description": "An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha",
+    "id": "kilocommits/campaign-eval-harness",
+    "language": "Python",
+    "name": "kilocommits/campaign-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-20T18:27:11Z",
+    "url": "https://github.com/kilocommits/campaign-eval-harness"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10213,
+    "updated_at": "2026-06-20T18:26:28Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
     "id": "ozlar34/job-match-radar",
     "language": "Python",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:01:13Z",
     "url": "https://github.com/ramenprotokol/hallucination-hunter"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10213,
-    "updated_at": "2026-06-20T05:49:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -889,14 +898,5 @@
     "stars": 4,
     "updated_at": "2025-01-17T03:57:21Z",
     "url": "https://github.com/parea-ai/parea-sdk-ts"
-  },
-  {
-    "description": "Community Plugin for Genkit to use Promptfoo",
-    "id": "yukinagae/genkitx-promptfoo",
-    "language": "TypeScript",
-    "name": "yukinagae/genkitx-promptfoo",
-    "stars": 7,
-    "updated_at": "2025-01-03T15:03:39Z",
-    "url": "https://github.com/yukinagae/genkitx-promptfoo"
   }
 ]
