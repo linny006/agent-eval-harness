@@ -1,5 +1,14 @@
 [
   {
+    "description": "A forkable example of the human-in-the-loop model-improvement loop: AI generates, humans judge via the Terac MCP, you im",
+    "id": "TeracAI/svg-arena",
+    "language": "TypeScript",
+    "name": "TeracAI/svg-arena",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:02:59Z",
+    "url": "https://github.com/TeracAI/svg-arena"
+  },
+  {
     "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
     "id": "lokesh75-kank/agenteval",
     "language": "TypeScript",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2025-03-24T20:26:16Z",
     "url": "https://github.com/daqh/llm-eval"
-  },
-  {
-    "description": "Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23)",
-    "id": "parea-ai/parea-sdk-py",
-    "language": "Python",
-    "name": "parea-ai/parea-sdk-py",
-    "stars": 82,
-    "updated_at": "2025-02-13T14:48:37Z",
-    "url": "https://github.com/parea-ai/parea-sdk-py"
   }
 ]
