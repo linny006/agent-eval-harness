@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
+    "id": "ozlar34/job-match-radar",
+    "language": "Python",
+    "name": "ozlar34/job-match-radar",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:55:38Z",
+    "url": "https://github.com/ozlar34/job-match-radar"
+  },
+  {
+    "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
+    "id": "TheAnacondA57/BidAgent",
+    "language": "\u2014",
+    "name": "TheAnacondA57/BidAgent",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:46:34Z",
+    "url": "https://github.com/TheAnacondA57/BidAgent"
+  },
+  {
     "description": "Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers \u2014 CLI + library with s",
     "id": "Ayubjon/refusal-radar",
     "language": "JavaScript",
@@ -880,23 +898,5 @@
     "stars": 7,
     "updated_at": "2025-01-03T15:03:39Z",
     "url": "https://github.com/yukinagae/genkitx-promptfoo"
-  },
-  {
-    "description": "Realign is a testing and simulation framework for AI applications.",
-    "id": "honeyhiveai/realign",
-    "language": "Python",
-    "name": "honeyhiveai/realign",
-    "stars": 19,
-    "updated_at": "2024-12-04T17:41:19Z",
-    "url": "https://github.com/honeyhiveai/realign"
-  },
-  {
-    "description": "LLM Evaluation Framework",
-    "id": "harlev/eva-l",
-    "language": "Python",
-    "name": "harlev/eva-l",
-    "stars": 5,
-    "updated_at": "2024-11-27T03:58:03Z",
-    "url": "https://github.com/harlev/eva-l"
   }
 ]
