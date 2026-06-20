@@ -1,5 +1,14 @@
 [
   {
+    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
+    "id": "lokesh75-kank/agenteval",
+    "language": "TypeScript",
+    "name": "lokesh75-kank/agenteval",
+    "stars": 0,
+    "updated_at": "2026-06-20T21:43:02Z",
+    "url": "https://github.com/lokesh75-kank/agenteval"
+  },
+  {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
     "id": "ozlar34/job-match-radar",
     "language": "Python",
@@ -77,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 310,
-    "updated_at": "2026-06-20T20:42:23Z",
+    "updated_at": "2026-06-20T21:39:06Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 82,
     "updated_at": "2025-02-13T14:48:37Z",
     "url": "https://github.com/parea-ai/parea-sdk-py"
-  },
-  {
-    "description": "TypeScript SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23)",
-    "id": "parea-ai/parea-sdk-ts",
-    "language": "TypeScript",
-    "name": "parea-ai/parea-sdk-ts",
-    "stars": 4,
-    "updated_at": "2025-01-17T03:57:21Z",
-    "url": "https://github.com/parea-ai/parea-sdk-ts"
   }
 ]
