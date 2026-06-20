@@ -1,5 +1,14 @@
 [
   {
+    "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
+    "id": "ramenprotokol/hallucination-hunter",
+    "language": "Python",
+    "name": "ramenprotokol/hallucination-hunter",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:01:13Z",
+    "url": "https://github.com/ramenprotokol/hallucination-hunter"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 28,
     "updated_at": "2024-10-28T16:16:04Z",
     "url": "https://github.com/genia-dev/vibraniumdome"
-  },
-  {
-    "description": "Code for \"Prediction-Powered Ranking of Large Language Models\", NeurIPS 2024.",
-    "id": "Human-Centric-Machine-Learning/prediction-powered-ranking",
-    "language": "Jupyter Notebook",
-    "name": "Human-Centric-Machine-Learning/prediction-powered-ranking",
-    "stars": 9,
-    "updated_at": "2024-10-28T10:35:13Z",
-    "url": "https://github.com/Human-Centric-Machine-Learning/prediction-powered-ranking"
   }
 ]
