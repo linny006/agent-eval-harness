@@ -1,5 +1,14 @@
 [
   {
+    "description": "NL\u2192SQL multi-agent pipeline (LangGraph + Claude) with deterministic SQL-injection guardrails and golden-set eval.",
+    "id": "jmpei/nl2sql-agents",
+    "language": "Python",
+    "name": "jmpei/nl2sql-agents",
+    "stars": 0,
+    "updated_at": "2026-06-21T18:14:07Z",
+    "url": "https://github.com/jmpei/nl2sql-agents"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -889,14 +898,5 @@
     "stars": 8,
     "updated_at": "2025-05-06T09:43:34Z",
     "url": "https://github.com/pyladiesams/eval-llm-based-apps-jan2025"
-  },
-  {
-    "description": "This project applies the LLM-Eval framework to the PersonaChat dataset to assess response quality in a conversational co",
-    "id": "daqh/llm-eval",
-    "language": "Python",
-    "name": "daqh/llm-eval",
-    "stars": 0,
-    "updated_at": "2025-03-24T20:26:16Z",
-    "url": "https://github.com/daqh/llm-eval"
   }
 ]
