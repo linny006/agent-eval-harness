@@ -1,5 +1,14 @@
 [
   {
+    "description": "Tool-using ReAct + RAG agent (enterprise assistant) with a built-in evaluation harness scoring accuracy, tool selection,",
+    "id": "RaphaelFakhri/reagent",
+    "language": "Python",
+    "name": "RaphaelFakhri/reagent",
+    "stars": 0,
+    "updated_at": "2026-06-24T13:55:06Z",
+    "url": "https://github.com/RaphaelFakhri/reagent"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -31,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22545,
+    "stars": 22546,
     "updated_at": "2026-06-24T12:19:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -889,14 +898,5 @@
     "stars": 300,
     "updated_at": "2025-06-06T15:54:38Z",
     "url": "https://github.com/athina-ai/athina-evals"
-  },
-  {
-    "description": "",
-    "id": "amplifying-ai/ai-product-bench",
-    "language": "HTML",
-    "name": "amplifying-ai/ai-product-bench",
-    "stars": 23,
-    "updated_at": "2025-05-27T17:57:23Z",
-    "url": "https://github.com/amplifying-ai/ai-product-bench"
   }
 ]
