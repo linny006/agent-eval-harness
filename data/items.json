@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agent eval harness \u2014 measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau",
+    "id": "tkarim45/agent-eval-harness",
+    "language": "Python",
+    "name": "tkarim45/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-24T07:31:20Z",
+    "url": "https://github.com/tkarim45/agent-eval-harness"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22531,
+    "updated_at": "2026-06-24T07:27:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10257,
-    "updated_at": "2026-06-24T07:28:12Z",
+    "updated_at": "2026-06-24T07:39:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22530,
-    "updated_at": "2026-06-24T07:27:48Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2025-05-17T00:54:08Z",
     "url": "https://github.com/regankight/mirror-model-eval-tests"
-  },
-  {
-    "description": "Create an evaluation framework for your LLM based app. Incorporate it into your test suite. Lay the monitoring foundatio",
-    "id": "pyladiesams/eval-llm-based-apps-jan2025",
-    "language": "Jupyter Notebook",
-    "name": "pyladiesams/eval-llm-based-apps-jan2025",
-    "stars": 8,
-    "updated_at": "2025-05-06T09:43:34Z",
-    "url": "https://github.com/pyladiesams/eval-llm-based-apps-jan2025"
   }
 ]
