@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10262,
+    "updated_at": "2026-06-24T15:36:06Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T13:34:42Z",
     "url": "https://github.com/bhavya7995/AI_governance"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10261,
-    "updated_at": "2026-06-24T15:36:06Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -151,6 +151,15 @@
     "stars": 3,
     "updated_at": "2026-06-22T19:25:20Z",
     "url": "https://github.com/ahwurm/localshift"
+  },
+  {
+    "description": "Evaluation for AI agents \u2014 judge-based scoring and native RAG metrics (faithfulness, relevancy, context precision/recall",
+    "id": "gashel01/evalmcp",
+    "language": "Python",
+    "name": "gashel01/evalmcp",
+    "stars": 0,
+    "updated_at": "2026-06-22T18:58:45Z",
+    "url": "https://github.com/gashel01/evalmcp"
   },
   {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
@@ -889,14 +898,5 @@
     "stars": 38,
     "updated_at": "2025-07-18T11:50:10Z",
     "url": "https://github.com/alan-turing-institute/prompto"
-  },
-  {
-    "description": "Python SDK for running evaluations on LLM generated responses",
-    "id": "athina-ai/athina-evals",
-    "language": "Python",
-    "name": "athina-ai/athina-evals",
-    "stars": 300,
-    "updated_at": "2025-06-06T15:54:38Z",
-    "url": "https://github.com/athina-ai/athina-evals"
   }
 ]
