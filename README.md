@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-29 07:45 UTC
+> ⏰ Last updated: 2026-06-29 08:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-29 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 2 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-29 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 3 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-29 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22711 | TypeScript | 2026-06-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 5 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 313 | TypeScript | 2026-06-29 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 6 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-29 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 7 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-29 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
-| 8 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5472 | Python | 2026-06-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 9 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-28 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 10 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | Python | 2026-06-28 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
-| 11 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10316 | Python | 2026-06-28 | AI Observability & Evaluation |
-| 12 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-06-28 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
-| 13 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-26 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
-| 14 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-06-29 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 15 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-26 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
-| 16 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-06-26 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
-| 17 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-06-26 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
+| 1 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-06-29 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
+| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-29 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 3 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-29 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 4 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-29 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 5 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22712 | TypeScript | 2026-06-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 313 | TypeScript | 2026-06-29 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 7 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-29 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 8 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-29 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
+| 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5474 | Python | 2026-06-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 10 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 0 | TypeScript | 2026-06-28 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 11 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | Python | 2026-06-28 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
+| 12 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10316 | Python | 2026-06-28 | AI Observability & Evaluation |
+| 13 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 1 | Python | 2026-06-28 | Measure MLX quantization quality loss — KL divergence, perplexity, top-token agreement for KV cache and weights |
+| 14 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 1 | Ruby | 2026-06-26 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 15 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-06-29 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 16 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-06-26 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
+| 17 | [multivon-ai/multivon-eval](https://github.com/multivon-ai/multivon-eval) | 8 | Python | 2026-06-26 | Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI |
 | 18 | [G59-Toneli/dataset-eval-skill](https://github.com/G59-Toneli/dataset-eval-skill) | 0 | JavaScript | 2026-06-25 | A Claude skill for building golden sets to test AI systems — matching, RAG, LLM-as-judge — without false greens. |
 | 19 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 10 | Python | 2026-06-25 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 20 | [thewonderofyou777z-dot/tjoe-reviewkit](https://github.com/thewonderofyou777z-dot/tjoe-reviewkit) | 0 | Python | 2026-06-25 | TjoeReviewKit：tjoe 的本地离线工作流复盘检查工具；不运行任务、不联网、不接管工具调用、不采集生产日志 |
@@ -111,37 +111,37 @@ expired items removed — so you can rely on what you see being current.
 | 67 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 0 | Python | 2026-05-10 | RAG eval pipeline on Apple's FY 2024 10-K — found confident hallucinations, filed a metric-level bug in DeepEval, and bu |
 | 68 | [Ruthwik-Data/self-improving-prompt-agent](https://github.com/Ruthwik-Data/self-improving-prompt-agent) | 0 | Python | 2026-05-10 | Prompt optimization loop that improves prompts through iterative mutation and LLM-as-judge evaluation. Score went 0.10 → |
 | 69 | [SAY-5/genai-eval](https://github.com/SAY-5/genai-eval) | 0 | Python | 2026-05-07 | Multilingual GenAI evaluation service across 5 task types and 3 languages, with regression-trend dashboard |
-| 70 | [HumphreySun98/repoagentbench](https://github.com/HumphreySun98/repoagentbench) | 32 | Python | 2026-04-30 | SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: cla |
-| 71 | [YagneshKhamar/phasio](https://github.com/YagneshKhamar/phasio) | 0 | TypeScript | 2026-04-29 | Jest-style testing for LLM prompts. Version prompts, run evals across OpenAI and Anthropic, catch regressions in CI. |
-| 72 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-06-24 | Handwritten Text Recognition llm eval tool |
-| 73 | [JSLEEKR/evaltrack](https://github.com/JSLEEKR/evaltrack) | 0 | TypeScript | 2026-04-24 | Local-first regression and trend CLI for promptfoo eval histories — the git log + git diff for LLM eval outputs. |
-| 74 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-04-21 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
-| 75 | [arthursoares/openclaw-llm-bench](https://github.com/arthursoares/openclaw-llm-bench) | 2 | Python | 2026-04-11 | A reasoning benchmark runner for comparing LLMs as OpenClaw agents use them. 52 prompts, 3 eval sets, 11 traps, LLM-as-j |
-| 76 | [YuanyangLiNEU/mini-claude](https://github.com/YuanyangLiNEU/mini-claude) | 0 | TypeScript | 2026-04-11 | A minimal Claude Code built from scratch — agent loop, tool calling, web search, permissions, and a black-box LLM eval h |
-| 77 | [webrenew/models-dilemma](https://github.com/webrenew/models-dilemma) | 4 | TypeScript | 2026-04-08 | The Prisoner's Dilemma played by LLMs |
-| 78 | [AdirAmsalem/openclaw-eval](https://github.com/AdirAmsalem/openclaw-eval) | 0 | Python | 2026-03-31 | Compare OpenClaw setups against the same scenario suite. Run prompts across multiple configurations, capture answers, la |
-| 79 | [Data-ScienceTech/forcefield](https://github.com/Data-ScienceTech/forcefield) | 1 | Python | 2026-03-30 | ForceField Python SDK -- AI security in 3 lines of code. Prompt injection detection, PII redaction, security evals, tool |
-| 80 | [klausners/prompt-optimizer](https://github.com/klausners/prompt-optimizer) | 0 | TypeScript | 2026-03-26 | Config-driven CLI that runs promptfoo evals, identifies low-scoring prompts, rewrites them via Claude API, and re-evalua |
-| 81 | [Aysnc-Labs/llm-eval](https://github.com/Aysnc-Labs/llm-eval) | 1 | PHP | 2026-03-20 | A PHP package for evaluating LLM outputs. Test your prompts, validate responses, and ensure your AI features work correc |
-| 82 | [asarnaout/veritail](https://github.com/asarnaout/veritail) | 6 | Python | 2026-03-15 | LLM-as-a-Judge evaluation platform for ecommerce search. Scores relevance, computes IR metrics, and flags quality issues |
-| 83 | [vola-trebla/llm-infrastructure](https://github.com/vola-trebla/llm-infrastructure) | 0 | — | 2026-03-14 | Full-stack AI infrastructure - 5 projects from data ingestion to autonomous agents |
-| 84 | [whitecircle/circle-guard-bench](https://github.com/whitecircle/circle-guard-bench) | 70 | Python | 2026-03-07 | First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (g |
-| 85 | [tpertner/squeeze](https://github.com/tpertner/squeeze) | 5 | Python | 2026-03-01 | Squeeze your model with pressure prompts to see if its behavior leaks.  |
-| 86 | [grigio/llm-eval-simple](https://github.com/grigio/llm-eval-simple) | 70 | Python | 2026-02-28 | llm-eval-simple is a simple LLM evaluation framework with intermediate actions and prompt pattern selection |
-| 87 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 93 | Shell | 2026-02-27 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
-| 88 | [paradime-io/dbt-llm-evals](https://github.com/paradime-io/dbt-llm-evals) | 29 | Python | 2026-02-10 | The warehouse-native LLM evaluation package for dbt™ - monitor AI quality without data egress |
-| 89 | [Striveworks/valor](https://github.com/Striveworks/valor) | 41 | Python | 2026-02-09 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
-| 90 | [TADSTech/llm-output-grader](https://github.com/TADSTech/llm-output-grader) | 0 | Python | 2026-01-24 | systematic llm grading |
-| 91 | [3ahmood/Agentic-Author-CrewAI](https://github.com/3ahmood/Agentic-Author-CrewAI) | 1 | Jupyter Notebook | 2026-01-15 | On device autonomous research and content writing using open-sourced LLMs and Crew AI. |
-| 92 | [Supahands/llm-comparison-backend](https://github.com/Supahands/llm-comparison-backend) | 22 | Python | 2026-01-13 | This is an opensource project allowing you to compare two LLM's head to head with a given prompt, this section will be r |
-| 93 | [thedataquarry/structured-outputs](https://github.com/thedataquarry/structured-outputs) | 28 | Python | 2025-12-23 | Structured output benchmarks comparing DSPy and BAML with different LLMs |
-| 94 | [higuseonhye/worldsim-eval](https://github.com/higuseonhye/worldsim-eval) | 0 | — | 2025-12-20 | Evaluate AI agents by simulating world-level consequences. |
-| 95 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 6 | Python | 2025-11-28 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
-| 96 | [IAAR-Shanghai/GuessArena](https://github.com/IAAR-Shanghai/GuessArena) | 10 | Python | 2025-11-15 | [ACL 2025] GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Re |
-| 97 | [artefactop/promptdev](https://github.com/artefactop/promptdev) | 2 | Python | 2025-09-22 | A prompt evaluation framework that provides comprehensive testing for AI agents across multiple providers. |
-| 98 | [multinear/multinear](https://github.com/multinear/multinear) | 45 | Python | 2025-09-02 | Develop reliable AI apps |
-| 99 | [attogram/ollama-multirun](https://github.com/attogram/ollama-multirun) | 16 | Shell | 2025-08-30 | Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat |
-| 100 | [khoj-ai/llm-coup](https://github.com/khoj-ai/llm-coup) | 14 | TypeScript | 2025-08-18 | Let LLMs play coup with each other and see who's the best at deception & strategy |
+| 70 | [advitrocks9/java2kotlin-eval](https://github.com/advitrocks9/java2kotlin-eval) | 0 | Kotlin | 2026-05-05 | headless Java→Kotlin converter pipeline -- IntelliJ plugin + Kotlin eval harness |
+| 71 | [HumphreySun98/repoagentbench](https://github.com/HumphreySun98/repoagentbench) | 32 | Python | 2026-04-30 | SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: cla |
+| 72 | [YagneshKhamar/phasio](https://github.com/YagneshKhamar/phasio) | 0 | TypeScript | 2026-04-29 | Jest-style testing for LLM prompts. Version prompts, run evals across OpenAI and Anthropic, catch regressions in CI. |
+| 73 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-06-24 | Handwritten Text Recognition llm eval tool |
+| 74 | [JSLEEKR/evaltrack](https://github.com/JSLEEKR/evaltrack) | 0 | TypeScript | 2026-04-24 | Local-first regression and trend CLI for promptfoo eval histories — the git log + git diff for LLM eval outputs. |
+| 75 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-04-21 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
+| 76 | [arthursoares/openclaw-llm-bench](https://github.com/arthursoares/openclaw-llm-bench) | 2 | Python | 2026-04-11 | A reasoning benchmark runner for comparing LLMs as OpenClaw agents use them. 52 prompts, 3 eval sets, 11 traps, LLM-as-j |
+| 77 | [YuanyangLiNEU/mini-claude](https://github.com/YuanyangLiNEU/mini-claude) | 0 | TypeScript | 2026-04-11 | A minimal Claude Code built from scratch — agent loop, tool calling, web search, permissions, and a black-box LLM eval h |
+| 78 | [webrenew/models-dilemma](https://github.com/webrenew/models-dilemma) | 4 | TypeScript | 2026-04-08 | The Prisoner's Dilemma played by LLMs |
+| 79 | [AdirAmsalem/openclaw-eval](https://github.com/AdirAmsalem/openclaw-eval) | 0 | Python | 2026-03-31 | Compare OpenClaw setups against the same scenario suite. Run prompts across multiple configurations, capture answers, la |
+| 80 | [Data-ScienceTech/forcefield](https://github.com/Data-ScienceTech/forcefield) | 1 | Python | 2026-03-30 | ForceField Python SDK -- AI security in 3 lines of code. Prompt injection detection, PII redaction, security evals, tool |
+| 81 | [klausners/prompt-optimizer](https://github.com/klausners/prompt-optimizer) | 0 | TypeScript | 2026-03-26 | Config-driven CLI that runs promptfoo evals, identifies low-scoring prompts, rewrites them via Claude API, and re-evalua |
+| 82 | [Aysnc-Labs/llm-eval](https://github.com/Aysnc-Labs/llm-eval) | 1 | PHP | 2026-03-20 | A PHP package for evaluating LLM outputs. Test your prompts, validate responses, and ensure your AI features work correc |
+| 83 | [asarnaout/veritail](https://github.com/asarnaout/veritail) | 6 | Python | 2026-03-15 | LLM-as-a-Judge evaluation platform for ecommerce search. Scores relevance, computes IR metrics, and flags quality issues |
+| 84 | [vola-trebla/llm-infrastructure](https://github.com/vola-trebla/llm-infrastructure) | 0 | — | 2026-03-14 | Full-stack AI infrastructure - 5 projects from data ingestion to autonomous agents |
+| 85 | [whitecircle/circle-guard-bench](https://github.com/whitecircle/circle-guard-bench) | 70 | Python | 2026-03-07 | First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (g |
+| 86 | [tpertner/squeeze](https://github.com/tpertner/squeeze) | 5 | Python | 2026-03-01 | Squeeze your model with pressure prompts to see if its behavior leaks.  |
+| 87 | [grigio/llm-eval-simple](https://github.com/grigio/llm-eval-simple) | 70 | Python | 2026-02-28 | llm-eval-simple is a simple LLM evaluation framework with intermediate actions and prompt pattern selection |
+| 88 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 93 | Shell | 2026-02-27 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
+| 89 | [paradime-io/dbt-llm-evals](https://github.com/paradime-io/dbt-llm-evals) | 29 | Python | 2026-02-10 | The warehouse-native LLM evaluation package for dbt™ - monitor AI quality without data egress |
+| 90 | [Striveworks/valor](https://github.com/Striveworks/valor) | 41 | Python | 2026-02-09 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
+| 91 | [TADSTech/llm-output-grader](https://github.com/TADSTech/llm-output-grader) | 0 | Python | 2026-01-24 | systematic llm grading |
+| 92 | [3ahmood/Agentic-Author-CrewAI](https://github.com/3ahmood/Agentic-Author-CrewAI) | 1 | Jupyter Notebook | 2026-01-15 | On device autonomous research and content writing using open-sourced LLMs and Crew AI. |
+| 93 | [Supahands/llm-comparison-backend](https://github.com/Supahands/llm-comparison-backend) | 22 | Python | 2026-01-13 | This is an opensource project allowing you to compare two LLM's head to head with a given prompt, this section will be r |
+| 94 | [thedataquarry/structured-outputs](https://github.com/thedataquarry/structured-outputs) | 28 | Python | 2025-12-23 | Structured output benchmarks comparing DSPy and BAML with different LLMs |
+| 95 | [higuseonhye/worldsim-eval](https://github.com/higuseonhye/worldsim-eval) | 0 | — | 2025-12-20 | Evaluate AI agents by simulating world-level consequences. |
+| 96 | [yukincom/llm-SugarScape](https://github.com/yukincom/llm-SugarScape) | 6 | Python | 2025-11-28 | Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in |
+| 97 | [IAAR-Shanghai/GuessArena](https://github.com/IAAR-Shanghai/GuessArena) | 10 | Python | 2025-11-15 | [ACL 2025] GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Re |
+| 98 | [artefactop/promptdev](https://github.com/artefactop/promptdev) | 2 | Python | 2025-09-22 | A prompt evaluation framework that provides comprehensive testing for AI agents across multiple providers. |
+| 99 | [multinear/multinear](https://github.com/multinear/multinear) | 45 | Python | 2025-09-02 | Develop reliable AI apps |
+| 100 | [attogram/ollama-multirun](https://github.com/attogram/ollama-multirun) | 16 | Shell | 2025-08-30 | Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat |
 <!-- TRACKER_TABLE_END -->
 
 ---
