@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-29 17:30 UTC
+> ⏰ Last updated: 2026-06-29 17:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,7 +49,7 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-29 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-06-29 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-06-29 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22731 | TypeScript | 2026-06-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 8 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22732 | TypeScript | 2026-06-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 9 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5477 | Python | 2026-06-29 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 10 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-06-29 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
 | 11 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 0 | Python | 2026-06-29 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
@@ -114,7 +114,7 @@ expired items removed — so you can rely on what you see being current.
 | 70 | [advitrocks9/java2kotlin-eval](https://github.com/advitrocks9/java2kotlin-eval) | 0 | Kotlin | 2026-05-05 | headless Java→Kotlin converter pipeline -- IntelliJ plugin + Kotlin eval harness |
 | 71 | [HumphreySun98/repoagentbench](https://github.com/HumphreySun98/repoagentbench) | 32 | Python | 2026-04-30 | SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: cla |
 | 72 | [YagneshKhamar/phasio](https://github.com/YagneshKhamar/phasio) | 0 | TypeScript | 2026-04-29 | Jest-style testing for LLM prompts. Version prompts, run evals across OpenAI and Anthropic, catch regressions in CI. |
-| 73 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-06-24 | Handwritten Text Recognition llm eval tool |
+| 73 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-06-29 | Handwritten Text Recognition llm eval tool |
 | 74 | [JSLEEKR/evaltrack](https://github.com/JSLEEKR/evaltrack) | 0 | TypeScript | 2026-04-24 | Local-first regression and trend CLI for promptfoo eval histories — the git log + git diff for LLM eval outputs. |
 | 75 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-04-21 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 76 | [arthursoares/openclaw-llm-bench](https://github.com/arthursoares/openclaw-llm-bench) | 2 | Python | 2026-04-11 | A reasoning benchmark runner for comparing LLMs as OpenClaw agents use them. 52 prompts, 3 eval sets, 11 traps, LLM-as-j |
