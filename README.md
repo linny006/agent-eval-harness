@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-29 14:15 UTC
+> ⏰ Last updated: 2026-06-29 14:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10319 | Python | 2026-06-29 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10321 | Python | 2026-06-29 | AI Observability & Evaluation |
 | 2 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-06-29 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-06-29 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22725 | TypeScript | 2026-06-29 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
@@ -95,7 +95,7 @@ expired items removed — so you can rely on what you see being current.
 | 51 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 38 | Python | 2026-06-29 | An graph-eval framework for LLM's  |
 | 52 | [thestio/thest-eval](https://github.com/thestio/thest-eval) | 0 | Python | 2026-06-02 | The CI regression gate and governance-evidence layer for LLM systems — zero-dependency, vendor-neutral, offline. |
 | 53 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
-| 54 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 68 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
+| 54 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 69 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
 | 55 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-05-27 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
 | 56 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-05-27 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
 | 57 | [sanya2025/edututor-eval](https://github.com/sanya2025/edututor-eval) | 0 | Python | 2026-05-21 | A lightweight evaluation framework for AI tutoring responses, built for education-focused LLM systems |
