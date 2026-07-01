@@ -1,5 +1,14 @@
 [
   {
+    "description": "Empirical study of evaluation robustness in large language models. Compares benchmark style evaluation prompts with real",
+    "id": "hydrangeas20/safetylens",
+    "language": "\u2014",
+    "name": "hydrangeas20/safetylens",
+    "stars": 0,
+    "updated_at": "2026-07-01T05:58:00Z",
+    "url": "https://github.com/hydrangeas20/safetylens"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 0,
-    "updated_at": "2026-07-01T05:33:07Z",
+    "updated_at": "2026-07-01T05:55:47Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
@@ -535,7 +544,7 @@
     "id": "Alexanderk30/context-override-resistance",
     "language": "Python",
     "name": "Alexanderk30/context-override-resistance",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-05-19T20:52:54Z",
     "url": "https://github.com/Alexanderk30/context-override-resistance"
   },
@@ -889,14 +898,5 @@
     "stars": 10,
     "updated_at": "2025-11-15T09:30:20Z",
     "url": "https://github.com/IAAR-Shanghai/GuessArena"
-  },
-  {
-    "description": "A prompt evaluation framework that provides comprehensive testing for AI agents across multiple providers.",
-    "id": "artefactop/promptdev",
-    "language": "Python",
-    "name": "artefactop/promptdev",
-    "stars": 2,
-    "updated_at": "2025-09-22T19:55:14Z",
-    "url": "https://github.com/artefactop/promptdev"
   }
 ]
