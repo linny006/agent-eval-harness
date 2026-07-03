@@ -1,5 +1,14 @@
 [
   {
+    "description": "pytest for LLMs that isn't flaky \u2014 statistically rigorous eval verdicts (Wilson CI + significance-tested regression gate",
+    "id": "nikolas-sapa/sigeval",
+    "language": "Python",
+    "name": "nikolas-sapa/sigeval",
+    "stars": 0,
+    "updated_at": "2026-07-03T08:55:17Z",
+    "url": "https://github.com/nikolas-sapa/sigeval"
+  },
+  {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
     "id": "saddled-panicattack529/idea-evaluation-pipeline",
     "language": "\u2014",
@@ -40,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22873,
+    "stars": 22874,
     "updated_at": "2026-07-03T04:31:02Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -889,14 +898,5 @@
     "stars": 6,
     "updated_at": "2025-11-28T14:42:32Z",
     "url": "https://github.com/yukincom/llm-SugarScape"
-  },
-  {
-    "description": "[ACL 2025] GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Re",
-    "id": "IAAR-Shanghai/GuessArena",
-    "language": "Python",
-    "name": "IAAR-Shanghai/GuessArena",
-    "stars": 10,
-    "updated_at": "2025-11-15T09:30:20Z",
-    "url": "https://github.com/IAAR-Shanghai/GuessArena"
   }
 ]
