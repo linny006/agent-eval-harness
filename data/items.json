@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 22905,
-    "updated_at": "2026-07-04T11:36:26Z",
+    "updated_at": "2026-07-04T11:49:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -196,15 +196,6 @@
     "stars": 3414,
     "updated_at": "2026-06-30T15:16:55Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Codex eval plugin for auditing cancel-recovery replacement-product exposure policies.",
-    "id": "Merchantlee99/myrealtrip-cancel-recovery-eval",
-    "language": "Python",
-    "name": "Merchantlee99/myrealtrip-cancel-recovery-eval",
-    "stars": 0,
-    "updated_at": "2026-06-30T12:20:42Z",
-    "url": "https://github.com/Merchantlee99/myrealtrip-cancel-recovery-eval"
   },
   {
     "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
@@ -898,5 +889,14 @@
     "stars": 28,
     "updated_at": "2025-12-23T13:58:42Z",
     "url": "https://github.com/thedataquarry/structured-outputs"
+  },
+  {
+    "description": "Evaluate AI agents by simulating world-level consequences.",
+    "id": "higuseonhye/worldsim-eval",
+    "language": "\u2014",
+    "name": "higuseonhye/worldsim-eval",
+    "stars": 0,
+    "updated_at": "2025-12-20T04:56:02Z",
+    "url": "https://github.com/higuseonhye/worldsim-eval"
   }
 ]
