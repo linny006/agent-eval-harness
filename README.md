@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-04 09:00 UTC
+> ⏰ Last updated: 2026-07-04 09:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -120,7 +120,7 @@ expired items removed — so you can rely on what you see being current.
 | 76 | [advitrocks9/java2kotlin-eval](https://github.com/advitrocks9/java2kotlin-eval) | 0 | Kotlin | 2026-05-05 | headless Java→Kotlin converter pipeline -- IntelliJ plugin + Kotlin eval harness |
 | 77 | [HumphreySun98/repoagentbench](https://github.com/HumphreySun98/repoagentbench) | 31 | Python | 2026-04-30 | SWE-bench for your codebase — mine your merged PRs into local, contamination-free coding-agent benchmarks. Adapters: cla |
 | 78 | [YagneshKhamar/phasio](https://github.com/YagneshKhamar/phasio) | 0 | TypeScript | 2026-04-29 | Jest-style testing for LLM prompts. Version prompts, run evals across OpenAI and Anthropic, catch regressions in CI. |
-| 79 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-06-30 | Handwritten Text Recognition llm eval tool |
+| 79 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-07-04 | Handwritten Text Recognition llm eval tool |
 | 80 | [JSLEEKR/evaltrack](https://github.com/JSLEEKR/evaltrack) | 0 | TypeScript | 2026-04-24 | Local-first regression and trend CLI for promptfoo eval histories — the git log + git diff for LLM eval outputs. |
 | 81 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-04-21 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
 | 82 | [arthursoares/openclaw-llm-bench](https://github.com/arthursoares/openclaw-llm-bench) | 2 | Python | 2026-04-11 | A reasoning benchmark runner for comparing LLMs as OpenClaw agents use them. 52 prompts, 3 eval sets, 11 traps, LLM-as-j |
