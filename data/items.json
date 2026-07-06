@@ -1,5 +1,23 @@
 [
   {
+    "description": "An graph-eval framework for LLM's ",
+    "id": "harnexa/nexa-gauge",
+    "language": "Python",
+    "name": "harnexa/nexa-gauge",
+    "stars": 38,
+    "updated_at": "2026-07-06T01:00:06Z",
+    "url": "https://github.com/harnexa/nexa-gauge"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10408,
+    "updated_at": "2026-07-06T00:46:35Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -45,15 +63,6 @@
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10407,
-    "updated_at": "2026-07-06T00:27:37Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
     "id": "valbaudo/awf",
     "language": "Go",
@@ -76,7 +85,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 22943,
+    "stars": 22942,
     "updated_at": "2026-07-05T14:11:12Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -130,7 +139,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5491,
+    "stars": 5492,
     "updated_at": "2026-07-03T13:32:42Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -493,15 +502,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T17:16:47Z",
     "url": "https://github.com/Victor-David-Medina/llm-eval-harness"
-  },
-  {
-    "description": "An graph-eval framework for LLM's ",
-    "id": "harnexa/nexa-gauge",
-    "language": "Python",
-    "name": "harnexa/nexa-gauge",
-    "stars": 38,
-    "updated_at": "2026-07-01T05:40:33Z",
-    "url": "https://github.com/harnexa/nexa-gauge"
   },
   {
     "description": "The CI regression gate and governance-evidence layer for LLM systems \u2014 zero-dependency, vendor-neutral, offline.",
