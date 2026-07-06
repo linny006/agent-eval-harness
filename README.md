@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-06 11:30 UTC
+> ⏰ Last updated: 2026-07-06 11:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -47,7 +47,7 @@ expired items removed — so you can rely on what you see being current.
 | 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-07-06 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 4 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-07-06 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
 | 5 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-07-06 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22961 | TypeScript | 2026-07-06 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 6 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 22963 | TypeScript | 2026-07-06 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 7 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5494 | Python | 2026-07-06 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 316 | TypeScript | 2026-07-06 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 9 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-07-06 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
@@ -109,7 +109,7 @@ expired items removed — so you can rely on what you see being current.
 | 65 | [GiuseppeSp/n8n-customer-interview-synthesizer](https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer) | 0 | — | 2026-05-19 | Multi-agent customer-interview synthesis pipeline in n8n with LLM-as-judge eval, Slack human-in-the-loop approval, and d |
 | 66 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-05-16 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
 | 67 | [verifywise-ai/plugin-marketplace](https://github.com/verifywise-ai/plugin-marketplace) | 3 | TypeScript | 2026-05-15 | VerifyWise AI Governance Plugin Marketplace |
-| 68 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1154 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
+| 68 | [AI-QL/tuui](https://github.com/AI-QL/tuui) | 1153 | TypeScript | 2026-05-14 | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context  |
 | 69 | [prompt-foundry/typescript-sdk](https://github.com/prompt-foundry/typescript-sdk) | 6 | TypeScript | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for TypeScript, JavaScript, and NodeJS. |
 | 70 | [prompt-foundry/python-sdk](https://github.com/prompt-foundry/python-sdk) | 8 | Python | 2026-05-13 | The prompt engineering, prompt management, and prompt evaluation tool for Python |
 | 71 | [Ruthwik-Data/mechanictrust](https://github.com/Ruthwik-Data/mechanictrust) | 0 | — | 2026-05-11 | AI product case study for trust, pricing transparency, and explainable diagnosis in auto repair. |
