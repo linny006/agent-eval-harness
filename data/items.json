@@ -1,11 +1,20 @@
 [
   {
+    "description": "Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c",
+    "id": "ContextJet-ai/skillvitals",
+    "language": "Python",
+    "name": "ContextJet-ai/skillvitals",
+    "stars": 0,
+    "updated_at": "2026-07-06T05:44:06Z",
+    "url": "https://github.com/ContextJet-ai/skillvitals"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10410,
-    "updated_at": "2026-07-06T05:17:33Z",
+    "updated_at": "2026-07-06T05:33:45Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2025-12-20T04:56:02Z",
     "url": "https://github.com/higuseonhye/worldsim-eval"
-  },
-  {
-    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
-    "id": "yukincom/llm-SugarScape",
-    "language": "Python",
-    "name": "yukincom/llm-SugarScape",
-    "stars": 7,
-    "updated_at": "2025-11-28T14:42:32Z",
-    "url": "https://github.com/yukincom/llm-SugarScape"
   }
 ]
