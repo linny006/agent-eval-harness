@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 22969,
+    "updated_at": "2026-07-06T14:35:48Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
     "id": "sammyjdev/gnomon-eval",
     "language": "Python",
     "name": "sammyjdev/gnomon-eval",
     "stars": 0,
-    "updated_at": "2026-07-06T14:26:54Z",
+    "updated_at": "2026-07-06T14:34:01Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T12:44:00Z",
     "url": "https://github.com/alvabillwu/judgekit"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 22968,
-    "updated_at": "2026-07-06T14:15:53Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
