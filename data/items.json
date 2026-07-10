@@ -1,5 +1,14 @@
 [
   {
+    "description": "An agent-eval harness that gates and judges testgen's generated test suites via MCP \u2014 deterministic checks plus an LLM-j",
+    "id": "nishant20/testgen-eval",
+    "language": "TypeScript",
+    "name": "nishant20/testgen-eval",
+    "stars": 0,
+    "updated_at": "2026-07-10T21:27:57Z",
+    "url": "https://github.com/nishant20/testgen-eval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10501,
-    "updated_at": "2026-07-10T21:06:56Z",
+    "updated_at": "2026-07-10T21:30:08Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 30,
     "updated_at": "2026-02-10T21:32:55Z",
     "url": "https://github.com/paradime-io/dbt-llm-evals"
-  },
-  {
-    "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
-    "id": "Striveworks/valor",
-    "language": "Python",
-    "name": "Striveworks/valor",
-    "stars": 41,
-    "updated_at": "2026-02-09T15:52:00Z",
-    "url": "https://github.com/Striveworks/valor"
   }
 ]
