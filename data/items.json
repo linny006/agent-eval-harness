@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10513,
+    "updated_at": "2026-07-12T07:43:11Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Offline-first RAG plant-care assistant that answers only from a versioned, cited corpus: enforced inline citations, neve",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 0,
+    "updated_at": "2026-07-12T07:44:11Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "Bilingual (EN/ES) RAG assistant answering reduced-fare policy questions for five California transit agencies, citing dat",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T07:11:53Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10513,
-    "updated_at": "2026-07-12T07:20:52Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -889,14 +898,5 @@
     "stars": 70,
     "updated_at": "2026-02-28T08:06:21Z",
     "url": "https://github.com/grigio/llm-eval-simple"
-  },
-  {
-    "description": "An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries.",
-    "id": "QuesmaOrg/BinaryAudit",
-    "language": "Shell",
-    "name": "QuesmaOrg/BinaryAudit",
-    "stars": 93,
-    "updated_at": "2026-02-27T16:01:04Z",
-    "url": "https://github.com/QuesmaOrg/BinaryAudit"
   }
 ]
