@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-13 18:15 UTC
+> ⏰ Last updated: 2026-07-13 18:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -113,7 +113,7 @@ expired items removed — so you can rely on what you see being current.
 | 69 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
 | 70 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 71 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
 | 71 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-05-27 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
-| 72 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-05-27 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
+| 72 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-07-13 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
 | 73 | [sanya2025/edututor-eval](https://github.com/sanya2025/edututor-eval) | 0 | Python | 2026-05-21 | A lightweight evaluation framework for AI tutoring responses, built for education-focused LLM systems |
 | 74 | [Alexanderk30/context-override-resistance](https://github.com/Alexanderk30/context-override-resistance) | 0 | Python | 2026-05-19 | RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the s |
 | 75 | [GiuseppeSp/n8n-customer-interview-synthesizer](https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer) | 0 | — | 2026-05-19 | Multi-agent customer-interview synthesis pipeline in n8n with LLM-as-judge eval, Slack human-in-the-loop approval, and d |
