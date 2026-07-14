@@ -1,5 +1,14 @@
 [
   {
+    "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
+    "id": "sahuno/confounded",
+    "language": "R",
+    "name": "sahuno/confounded",
+    "stars": 0,
+    "updated_at": "2026-07-14T00:48:19Z",
+    "url": "https://github.com/sahuno/confounded"
+  },
+  {
     "description": "Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c",
     "id": "homemade-software-inc/completion-kit",
     "language": "Ruby",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10536,
-    "updated_at": "2026-07-14T00:31:32Z",
+    "updated_at": "2026-07-14T00:58:32Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23209,
+    "stars": 23210,
     "updated_at": "2026-07-13T22:40:46Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-03-14T15:18:14Z",
     "url": "https://github.com/vola-trebla/llm-infrastructure"
-  },
-  {
-    "description": "First-of-its-kind AI benchmark for evaluating the protection capabilities of large language model (LLM) guard systems (g",
-    "id": "whitecircle/circle-guard-bench",
-    "language": "Python",
-    "name": "whitecircle/circle-guard-bench",
-    "stars": 70,
-    "updated_at": "2026-03-07T12:39:03Z",
-    "url": "https://github.com/whitecircle/circle-guard-bench"
   }
 ]
