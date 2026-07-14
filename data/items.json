@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM self-consistency and sycophancy diagnostic \u2014 catches contradictions and false-premise acceptance hiding behind confi",
+    "id": "vijayarjun7/flipcheck",
+    "language": "TypeScript",
+    "name": "vijayarjun7/flipcheck",
+    "stars": 0,
+    "updated_at": "2026-07-14T23:10:06Z",
+    "url": "https://github.com/vijayarjun7/flipcheck"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10558,
-    "updated_at": "2026-07-14T23:05:49Z",
+    "updated_at": "2026-07-14T23:12:28Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-03-20T13:56:27Z",
     "url": "https://github.com/Aysnc-Labs/llm-eval"
-  },
-  {
-    "description": "LLM-as-a-Judge evaluation platform for ecommerce search. Scores relevance, computes IR metrics, and flags quality issues",
-    "id": "asarnaout/veritail",
-    "language": "Python",
-    "name": "asarnaout/veritail",
-    "stars": 6,
-    "updated_at": "2026-03-15T02:38:55Z",
-    "url": "https://github.com/asarnaout/veritail"
   }
 ]
