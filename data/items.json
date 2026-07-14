@@ -1,5 +1,32 @@
 [
   {
+    "description": "ckl's personal benchmark for doc writing, infra code, and paper reading \u2014 one-click evaluation of the latest models via ",
+    "id": "cklxx/ckl-bench",
+    "language": "HTML",
+    "name": "cklxx/ckl-bench",
+    "stars": 0,
+    "updated_at": "2026-07-14T11:27:51Z",
+    "url": "https://github.com/cklxx/ckl-bench"
+  },
+  {
+    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
+    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "language": "\u2014",
+    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
+    "stars": 0,
+    "updated_at": "2026-07-14T11:26:37Z",
+    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
+  },
+  {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-07-14T11:24:50Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
     "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
     "id": "sahuno/confounded",
     "language": "R",
@@ -16,24 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T09:43:15Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
-    "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "language": "\u2014",
-    "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:34:17Z",
-    "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:31:20Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -889,14 +898,5 @@
     "stars": 6,
     "updated_at": "2026-03-15T02:38:55Z",
     "url": "https://github.com/asarnaout/veritail"
-  },
-  {
-    "description": "Full-stack AI infrastructure - 5 projects from data ingestion to autonomous agents",
-    "id": "vola-trebla/llm-infrastructure",
-    "language": "\u2014",
-    "name": "vola-trebla/llm-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-03-14T15:18:14Z",
-    "url": "https://github.com/vola-trebla/llm-infrastructure"
   }
 ]
