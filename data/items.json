@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10590,
-    "updated_at": "2026-07-16T20:47:23Z",
+    "updated_at": "2026-07-16T21:09:59Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23334,
+    "stars": 23335,
     "updated_at": "2026-07-16T19:44:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -85,7 +85,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5586,
+    "stars": 5587,
     "updated_at": "2026-07-16T05:13:59Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -158,7 +158,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-07-14T07:43:42Z",
+    "updated_at": "2026-07-16T21:14:55Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -214,6 +214,15 @@
     "stars": 2,
     "updated_at": "2026-07-13T00:35:28Z",
     "url": "https://github.com/monospaceai/evaldata"
+  },
+  {
+    "description": "Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat",
+    "id": "attogram/ollama-multirun",
+    "language": "Shell",
+    "name": "attogram/ollama-multirun",
+    "stars": 16,
+    "updated_at": "2026-07-12T14:06:36Z",
+    "url": "https://github.com/attogram/ollama-multirun"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-03-31T07:16:26Z",
     "url": "https://github.com/AdirAmsalem/openclaw-eval"
-  },
-  {
-    "description": "ForceField Python SDK -- AI security in 3 lines of code. Prompt injection detection, PII redaction, security evals, tool",
-    "id": "Data-ScienceTech/forcefield",
-    "language": "Python",
-    "name": "Data-ScienceTech/forcefield",
-    "stars": 1,
-    "updated_at": "2026-03-30T18:51:29Z",
-    "url": "https://github.com/Data-ScienceTech/forcefield"
   }
 ]
