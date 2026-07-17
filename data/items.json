@@ -50,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 23365,
-    "updated_at": "2026-07-17T18:49:48Z",
+    "updated_at": "2026-07-17T18:58:00Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -151,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T03:11:24Z",
     "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
-    "description": "\u2696\ufe0f Reusable LLM-as-judge harness \u2014 rubrics, pluggable judges (mock/proxy/LLM), and calibration against ground truth. Lib",
-    "id": "alvabillwu/judgekit",
-    "language": "Python",
-    "name": "alvabillwu/judgekit",
-    "stars": 0,
-    "updated_at": "2026-07-15T20:30:02Z",
-    "url": "https://github.com/alvabillwu/judgekit"
   },
   {
     "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
@@ -898,5 +889,14 @@
     "stars": 0,
     "updated_at": "2026-03-31T07:16:26Z",
     "url": "https://github.com/AdirAmsalem/openclaw-eval"
+  },
+  {
+    "description": "ForceField Python SDK -- AI security in 3 lines of code. Prompt injection detection, PII redaction, security evals, tool",
+    "id": "Data-ScienceTech/forcefield",
+    "language": "Python",
+    "name": "Data-ScienceTech/forcefield",
+    "stars": 1,
+    "updated_at": "2026-03-30T18:51:29Z",
+    "url": "https://github.com/Data-ScienceTech/forcefield"
   }
 ]
