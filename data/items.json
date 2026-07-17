@@ -1,5 +1,23 @@
 [
   {
+    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:15:56Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 23342,
+    "updated_at": "2026-07-17T04:07:58Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -25,15 +43,6 @@
     "stars": 10595,
     "updated_at": "2026-07-17T03:02:58Z",
     "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking) --",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-07-17T02:59:30Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-17T01:40:02Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 23341,
-    "updated_at": "2026-07-17T04:07:58Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
