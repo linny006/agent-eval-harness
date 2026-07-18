@@ -5,8 +5,17 @@
     "language": "JavaScript",
     "name": "lftherios/session-link",
     "stars": 0,
-    "updated_at": "2026-07-18T14:41:42Z",
+    "updated_at": "2026-07-18T14:58:13Z",
     "url": "https://github.com/lftherios/session-link"
+  },
+  {
+    "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
+    "id": "AshC2004/llm-eval-harness",
+    "language": "Python",
+    "name": "AshC2004/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:53:47Z",
+    "url": "https://github.com/AshC2004/llm-eval-harness"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -121,7 +130,7 @@
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5653,
+    "stars": 5654,
     "updated_at": "2026-07-17T08:20:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-04-11T03:34:58Z",
     "url": "https://github.com/YuanyangLiNEU/mini-claude"
-  },
-  {
-    "description": "The Prisoner's Dilemma played by LLMs",
-    "id": "webrenew/models-dilemma",
-    "language": "TypeScript",
-    "name": "webrenew/models-dilemma",
-    "stars": 4,
-    "updated_at": "2026-04-08T15:17:40Z",
-    "url": "https://github.com/webrenew/models-dilemma"
   }
 ]
