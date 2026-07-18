@@ -1,5 +1,14 @@
 [
   {
+    "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
+    "id": "iZenDeveloper/auditai",
+    "language": "Python",
+    "name": "iZenDeveloper/auditai",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:19:51Z",
+    "url": "https://github.com/iZenDeveloper/auditai"
+  },
+  {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
     "language": "JavaScript",
@@ -889,14 +898,5 @@
     "stars": 4,
     "updated_at": "2026-04-08T15:17:40Z",
     "url": "https://github.com/webrenew/models-dilemma"
-  },
-  {
-    "description": "Compare OpenClaw setups against the same scenario suite. Run prompts across multiple configurations, capture answers, la",
-    "id": "AdirAmsalem/openclaw-eval",
-    "language": "Python",
-    "name": "AdirAmsalem/openclaw-eval",
-    "stars": 0,
-    "updated_at": "2026-03-31T07:16:26Z",
-    "url": "https://github.com/AdirAmsalem/openclaw-eval"
   }
 ]
