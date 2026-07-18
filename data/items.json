@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10605,
-    "updated_at": "2026-07-17T23:35:28Z",
+    "updated_at": "2026-07-18T00:09:53Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -178,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-07-14T23:23:00Z",
     "url": "https://github.com/vijayarjun7/flipcheck"
+  },
+  {
+    "description": "An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries.",
+    "id": "QuesmaOrg/BinaryAudit",
+    "language": "Shell",
+    "name": "QuesmaOrg/BinaryAudit",
+    "stars": 94,
+    "updated_at": "2026-07-14T16:19:30Z",
+    "url": "https://github.com/QuesmaOrg/BinaryAudit"
   },
   {
     "description": "An graph-eval framework for LLM's ",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-03-31T07:16:26Z",
     "url": "https://github.com/AdirAmsalem/openclaw-eval"
-  },
-  {
-    "description": "ForceField Python SDK -- AI security in 3 lines of code. Prompt injection detection, PII redaction, security evals, tool",
-    "id": "Data-ScienceTech/forcefield",
-    "language": "Python",
-    "name": "Data-ScienceTech/forcefield",
-    "stars": 1,
-    "updated_at": "2026-03-30T18:51:29Z",
-    "url": "https://github.com/Data-ScienceTech/forcefield"
   }
 ]
