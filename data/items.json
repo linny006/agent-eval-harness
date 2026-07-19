@@ -2,10 +2,10 @@
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
     "id": "lftherios/session-link",
-    "language": "JavaScript",
+    "language": "Go",
     "name": "lftherios/session-link",
     "stars": 0,
-    "updated_at": "2026-07-19T11:56:40Z",
+    "updated_at": "2026-07-19T12:02:08Z",
     "url": "https://github.com/lftherios/session-link"
   },
   {
