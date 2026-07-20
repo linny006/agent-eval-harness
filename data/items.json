@@ -1,14 +1,5 @@
 [
   {
-    "description": "Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic",
-    "id": "ChelseaKR/sprout",
-    "language": "Python",
-    "name": "ChelseaKR/sprout",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:37:52Z",
-    "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
     "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
     "id": "sammyjdev/gnomon-eval",
     "language": "Python",
@@ -16,15 +7,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T02:39:51Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
-  },
-  {
-    "description": "Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi",
-    "id": "ChelseaKR/fare-policy-assistant",
-    "language": "HTML",
-    "name": "ChelseaKR/fare-policy-assistant",
-    "stars": 1,
-    "updated_at": "2026-07-20T02:05:12Z",
-    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
   },
   {
     "description": "Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI.",
@@ -49,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10629,
+    "stars": 10630,
     "updated_at": "2026-07-19T23:07:19Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -898,5 +880,23 @@
     "stars": 2,
     "updated_at": "2026-04-11T09:26:50Z",
     "url": "https://github.com/arthursoares/openclaw-llm-bench"
+  },
+  {
+    "description": "A minimal Claude Code built from scratch \u2014 agent loop, tool calling, web search, permissions, and a black-box LLM eval h",
+    "id": "YuanyangLiNEU/mini-claude",
+    "language": "TypeScript",
+    "name": "YuanyangLiNEU/mini-claude",
+    "stars": 0,
+    "updated_at": "2026-04-11T03:34:58Z",
+    "url": "https://github.com/YuanyangLiNEU/mini-claude"
+  },
+  {
+    "description": "The Prisoner's Dilemma played by LLMs",
+    "id": "webrenew/models-dilemma",
+    "language": "TypeScript",
+    "name": "webrenew/models-dilemma",
+    "stars": 4,
+    "updated_at": "2026-04-08T15:17:40Z",
+    "url": "https://github.com/webrenew/models-dilemma"
   }
 ]
