@@ -1,5 +1,14 @@
 [
   {
+    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
+    "id": "Eval-core/evalcore",
+    "language": "Rust",
+    "name": "Eval-core/evalcore",
+    "stars": 5,
+    "updated_at": "2026-07-20T01:02:21Z",
+    "url": "https://github.com/Eval-core/evalcore"
+  },
+  {
     "description": "Offline-first plant-care assistant and public evaluation harness with cited-corpus answers, calibrated abstention, toxic",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T00:53:08Z",
     "url": "https://github.com/ChelseaKR/sprout"
-  },
-  {
-    "description": "Know when your AI gets worse \u2014 before your users do. Records how your LLM apps and agents behave and checks every change",
-    "id": "Eval-core/evalcore",
-    "language": "Rust",
-    "name": "Eval-core/evalcore",
-    "stars": 5,
-    "updated_at": "2026-07-20T00:33:58Z",
-    "url": "https://github.com/Eval-core/evalcore"
   },
   {
     "description": "Evaluate AI-generated SQL with pytest.",
@@ -49,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23415,
+    "stars": 23416,
     "updated_at": "2026-07-19T18:23:56Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -185,7 +185,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 321,
-    "updated_at": "2026-07-19T01:02:39Z",
+    "updated_at": "2026-07-20T01:07:24Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
