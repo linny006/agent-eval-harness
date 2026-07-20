@@ -1,11 +1,20 @@
 [
   {
+    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
+    "id": "SFX-TECH/sfx-lead-intelligence",
+    "language": "\u2014",
+    "name": "SFX-TECH/sfx-lead-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:24:13Z",
+    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3448,
-    "updated_at": "2026-07-20T15:06:51Z",
+    "updated_at": "2026-07-20T15:20:41Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10641,
-    "updated_at": "2026-07-20T14:29:47Z",
+    "updated_at": "2026-07-20T15:29:31Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -103,7 +112,7 @@
     "id": "Eval-core/evalcore",
     "language": "Rust",
     "name": "Eval-core/evalcore",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-07-20T01:53:12Z",
     "url": "https://github.com/Eval-core/evalcore"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-04-11T03:34:58Z",
     "url": "https://github.com/YuanyangLiNEU/mini-claude"
-  },
-  {
-    "description": "The Prisoner's Dilemma played by LLMs",
-    "id": "webrenew/models-dilemma",
-    "language": "TypeScript",
-    "name": "webrenew/models-dilemma",
-    "stars": 4,
-    "updated_at": "2026-04-08T15:17:40Z",
-    "url": "https://github.com/webrenew/models-dilemma"
   }
 ]
