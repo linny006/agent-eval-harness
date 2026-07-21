@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluate Moonshot's Kimi K2.7 Code in Claude Code via claude-code-router + Ollama cloud \u2014 no gateway infra required. Inc",
+    "id": "simonjday/kimi-k27-claude-code-demo",
+    "language": "\u2014",
+    "name": "simonjday/kimi-k27-claude-code-demo",
+    "stars": 0,
+    "updated_at": "2026-07-21T11:15:29Z",
+    "url": "https://github.com/simonjday/kimi-k27-claude-code-demo"
+  },
+  {
     "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
     "id": "valbaudo/awf",
     "language": "Go",
@@ -889,14 +898,5 @@
     "stars": 2,
     "updated_at": "2026-04-11T09:26:50Z",
     "url": "https://github.com/arthursoares/openclaw-llm-bench"
-  },
-  {
-    "description": "A minimal Claude Code built from scratch \u2014 agent loop, tool calling, web search, permissions, and a black-box LLM eval h",
-    "id": "YuanyangLiNEU/mini-claude",
-    "language": "TypeScript",
-    "name": "YuanyangLiNEU/mini-claude",
-    "stars": 0,
-    "updated_at": "2026-04-11T03:34:58Z",
-    "url": "https://github.com/YuanyangLiNEU/mini-claude"
   }
 ]
