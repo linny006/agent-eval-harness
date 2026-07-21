@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10661,
-    "updated_at": "2026-07-21T22:31:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Handwritten Text Recognition llm eval tool",
     "id": "lehigh-university-libraries/htr",
     "language": "Go",
     "name": "lehigh-university-libraries/htr",
     "stars": 2,
-    "updated_at": "2026-07-21T22:33:47Z",
+    "updated_at": "2026-07-21T22:45:14Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10661,
+    "updated_at": "2026-07-21T22:44:47Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
