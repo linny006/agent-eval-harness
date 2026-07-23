@@ -1,11 +1,20 @@
 [
   {
+    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 107,
+    "updated_at": "2026-07-23T21:44:49Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 0,
-    "updated_at": "2026-07-23T21:40:03Z",
+    "updated_at": "2026-07-23T21:40:43Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 23537,
     "updated_at": "2026-07-23T21:07:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Evaluate & benchmark AI coding agents and Claude Code skills \u2014 sandboxed, reproducible YAML eval suites for Claude Code,",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 107,
-    "updated_at": "2026-07-23T21:37:58Z",
-    "url": "https://github.com/UiPath/coder_eval"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
