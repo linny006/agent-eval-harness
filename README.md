@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 16:00 UTC
+> ⏰ Last updated: 2026-07-27 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -99,7 +99,7 @@ expired items removed — so you can rely on what you see being current.
 | 55 | [hydrangeas20/safetylens](https://github.com/hydrangeas20/safetylens) | 0 | Jupyter Notebook | 2026-07-01 | Empirical study of evaluation robustness in large language models. Compares benchmark style evaluation prompts with real |
 | 56 | [kilocommits/campaign-eval-harness](https://github.com/kilocommits/campaign-eval-harness) | 0 | Python | 2026-06-30 | An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha |
 | 57 | [Merchantlee99/myrealtrip-cancel-recovery-eval](https://github.com/Merchantlee99/myrealtrip-cancel-recovery-eval) | 0 | Python | 2026-06-30 | Codex eval plugin for auditing cancel-recovery replacement-product exposure policies. |
-| 58 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-07-20 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
+| 58 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-07-27 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 59 | [TheAnacondA57/BidAgent](https://github.com/TheAnacondA57/BidAgent) | 1 | Python | 2026-06-29 | RAG agentique sur des documents de concession télécom publique (DSP/RIP), pensé eval-first et contrôlé en CI. |
 | 60 | [chquandogong/mission-spec](https://github.com/chquandogong/mission-spec) | 0 | TypeScript | 2026-06-29 | Mission Spec — AI 에이전트 워크플로를 위한 task contract layer |
 | 61 | [G59-Toneli/dataset-eval-skill](https://github.com/G59-Toneli/dataset-eval-skill) | 1 | JavaScript | 2026-06-25 | A Claude skill for building golden sets to test AI systems — matching, RAG, LLM-as-judge — without false greens. |
