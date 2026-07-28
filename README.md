@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-28 09:30 UTC
+> ⏰ Last updated: 2026-07-28 09:44 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -129,7 +129,7 @@ expired items removed — so you can rely on what you see being current.
 | 85 | [Victor-David-Medina/llm-eval-harness](https://github.com/Victor-David-Medina/llm-eval-harness) | 0 | Python | 2026-06-03 | LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check |
 | 86 | [thestio/thest-eval](https://github.com/thestio/thest-eval) | 0 | Python | 2026-06-02 | The CI regression gate and governance-evidence layer for LLM systems — zero-dependency, vendor-neutral, offline. |
 | 87 | [monkeyin92/voice-agent-testops](https://github.com/monkeyin92/voice-agent-testops) | 0 | TypeScript | 2026-06-01 | Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports. |
-| 88 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 72 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
+| 88 | [fastxyz/skill-optimizer](https://github.com/fastxyz/skill-optimizer) | 71 | TypeScript | 2026-05-28 | Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs |
 | 89 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-05-27 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
 | 90 | [rogue-socket/focusgroup](https://github.com/rogue-socket/focusgroup) | 0 | Python | 2026-07-13 | Persona-driven dynamic testing for conversational AI products. Focus groups for your agents. |
 | 91 | [sanya2025/edututor-eval](https://github.com/sanya2025/edututor-eval) | 0 | Python | 2026-05-21 | A lightweight evaluation framework for AI tutoring responses, built for education-focused LLM systems |
