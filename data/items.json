@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
+    "id": "Steel-predictor-project/steel-llm-eval",
+    "language": "Python",
+    "name": "Steel-predictor-project/steel-llm-eval",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:35:14Z",
+    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
+  },
+  {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
     "id": "gmitt98/fieldtest",
     "language": "Python",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3472,
-    "updated_at": "2026-07-29T19:28:14Z",
+    "updated_at": "2026-07-29T19:35:03Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5724,
-    "updated_at": "2026-07-29T19:14:49Z",
+    "updated_at": "2026-07-29T19:30:40Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-10T21:47:21Z",
     "url": "https://github.com/SAY-5/eval-observability"
-  },
-  {
-    "description": "Automated prompt-optimization loop (edit\u2192evaluate\u2192keep) with an LLM judge \u2014 the RLHF/AutoML pattern in ~100 lines. Score",
-    "id": "Ruthwik-Data/self-improving-prompt-agent",
-    "language": "Python",
-    "name": "Ruthwik-Data/self-improving-prompt-agent",
-    "stars": 0,
-    "updated_at": "2026-05-10T02:39:12Z",
-    "url": "https://github.com/Ruthwik-Data/self-improving-prompt-agent"
   }
 ]
