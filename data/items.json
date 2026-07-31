@@ -1,5 +1,14 @@
 [
   {
+    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
+    "id": "gititya/Quality-Agency-support",
+    "language": "Python",
+    "name": "gititya/Quality-Agency-support",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:49:02Z",
+    "url": "https://github.com/gititya/Quality-Agency-support"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -655,15 +664,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:01:13Z",
     "url": "https://github.com/ramenprotokol/hallucination-hunter"
-  },
-  {
-    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
-    "id": "gititya/Quality-Agency-support",
-    "language": "Python",
-    "name": "gititya/Quality-Agency-support",
-    "stars": 0,
-    "updated_at": "2026-07-09T07:16:10Z",
-    "url": "https://github.com/gititya/Quality-Agency-support"
   },
   {
     "description": "Framework-agnostic evaluation harness for Go \u2014 test your MCP servers and AI agents with scored, CI-ready checks.",
