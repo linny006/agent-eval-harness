@@ -167,7 +167,7 @@
     "language": "TypeScript",
     "name": "jeremylongshore/j-rig-skill-binary-eval",
     "stars": 1,
-    "updated_at": "2026-08-02T09:13:33Z",
+    "updated_at": "2026-08-02T09:40:50Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
   },
   {
@@ -706,7 +706,7 @@
     "id": "ALEX-nlp/OpenSkillEval",
     "language": "Python",
     "name": "ALEX-nlp/OpenSkillEval",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-06-15T02:14:09Z",
     "url": "https://github.com/ALEX-nlp/OpenSkillEval"
   },
