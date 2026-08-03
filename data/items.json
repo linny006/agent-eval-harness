@@ -1,11 +1,20 @@
 [
   {
+    "description": "Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection.",
+    "id": "mac-builds-things/agent-evals-harness",
+    "language": "Python",
+    "name": "mac-builds-things/agent-evals-harness",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:30:07Z",
+    "url": "https://github.com/mac-builds-things/agent-evals-harness"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3482,
-    "updated_at": "2026-08-03T15:27:54Z",
+    "updated_at": "2026-08-03T15:42:01Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -22,7 +31,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23877,
+    "stars": 23878,
     "updated_at": "2026-08-03T13:44:50Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -889,14 +898,5 @@
     "stars": 1153,
     "updated_at": "2026-05-14T09:02:28Z",
     "url": "https://github.com/AI-QL/tuui"
-  },
-  {
-    "description": "The prompt engineering, prompt management, and prompt evaluation tool for TypeScript, JavaScript, and NodeJS.",
-    "id": "prompt-foundry/typescript-sdk",
-    "language": "TypeScript",
-    "name": "prompt-foundry/typescript-sdk",
-    "stars": 6,
-    "updated_at": "2026-05-13T02:40:28Z",
-    "url": "https://github.com/prompt-foundry/typescript-sdk"
   }
 ]
