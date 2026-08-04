@@ -1,11 +1,20 @@
 [
   {
+    "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
+    "id": "junju523/agent-eval-harness-demo",
+    "language": "JavaScript",
+    "name": "junju523/agent-eval-harness-demo",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:58:46Z",
+    "url": "https://github.com/junju523/agent-eval-harness-demo"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 23898,
-    "updated_at": "2026-08-04T06:44:14Z",
+    "stars": 23899,
+    "updated_at": "2026-08-04T07:00:03Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 328,
-    "updated_at": "2026-08-04T01:52:59Z",
+    "updated_at": "2026-08-04T06:53:55Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 3,
     "updated_at": "2026-05-15T01:56:37Z",
     "url": "https://github.com/verifywise-ai/plugin-marketplace"
-  },
-  {
-    "description": "A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context ",
-    "id": "AI-QL/tuui",
-    "language": "TypeScript",
-    "name": "AI-QL/tuui",
-    "stars": 1153,
-    "updated_at": "2026-05-14T09:02:28Z",
-    "url": "https://github.com/AI-QL/tuui"
   }
 ]
