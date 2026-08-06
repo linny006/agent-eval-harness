@@ -1,5 +1,41 @@
 [
   {
+    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
+    "id": "homayoun-safarpour/agent-eval-workbench",
+    "language": "Python",
+    "name": "homayoun-safarpour/agent-eval-workbench",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:26:41Z",
+    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
+  },
+  {
+    "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
+    "id": "homayoun-safarpour/judge-drift-sentinel",
+    "language": "Python",
+    "name": "homayoun-safarpour/judge-drift-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:24:54Z",
+    "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:21:37Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
+    "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
+    "id": "homayoun-safarpour/trace-gate",
+    "language": "Python",
+    "name": "homayoun-safarpour/trace-gate",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:14:35Z",
+    "url": "https://github.com/homayoun-safarpour/trace-gate"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10926,
-    "updated_at": "2026-08-06T22:15:44Z",
+    "updated_at": "2026-08-06T22:30:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
+    "id": "homayoun-safarpour/judge-reliability-kit",
+    "language": "Python",
+    "name": "homayoun-safarpour/judge-reliability-kit",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:03:34Z",
+    "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -34,15 +79,6 @@
     "stars": 3488,
     "updated_at": "2026-08-06T20:52:26Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-06T20:32:15Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 330,
-    "updated_at": "2026-08-06T17:39:49Z",
+    "updated_at": "2026-08-06T22:30:58Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T04:58:34Z",
     "url": "https://github.com/thestio/thest-eval"
-  },
-  {
-    "description": "Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports.",
-    "id": "monkeyin92/voice-agent-testops",
-    "language": "TypeScript",
-    "name": "monkeyin92/voice-agent-testops",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:51:36Z",
-    "url": "https://github.com/monkeyin92/voice-agent-testops"
-  },
-  {
-    "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
-    "id": "fastxyz/skill-optimizer",
-    "language": "TypeScript",
-    "name": "fastxyz/skill-optimizer",
-    "stars": 72,
-    "updated_at": "2026-05-28T17:39:51Z",
-    "url": "https://github.com/fastxyz/skill-optimizer"
-  },
-  {
-    "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
-    "id": "rogue-socket/focusgroup",
-    "language": "Python",
-    "name": "rogue-socket/focusgroup",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:28:06Z",
-    "url": "https://github.com/rogue-socket/focusgroup"
-  },
-  {
-    "description": "A lightweight evaluation framework for AI tutoring responses, built for education-focused LLM systems",
-    "id": "sanya2025/edututor-eval",
-    "language": "Python",
-    "name": "sanya2025/edututor-eval",
-    "stars": 0,
-    "updated_at": "2026-05-21T20:07:02Z",
-    "url": "https://github.com/sanya2025/edututor-eval"
   }
 ]
