@@ -1,20 +1,11 @@
 [
   {
-    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
-    "id": "arash9233/phoenix-lua-executor-windows",
-    "language": "HTML",
-    "name": "arash9233/phoenix-lua-executor-windows",
-    "stars": 0,
-    "updated_at": "2026-08-06T19:26:19Z",
-    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24010,
-    "updated_at": "2026-08-06T19:17:42Z",
+    "stars": 24016,
+    "updated_at": "2026-08-06T22:09:41Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,7 +14,7 @@
     "language": "\u2014",
     "name": "saddled-panicattack529/idea-evaluation-pipeline",
     "stars": 0,
-    "updated_at": "2026-08-06T19:11:25Z",
+    "updated_at": "2026-08-06T22:07:28Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
@@ -31,9 +22,27 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 10923,
-    "updated_at": "2026-08-06T19:39:00Z",
+    "stars": 10926,
+    "updated_at": "2026-08-06T22:15:44Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3488,
+    "updated_at": "2026-08-06T20:52:26Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
+    "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
+    "id": "arash9233/phoenix-lua-executor-windows",
+    "language": "HTML",
+    "name": "arash9233/phoenix-lua-executor-windows",
+    "stars": 0,
+    "updated_at": "2026-08-06T20:32:15Z",
+    "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T17:24:51Z",
     "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3487,
-    "updated_at": "2026-08-06T19:01:16Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
