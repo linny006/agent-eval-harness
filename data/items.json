@@ -27,6 +27,15 @@
     "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
   },
   {
+    "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
+    "id": "homayoun-safarpour/rag-eval-service",
+    "language": "Python",
+    "name": "homayoun-safarpour/rag-eval-service",
+    "stars": 0,
+    "updated_at": "2026-08-06T22:18:45Z",
+    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
+  },
+  {
     "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
     "id": "homayoun-safarpour/trace-gate",
     "language": "Python",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10926,
-    "updated_at": "2026-08-06T22:30:55Z",
+    "updated_at": "2026-08-06T22:46:37Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T17:16:47Z",
     "url": "https://github.com/Victor-David-Medina/llm-eval-harness"
-  },
-  {
-    "description": "The CI regression gate and governance-evidence layer for LLM systems \u2014 zero-dependency, vendor-neutral, offline.",
-    "id": "thestio/thest-eval",
-    "language": "Python",
-    "name": "thestio/thest-eval",
-    "stars": 0,
-    "updated_at": "2026-06-02T04:58:34Z",
-    "url": "https://github.com/thestio/thest-eval"
   }
 ]
