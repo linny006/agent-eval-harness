@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 10921,
-    "updated_at": "2026-08-06T15:51:14Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Execute Roblox Lua scripts on Windows with this lightweight tool featuring one-click injection and an integrated library",
     "id": "arash9233/phoenix-lua-executor-windows",
     "language": "HTML",
     "name": "arash9233/phoenix-lua-executor-windows",
     "stars": 0,
-    "updated_at": "2026-08-06T15:48:26Z",
+    "updated_at": "2026-08-06T19:26:19Z",
     "url": "https://github.com/arash9233/phoenix-lua-executor-windows"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24010,
+    "updated_at": "2026-08-06T19:17:42Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
@@ -23,17 +23,44 @@
     "language": "\u2014",
     "name": "saddled-panicattack529/idea-evaluation-pipeline",
     "stars": 0,
-    "updated_at": "2026-08-06T15:33:01Z",
+    "updated_at": "2026-08-06T19:11:25Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 10923,
+    "updated_at": "2026-08-06T19:39:00Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "\u2014",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-08-06T17:43:54Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24004,
-    "updated_at": "2026-08-06T15:10:46Z",
-    "url": "https://github.com/promptfoo/promptfoo"
+    "name": "verifywise-ai/verifywise",
+    "stars": 330,
+    "updated_at": "2026-08-06T17:39:49Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
+    "id": "eliasfeitan-pixel/llm-eval-framework",
+    "language": "\u2014",
+    "name": "eliasfeitan-pixel/llm-eval-framework",
+    "stars": 0,
+    "updated_at": "2026-08-06T17:24:51Z",
+    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "truera/trulens",
     "stars": 3487,
-    "updated_at": "2026-08-06T15:17:52Z",
+    "updated_at": "2026-08-06T19:01:16Z",
     "url": "https://github.com/truera/trulens"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T11:43:46Z",
     "url": "https://github.com/ajmeese7/local-llms"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 329,
-    "updated_at": "2026-08-06T11:01:41Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-21T20:07:02Z",
     "url": "https://github.com/sanya2025/edututor-eval"
-  },
-  {
-    "description": "RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the s",
-    "id": "Alexanderk30/context-override-resistance",
-    "language": "Python",
-    "name": "Alexanderk30/context-override-resistance",
-    "stars": 0,
-    "updated_at": "2026-05-19T20:52:54Z",
-    "url": "https://github.com/Alexanderk30/context-override-resistance"
-  },
-  {
-    "description": "Multi-agent customer-interview synthesis pipeline in n8n with LLM-as-judge eval, Slack human-in-the-loop approval, and d",
-    "id": "GiuseppeSp/n8n-customer-interview-synthesizer",
-    "language": "\u2014",
-    "name": "GiuseppeSp/n8n-customer-interview-synthesizer",
-    "stars": 0,
-    "updated_at": "2026-05-19T08:25:12Z",
-    "url": "https://github.com/GiuseppeSp/n8n-customer-interview-synthesizer"
   }
 ]
