@@ -1,5 +1,14 @@
 [
   {
+    "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
+    "id": "asavs/mcp-cocktail",
+    "language": "Python",
+    "name": "asavs/mcp-cocktail",
+    "stars": 0,
+    "updated_at": "2026-08-07T20:34:26Z",
+    "url": "https://github.com/asavs/mcp-cocktail"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10937,
-    "updated_at": "2026-08-07T20:22:34Z",
+    "updated_at": "2026-08-07T20:35:48Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T14:07:36Z",
     "url": "https://github.com/reaatech/rag-eval-pack"
-  },
-  {
-    "description": "A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on ",
-    "id": "Juanllenato/llm-eval-harness",
-    "language": "Python",
-    "name": "Juanllenato/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-03T23:29:37Z",
-    "url": "https://github.com/Juanllenato/llm-eval-harness"
   }
 ]
