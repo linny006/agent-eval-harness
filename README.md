@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-07 10:00 UTC
+> ⏰ Last updated: 2026-08-07 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 2 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-07 | Index of projects: judge-drift-sentinel, judge-reliability-kit, agent-loop-engine, trace-gate, skill-range (not a produc |
+| 1 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-07 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
+| 2 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 3 | [homayoun-safarpour/ai-eng-skill-range](https://github.com/homayoun-safarpour/ai-eng-skill-range) | 0 | Python | 2026-08-07 | Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders. |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24038 | TypeScript | 2026-08-07 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10929 | Python | 2026-08-07 | AI Observability & Evaluation |
