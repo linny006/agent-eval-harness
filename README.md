@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 16:30 UTC
+> ⏰ Last updated: 2026-08-08 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10943 | Python | 2026-08-08 | AI Observability & Evaluation |
+| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10944 | Python | 2026-08-08 | AI Observability & Evaluation |
 | 2 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-08 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
 | 3 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-08 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
 | 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24070 | TypeScript | 2026-08-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 330 | TypeScript | 2026-08-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 7 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
 | 8 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
-| 9 | [truera/trulens](https://github.com/truera/trulens) | 3492 | Python | 2026-08-07 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 9 | [truera/trulens](https://github.com/truera/trulens) | 3493 | Python | 2026-08-07 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 10 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 11 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 12 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-07 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
@@ -105,7 +105,7 @@ expired items removed — so you can rely on what you see being current.
 | 61 | [ahwurm/localshift](https://github.com/ahwurm/localshift) | 3 | Python | 2026-07-09 | Migrate headless Claude/AI workloads to local LLMs with a derived, per-workload quality eval — cron job in, zero-margina |
 | 62 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-07-14 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
 | 63 | [MihirBindu/dynamo-log-report-fix](https://github.com/MihirBindu/dynamo-log-report-fix) | 0 | Python | 2026-07-09 | A broken Terminal-Bench 2 (Harbor) task, repaired: reproducible env, solution-leak removed, gameable verifier replaced w |
-| 64 | [christianmacion26/judge-harness](https://github.com/christianmacion26/judge-harness) | 0 | Python | 2026-07-08 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
+| 64 | [christianmacion/judge-harness](https://github.com/christianmacion/judge-harness) | 0 | Python | 2026-07-08 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
 | 65 | [plwslpld-arch/loopward](https://github.com/plwslpld-arch/loopward) | 1 | TypeScript | 2026-07-07 | Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare |
 | 66 | [ContextJet-ai/skillvitals](https://github.com/ContextJet-ai/skillvitals) | 1 | Python | 2026-07-06 | Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c |
 | 67 | [Sushant-Dagar/agent-eval-harness](https://github.com/Sushant-Dagar/agent-eval-harness) | 0 | Python | 2026-07-04 | CI-integrated eval harness for LLM agents — intent accuracy, retrieval precision/recall/MRR, and hallucination detection |
