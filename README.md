@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 09:45 UTC
+> ⏰ Last updated: 2026-08-08 09:51 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10940 | Python | 2026-08-08 | AI Observability & Evaluation |
-| 2 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-08 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24066 | TypeScript | 2026-08-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-08-08 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
-| 5 | [homayoun-safarpour/judge-drift-sentinel](https://github.com/homayoun-safarpour/judge-drift-sentinel) | 0 | Python | 2026-08-07 | Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa. |
-| 6 | [homayoun-safarpour/judge-reliability-kit](https://github.com/homayoun-safarpour/judge-reliability-kit) | 0 | Python | 2026-08-07 | Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification. |
-| 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 330 | TypeScript | 2026-08-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 8 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
-| 9 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
-| 10 | [truera/trulens](https://github.com/truera/trulens) | 3491 | Python | 2026-08-07 | Evaluation and Tracking for LLM Experiments and AI Agents |
-| 11 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 12 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-07 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
-| 13 | [homayoun-safarpour/ai-eng-skill-range](https://github.com/homayoun-safarpour/ai-eng-skill-range) | 0 | Python | 2026-08-07 | Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders. |
-| 14 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
-| 15 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-07 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
-| 16 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5741 | Python | 2026-08-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
-| 17 | [homayoun-safarpour/trace-gate](https://github.com/homayoun-safarpour/trace-gate) | 0 | Python | 2026-08-06 | Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2). |
+| 1 | [homayoun-safarpour/trace-gate](https://github.com/homayoun-safarpour/trace-gate) | 0 | Python | 2026-08-08 | Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2). |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 10940 | Python | 2026-08-08 | AI Observability & Evaluation |
+| 3 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-08 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
+| 4 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24066 | TypeScript | 2026-08-08 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 5 | [lokesh75-kank/agenteval](https://github.com/lokesh75-kank/agenteval) | 0 | TypeScript | 2026-08-08 | Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou |
+| 6 | [homayoun-safarpour/judge-drift-sentinel](https://github.com/homayoun-safarpour/judge-drift-sentinel) | 0 | Python | 2026-08-07 | Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa. |
+| 7 | [homayoun-safarpour/judge-reliability-kit](https://github.com/homayoun-safarpour/judge-reliability-kit) | 0 | Python | 2026-08-07 | Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification. |
+| 8 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 330 | TypeScript | 2026-08-08 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 9 | [Vishalvk2219/Ringdown](https://github.com/Vishalvk2219/Ringdown) | 0 | Python | 2026-08-07 | Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd |
+| 10 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
+| 11 | [truera/trulens](https://github.com/truera/trulens) | 3491 | Python | 2026-08-07 | Evaluation and Tracking for LLM Experiments and AI Agents |
+| 12 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-08-07 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
+| 13 | [homayoun-safarpour/homayoun-safarpour](https://github.com/homayoun-safarpour/homayoun-safarpour) | 0 | — | 2026-08-07 | judge-drift-sentinel · judge-reliability-kit · agent-loop-engine · trace-gate · ai-eng-skill-range |
+| 14 | [homayoun-safarpour/ai-eng-skill-range](https://github.com/homayoun-safarpour/ai-eng-skill-range) | 0 | Python | 2026-08-07 | Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders. |
+| 15 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-08-07 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
+| 16 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-07 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
+| 17 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5741 | Python | 2026-08-07 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
 | 18 | [homayoun-safarpour/rag-eval-service](https://github.com/homayoun-safarpour/rag-eval-service) | 0 | Python | 2026-08-06 | FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate. |
 | 19 | [homayoun-safarpour/agent-eval-workbench](https://github.com/homayoun-safarpour/agent-eval-workbench) | 0 | Python | 2026-08-06 | Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate. |
 | 20 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | — | 2026-08-06 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |

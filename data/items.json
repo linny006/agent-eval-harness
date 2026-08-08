@@ -1,5 +1,14 @@
 [
   {
+    "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
+    "id": "homayoun-safarpour/trace-gate",
+    "language": "Python",
+    "name": "homayoun-safarpour/trace-gate",
+    "stars": 0,
+    "updated_at": "2026-08-08T09:50:55Z",
+    "url": "https://github.com/homayoun-safarpour/trace-gate"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 5741,
     "updated_at": "2026-08-07T03:44:03Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
-    "id": "homayoun-safarpour/trace-gate",
-    "language": "Python",
-    "name": "homayoun-safarpour/trace-gate",
-    "stars": 0,
-    "updated_at": "2026-08-06T23:34:41Z",
-    "url": "https://github.com/homayoun-safarpour/trace-gate"
   },
   {
     "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
