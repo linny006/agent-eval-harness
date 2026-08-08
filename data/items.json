@@ -9,6 +9,15 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
+    "description": "Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite \u2014 a curation accelerator with ",
+    "id": "AshwinUgale/goldset",
+    "language": "Python",
+    "name": "AshwinUgale/goldset",
+    "stars": 1,
+    "updated_at": "2026-08-08T17:43:01Z",
+    "url": "https://github.com/AshwinUgale/goldset"
+  },
+  {
     "description": "judge-drift-sentinel \u00b7 judge-reliability-kit \u00b7 agent-loop-engine \u00b7 trace-gate \u00b7 ai-eng-skill-range",
     "id": "homayoun-safarpour/homayoun-safarpour",
     "language": "\u2014",
@@ -889,14 +898,5 @@
     "stars": 74,
     "updated_at": "2026-05-28T17:39:51Z",
     "url": "https://github.com/fastxyz/skill-optimizer"
-  },
-  {
-    "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
-    "id": "rogue-socket/focusgroup",
-    "language": "Python",
-    "name": "rogue-socket/focusgroup",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:28:06Z",
-    "url": "https://github.com/rogue-socket/focusgroup"
   }
 ]
