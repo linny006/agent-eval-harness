@@ -1,5 +1,14 @@
 [
   {
+    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
+    "id": "lokesh75-kank/agenteval",
+    "language": "TypeScript",
+    "name": "lokesh75-kank/agenteval",
+    "stars": 0,
+    "updated_at": "2026-08-08T03:12:48Z",
+    "url": "https://github.com/lokesh75-kank/agenteval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -646,15 +655,6 @@
     "stars": 0,
     "updated_at": "2026-07-04T03:55:22Z",
     "url": "https://github.com/Sushant-Dagar/agent-eval-harness"
-  },
-  {
-    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
-    "id": "lokesh75-kank/agenteval",
-    "language": "TypeScript",
-    "name": "lokesh75-kank/agenteval",
-    "stars": 0,
-    "updated_at": "2026-07-03T18:43:31Z",
-    "url": "https://github.com/lokesh75-kank/agenteval"
   },
   {
     "description": "Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations \u2014 and surfaced a metric bug now merged ",
