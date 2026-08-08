@@ -1,59 +1,5 @@
 [
   {
-    "description": "Graded AI-engineering skill range: 56 skills, 24 katas, deterministic exit-code graders.",
-    "id": "homayoun-safarpour/ai-eng-skill-range",
-    "language": "Python",
-    "name": "homayoun-safarpour/ai-eng-skill-range",
-    "stars": 0,
-    "updated_at": "2026-08-08T11:25:37Z",
-    "url": "https://github.com/homayoun-safarpour/ai-eng-skill-range"
-  },
-  {
-    "description": "FastAPI RAG eval with Qdrant Compose, offline lexical judge, and a frozen hit@k/MRR regression gate.",
-    "id": "homayoun-safarpour/rag-eval-service",
-    "language": "Python",
-    "name": "homayoun-safarpour/rag-eval-service",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:55:37Z",
-    "url": "https://github.com/homayoun-safarpour/rag-eval-service"
-  },
-  {
-    "description": "Trace-grounded agent eval: YAML scenarios, evidence detectors, uncertainty-aware group diagnostics, exit-code CI gate.",
-    "id": "homayoun-safarpour/agent-eval-workbench",
-    "language": "Python",
-    "name": "homayoun-safarpour/agent-eval-workbench",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:45:35Z",
-    "url": "https://github.com/homayoun-safarpour/agent-eval-workbench"
-  },
-  {
-    "description": "Fail CI when agent trajectory scores regress against a frozen baseline (exit 0 or 2).",
-    "id": "homayoun-safarpour/trace-gate",
-    "language": "Python",
-    "name": "homayoun-safarpour/trace-gate",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:36:20Z",
-    "url": "https://github.com/homayoun-safarpour/trace-gate"
-  },
-  {
-    "description": "Diagnose whether a low-kappa LLM judge panel fails from item ambiguity or rubric underspecification.",
-    "id": "homayoun-safarpour/judge-reliability-kit",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-reliability-kit",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:25:06Z",
-    "url": "https://github.com/homayoun-safarpour/judge-reliability-kit"
-  },
-  {
-    "description": "Attribute eval-score movement to the system or the LLM judge using a frozen human anchor set and kappa.",
-    "id": "homayoun-safarpour/judge-drift-sentinel",
-    "language": "Python",
-    "name": "homayoun-safarpour/judge-drift-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-08T10:04:19Z",
-    "url": "https://github.com/homayoun-safarpour/judge-drift-sentinel"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -898,5 +844,59 @@
     "stars": 0,
     "updated_at": "2026-07-27T14:07:36Z",
     "url": "https://github.com/reaatech/rag-eval-pack"
+  },
+  {
+    "description": "A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on ",
+    "id": "Juanllenato/llm-eval-harness",
+    "language": "Python",
+    "name": "Juanllenato/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-03T23:29:37Z",
+    "url": "https://github.com/Juanllenato/llm-eval-harness"
+  },
+  {
+    "description": "LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check",
+    "id": "Victor-David-Medina/llm-eval-harness",
+    "language": "Python",
+    "name": "Victor-David-Medina/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:16:47Z",
+    "url": "https://github.com/Victor-David-Medina/llm-eval-harness"
+  },
+  {
+    "description": "The CI regression gate and governance-evidence layer for LLM systems \u2014 zero-dependency, vendor-neutral, offline.",
+    "id": "thestio/thest-eval",
+    "language": "Python",
+    "name": "thestio/thest-eval",
+    "stars": 0,
+    "updated_at": "2026-06-02T04:58:34Z",
+    "url": "https://github.com/thestio/thest-eval"
+  },
+  {
+    "description": "Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports.",
+    "id": "monkeyin92/voice-agent-testops",
+    "language": "TypeScript",
+    "name": "monkeyin92/voice-agent-testops",
+    "stars": 0,
+    "updated_at": "2026-06-01T03:51:36Z",
+    "url": "https://github.com/monkeyin92/voice-agent-testops"
+  },
+  {
+    "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
+    "id": "fastxyz/skill-optimizer",
+    "language": "TypeScript",
+    "name": "fastxyz/skill-optimizer",
+    "stars": 73,
+    "updated_at": "2026-05-28T17:39:51Z",
+    "url": "https://github.com/fastxyz/skill-optimizer"
+  },
+  {
+    "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
+    "id": "rogue-socket/focusgroup",
+    "language": "Python",
+    "name": "rogue-socket/focusgroup",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:28:06Z",
+    "url": "https://github.com/rogue-socket/focusgroup"
   }
 ]
