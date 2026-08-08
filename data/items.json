@@ -1,5 +1,23 @@
 [
   {
+    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
+    "id": "camerontjs-dot/agent-eval-notes",
+    "language": "CSS",
+    "name": "camerontjs-dot/agent-eval-notes",
+    "stars": 0,
+    "updated_at": "2026-08-08T20:47:53Z",
+    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
+  },
+  {
+    "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
+    "id": "camerontjs-dot/verified-done",
+    "language": "Python",
+    "name": "camerontjs-dot/verified-done",
+    "stars": 0,
+    "updated_at": "2026-08-08T20:47:39Z",
+    "url": "https://github.com/camerontjs-dot/verified-done"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T04:58:34Z",
     "url": "https://github.com/thestio/thest-eval"
-  },
-  {
-    "description": "Regression testing for voice agents: scripted conversations, safety assertions, CI-ready reports.",
-    "id": "monkeyin92/voice-agent-testops",
-    "language": "TypeScript",
-    "name": "monkeyin92/voice-agent-testops",
-    "stars": 0,
-    "updated_at": "2026-06-01T03:51:36Z",
-    "url": "https://github.com/monkeyin92/voice-agent-testops"
-  },
-  {
-    "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
-    "id": "fastxyz/skill-optimizer",
-    "language": "TypeScript",
-    "name": "fastxyz/skill-optimizer",
-    "stars": 74,
-    "updated_at": "2026-05-28T17:39:51Z",
-    "url": "https://github.com/fastxyz/skill-optimizer"
   }
 ]
