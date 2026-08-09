@@ -1,5 +1,14 @@
 [
   {
+    "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
+    "id": "gabriel-ngrs/CalorIA",
+    "language": "Python",
+    "name": "gabriel-ngrs/CalorIA",
+    "stars": 1,
+    "updated_at": "2026-08-09T03:45:45Z",
+    "url": "https://github.com/gabriel-ngrs/CalorIA"
+  },
+  {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T14:07:36Z",
     "url": "https://github.com/reaatech/rag-eval-pack"
-  },
-  {
-    "description": "A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on ",
-    "id": "Juanllenato/llm-eval-harness",
-    "language": "Python",
-    "name": "Juanllenato/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-03T23:29:37Z",
-    "url": "https://github.com/Juanllenato/llm-eval-harness"
   }
 ]
