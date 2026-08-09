@@ -1,5 +1,14 @@
 [
   {
+    "description": "Run Roblox Lua scripts on Windows with 500+ keyless scripts, a built-in database, and a minimal UI\u2014Phoenix Executor v4.2",
+    "id": "Tessiecorrupt733/phoenix-script-executor-v4",
+    "language": "HTML",
+    "name": "Tessiecorrupt733/phoenix-script-executor-v4",
+    "stars": 0,
+    "updated_at": "2026-08-09T00:26:38Z",
+    "url": "https://github.com/Tessiecorrupt733/phoenix-script-executor-v4"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -77,7 +86,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 330,
-    "updated_at": "2026-08-08T21:56:34Z",
+    "updated_at": "2026-08-09T00:37:30Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T17:16:47Z",
     "url": "https://github.com/Victor-David-Medina/llm-eval-harness"
-  },
-  {
-    "description": "The CI regression gate and governance-evidence layer for LLM systems \u2014 zero-dependency, vendor-neutral, offline.",
-    "id": "thestio/thest-eval",
-    "language": "Python",
-    "name": "thestio/thest-eval",
-    "stars": 0,
-    "updated_at": "2026-06-02T04:58:34Z",
-    "url": "https://github.com/thestio/thest-eval"
   }
 ]
