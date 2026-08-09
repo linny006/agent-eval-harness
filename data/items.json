@@ -1,20 +1,11 @@
 [
   {
-    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
-    "id": "saddled-panicattack529/idea-evaluation-pipeline",
-    "language": "\u2014",
-    "name": "saddled-panicattack529/idea-evaluation-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:21:36Z",
-    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
-  },
-  {
     "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
     "id": "derivational-doubletime597/phoenix-script-executor-win",
     "language": "HTML",
     "name": "derivational-doubletime597/phoenix-script-executor-win",
     "stars": 0,
-    "updated_at": "2026-08-09T17:25:04Z",
+    "updated_at": "2026-08-09T18:38:25Z",
     "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
   },
   {
@@ -23,8 +14,26 @@
     "language": "HTML",
     "name": "Tessiecorrupt733/phoenix-script-executor-v4",
     "stars": 0,
-    "updated_at": "2026-08-09T17:09:23Z",
+    "updated_at": "2026-08-09T18:38:17Z",
     "url": "https://github.com/Tessiecorrupt733/phoenix-script-executor-v4"
+  },
+  {
+    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
+    "id": "RudrenduPaul/memtrust",
+    "language": "Python",
+    "name": "RudrenduPaul/memtrust",
+    "stars": 0,
+    "updated_at": "2026-08-09T18:33:14Z",
+    "url": "https://github.com/RudrenduPaul/memtrust"
+  },
+  {
+    "description": "Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist",
+    "id": "saddled-panicattack529/idea-evaluation-pipeline",
+    "language": "\u2014",
+    "name": "saddled-panicattack529/idea-evaluation-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-09T18:21:36Z",
+    "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -43,15 +52,6 @@
     "stars": 24086,
     "updated_at": "2026-08-09T09:33:58Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
-    "id": "RudrenduPaul/memtrust",
-    "language": "Python",
-    "name": "RudrenduPaul/memtrust",
-    "stars": 0,
-    "updated_at": "2026-08-09T09:10:20Z",
-    "url": "https://github.com/RudrenduPaul/memtrust"
   },
   {
     "description": "A/B test agent skills with blind grading + bootstrap CIs - does your SKILL.md actually improve task performance?",
@@ -313,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T12:22:32Z",
     "url": "https://github.com/guildshelf/free-skills"
-  },
-  {
-    "description": "Dependency-free statistical checks for AI eval claims: multiple-comparisons correction, LLM-judge bias tests, and leave-",
-    "id": "ipezygj/evalgate",
-    "language": "Python",
-    "name": "ipezygj/evalgate",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:48:11Z",
-    "url": "https://github.com/ipezygj/evalgate"
   },
   {
     "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
@@ -898,5 +889,14 @@
     "stars": 0,
     "updated_at": "2026-08-05T05:34:36Z",
     "url": "https://github.com/reaatech/classifier-evals"
+  },
+  {
+    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
+    "id": "reaatech/rag-eval-pack",
+    "language": "TypeScript",
+    "name": "reaatech/rag-eval-pack",
+    "stars": 0,
+    "updated_at": "2026-07-27T14:07:36Z",
+    "url": "https://github.com/reaatech/rag-eval-pack"
   }
 ]
