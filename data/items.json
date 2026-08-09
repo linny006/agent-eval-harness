@@ -1,5 +1,14 @@
 [
   {
+    "description": "CLI for AI agent skill testing and prompt A/B testing \u2014 measure whether a SKILL.md improves LLM task performance.",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 21,
+    "updated_at": "2026-08-09T07:44:58Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
     "description": "Independent, reproducible CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep/Graphiti, OpenViking): r",
     "id": "RudrenduPaul/memtrust",
     "language": "Python",
@@ -139,7 +148,7 @@
     "id": "truera/trulens",
     "language": "Python",
     "name": "truera/trulens",
-    "stars": 3493,
+    "stars": 3494,
     "updated_at": "2026-08-07T14:21:57Z",
     "url": "https://github.com/truera/trulens"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T05:34:36Z",
     "url": "https://github.com/reaatech/classifier-evals"
-  },
-  {
-    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
-    "id": "reaatech/rag-eval-pack",
-    "language": "TypeScript",
-    "name": "reaatech/rag-eval-pack",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:07:36Z",
-    "url": "https://github.com/reaatech/rag-eval-pack"
   }
 ]
