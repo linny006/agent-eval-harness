@@ -1,12 +1,12 @@
 [
   {
-    "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
-    "id": "camerontjs-dot/verified-done",
-    "language": "Python",
-    "name": "camerontjs-dot/verified-done",
+    "description": "Execute and manage Roblox Lua scripts on Windows with a lightweight, feature-rich executor supporting 500+ scripts, queu",
+    "id": "derivational-doubletime597/phoenix-script-executor-win",
+    "language": "HTML",
+    "name": "derivational-doubletime597/phoenix-script-executor-win",
     "stars": 0,
-    "updated_at": "2026-08-09T02:05:08Z",
-    "url": "https://github.com/camerontjs-dot/verified-done"
+    "updated_at": "2026-08-09T02:35:34Z",
+    "url": "https://github.com/derivational-doubletime597/phoenix-script-executor-win"
   },
   {
     "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
@@ -14,8 +14,17 @@
     "language": "CSS",
     "name": "camerontjs-dot/agent-eval-notes",
     "stars": 0,
-    "updated_at": "2026-08-09T02:04:47Z",
+    "updated_at": "2026-08-09T02:34:17Z",
     "url": "https://github.com/camerontjs-dot/agent-eval-notes"
+  },
+  {
+    "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
+    "id": "camerontjs-dot/verified-done",
+    "language": "Python",
+    "name": "camerontjs-dot/verified-done",
+    "stars": 0,
+    "updated_at": "2026-08-09T02:05:08Z",
+    "url": "https://github.com/camerontjs-dot/verified-done"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T23:29:37Z",
     "url": "https://github.com/Juanllenato/llm-eval-harness"
-  },
-  {
-    "description": "LLM evaluation harness that gates quality in CI: golden datasets, regression detection, grounding and faithfulness check",
-    "id": "Victor-David-Medina/llm-eval-harness",
-    "language": "Python",
-    "name": "Victor-David-Medina/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-03T17:16:47Z",
-    "url": "https://github.com/Victor-David-Medina/llm-eval-harness"
   }
 ]
