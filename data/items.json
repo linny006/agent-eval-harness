@@ -1,11 +1,20 @@
 [
   {
+    "description": "Can your agent hold a job? A 25-chair benchmark that measures whether an AI agent can be trusted with real work \u2014 dirty ",
+    "id": "lordbasilaiassistant-sudo/company-bench",
+    "language": "JavaScript",
+    "name": "lordbasilaiassistant-sudo/company-bench",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:39:47Z",
+    "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 10996,
-    "updated_at": "2026-08-11T19:30:30Z",
+    "updated_at": "2026-08-11T19:41:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T14:07:36Z",
     "url": "https://github.com/reaatech/rag-eval-pack"
-  },
-  {
-    "description": "A small, production-minded evaluation and observability harness for LLM/RAG features. Runs offline or live, gates CI on ",
-    "id": "Juanllenato/llm-eval-harness",
-    "language": "Python",
-    "name": "Juanllenato/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-03T23:29:37Z",
-    "url": "https://github.com/Juanllenato/llm-eval-harness"
   }
 ]
