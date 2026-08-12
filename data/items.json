@@ -1,20 +1,11 @@
 [
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24171,
-    "updated_at": "2026-08-12T16:59:39Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Can your AI agent hold a job? Open-source benchmark for AI agent trustworthiness, not capability: 29 chairs, 7 departmen",
     "id": "lordbasilaiassistant-sudo/company-bench",
     "language": "JavaScript",
     "name": "lordbasilaiassistant-sudo/company-bench",
     "stars": 1,
-    "updated_at": "2026-08-12T16:40:32Z",
+    "updated_at": "2026-08-12T17:05:01Z",
     "url": "https://github.com/lordbasilaiassistant-sudo/company-bench"
   },
   {
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11015,
-    "updated_at": "2026-08-12T16:50:28Z",
+    "updated_at": "2026-08-12T17:03:34Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24171,
+    "updated_at": "2026-08-12T17:07:21Z",
+    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
