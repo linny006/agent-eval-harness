@@ -1,30 +1,39 @@
 [
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 332,
-    "updated_at": "2026-08-12T08:44:08Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11008,
+    "updated_at": "2026-08-12T09:12:59Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
-    "stars": 5748,
-    "updated_at": "2026-08-12T08:26:29Z",
+    "stars": 5749,
+    "updated_at": "2026-08-12T09:10:57Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11007,
-    "updated_at": "2026-08-12T08:54:56Z",
-    "url": "https://github.com/Arize-ai/phoenix"
+    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
+    "id": "goldbarth/chartula-evals",
+    "language": "\u2014",
+    "name": "goldbarth/chartula-evals",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:04:41Z",
+    "url": "https://github.com/goldbarth/chartula-evals"
+  },
+  {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 332,
+    "updated_at": "2026-08-12T09:04:30Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
@@ -117,6 +126,15 @@
     "url": "https://github.com/IonDen/mlx-quant-fidelity"
   },
   {
+    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
+    "id": "reaatech/agent-eval-harness",
+    "language": "TypeScript",
+    "name": "reaatech/agent-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:08:02Z",
+    "url": "https://github.com/reaatech/agent-eval-harness"
+  },
+  {
     "description": "ISP helpdesk RAG assistant: eval-first take-home with measured v1/v2 regression, two-gate no-answer, diagnostic flow. bg",
     "id": "KolyaSotnichenko/webitel-tz",
     "language": "Python",
@@ -133,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-08-10T06:37:32Z",
     "url": "https://github.com/saddled-panicattack529/idea-evaluation-pipeline"
+  },
+  {
+    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
+    "id": "valbaudo/awf",
+    "language": "Go",
+    "name": "valbaudo/awf",
+    "stars": 1,
+    "updated_at": "2026-08-10T06:22:51Z",
+    "url": "https://github.com/valbaudo/awf"
   },
   {
     "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
@@ -234,15 +261,6 @@
     "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
   },
   {
-    "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
-    "id": "goldbarth/chartula-evals",
-    "language": "\u2014",
-    "name": "goldbarth/chartula-evals",
-    "stars": 0,
-    "updated_at": "2026-08-06T17:43:54Z",
-    "url": "https://github.com/goldbarth/chartula-evals"
-  },
-  {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
     "id": "ozlar34/job-match-radar",
     "language": "Python",
@@ -270,6 +288,15 @@
     "url": "https://github.com/ajmeese7/local-llms"
   },
   {
+    "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
+    "id": "reaatech/classifier-evals",
+    "language": "TypeScript",
+    "name": "reaatech/classifier-evals",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:34:48Z",
+    "url": "https://github.com/reaatech/classifier-evals"
+  },
+  {
     "description": "Automated eval harness for AI agents \u2014 gold set + scoring + CI that fails the build on regressions. Self-contained, no A",
     "id": "junju523/agent-eval-harness-demo",
     "language": "JavaScript",
@@ -295,6 +322,15 @@
     "stars": 0,
     "updated_at": "2026-08-03T16:32:25Z",
     "url": "https://github.com/mac-builds-things/agent-evals-harness"
+  },
+  {
+    "description": "An graph-eval framework for LLM's ",
+    "id": "harnexa/nexa-gauge",
+    "language": "Python",
+    "name": "harnexa/nexa-gauge",
+    "stars": 40,
+    "updated_at": "2026-08-03T09:25:37Z",
+    "url": "https://github.com/harnexa/nexa-gauge"
   },
   {
     "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
@@ -387,6 +423,15 @@
     "url": "https://github.com/NoesisVision/nasde-toolkit"
   },
   {
+    "description": "Handwritten Text Recognition llm eval tool",
+    "id": "lehigh-university-libraries/htr",
+    "language": "Go",
+    "name": "lehigh-university-libraries/htr",
+    "stars": 2,
+    "updated_at": "2026-07-29T01:01:05Z",
+    "url": "https://github.com/lehigh-university-libraries/htr"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -394,6 +439,15 @@
     "stars": 1,
     "updated_at": "2026-08-10T23:57:41Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
+  },
+  {
+    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
+    "id": "reaatech/rag-eval-pack",
+    "language": "TypeScript",
+    "name": "reaatech/rag-eval-pack",
+    "stars": 0,
+    "updated_at": "2026-07-27T14:07:36Z",
+    "url": "https://github.com/reaatech/rag-eval-pack"
   },
   {
     "description": "Marketing site for book-mash and mash-core",
@@ -477,15 +531,6 @@
     "url": "https://github.com/10div10/agent-trajectory-evaluator"
   },
   {
-    "description": "Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s",
-    "id": "valbaudo/awf",
-    "language": "Go",
-    "name": "valbaudo/awf",
-    "stars": 1,
-    "updated_at": "2026-08-10T06:22:51Z",
-    "url": "https://github.com/valbaudo/awf"
-  },
-  {
     "description": "Developer-first LLM/RAG safety audits for CI/CD \u2014 faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta",
     "id": "iZenDeveloper/auditai",
     "language": "Python",
@@ -502,15 +547,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T10:31:59Z",
     "url": "https://github.com/monospaceai/evaldata"
-  },
-  {
-    "description": "Handwritten Text Recognition llm eval tool",
-    "id": "lehigh-university-libraries/htr",
-    "language": "Go",
-    "name": "lehigh-university-libraries/htr",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:01:05Z",
-    "url": "https://github.com/lehigh-university-libraries/htr"
   },
   {
     "description": "LLM eval dashboard for multiple choice and open ended prompts. Upload JSON or JSONL eval sets, run against OpenAI, Anthr",
@@ -558,13 +594,22 @@
     "url": "https://github.com/QuesmaOrg/BinaryAudit"
   },
   {
-    "description": "An graph-eval framework for LLM's ",
-    "id": "harnexa/nexa-gauge",
+    "description": "An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva",
+    "id": "coffee-converter/onthemoney",
     "language": "Python",
-    "name": "harnexa/nexa-gauge",
-    "stars": 40,
-    "updated_at": "2026-08-03T09:25:37Z",
-    "url": "https://github.com/harnexa/nexa-gauge"
+    "name": "coffee-converter/onthemoney",
+    "stars": 0,
+    "updated_at": "2026-07-14T01:42:41Z",
+    "url": "https://github.com/coffee-converter/onthemoney"
+  },
+  {
+    "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
+    "id": "rogue-socket/focusgroup",
+    "language": "Python",
+    "name": "rogue-socket/focusgroup",
+    "stars": 0,
+    "updated_at": "2026-07-13T18:28:06Z",
+    "url": "https://github.com/rogue-socket/focusgroup"
   },
   {
     "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
@@ -601,15 +646,6 @@
     "stars": 3,
     "updated_at": "2026-07-09T19:45:47Z",
     "url": "https://github.com/ahwurm/localshift"
-  },
-  {
-    "description": "An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva",
-    "id": "coffee-converter/onthemoney",
-    "language": "Python",
-    "name": "coffee-converter/onthemoney",
-    "stars": 0,
-    "updated_at": "2026-07-14T01:42:41Z",
-    "url": "https://github.com/coffee-converter/onthemoney"
   },
   {
     "description": "A broken Terminal-Bench 2 (Harbor) task, repaired: reproducible env, solution-leak removed, gameable verifier replaced w",
@@ -691,15 +727,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T12:20:42Z",
     "url": "https://github.com/Merchantlee99/myrealtrip-cancel-recovery-eval"
-  },
-  {
-    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
-    "id": "reaatech/agent-eval-harness",
-    "language": "TypeScript",
-    "name": "reaatech/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:08:02Z",
-    "url": "https://github.com/reaatech/agent-eval-harness"
   },
   {
     "description": "RAG agentique sur des documents de concession t\u00e9l\u00e9com publique (DSP/RIP), pens\u00e9 eval-first et contr\u00f4l\u00e9 en CI.",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T14:29:09Z",
     "url": "https://github.com/akanjilal-work/agent-eval-harness"
-  },
-  {
-    "description": "Continuity Keys: tests for \u201csame someone\u201d returns. Behavioral identity consistency under pressure. Origin (Alyssa Solen)",
-    "id": "alyssadata/continuity-keys",
-    "language": "\u2014",
-    "name": "alyssadata/continuity-keys",
-    "stars": 1,
-    "updated_at": "2026-06-08T19:12:31Z",
-    "url": "https://github.com/alyssadata/continuity-keys"
-  },
-  {
-    "description": "Offline classifier evaluation harness \u2014 dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio",
-    "id": "reaatech/classifier-evals",
-    "language": "TypeScript",
-    "name": "reaatech/classifier-evals",
-    "stars": 0,
-    "updated_at": "2026-08-12T05:34:48Z",
-    "url": "https://github.com/reaatech/classifier-evals"
-  },
-  {
-    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
-    "id": "reaatech/rag-eval-pack",
-    "language": "TypeScript",
-    "name": "reaatech/rag-eval-pack",
-    "stars": 0,
-    "updated_at": "2026-07-27T14:07:36Z",
-    "url": "https://github.com/reaatech/rag-eval-pack"
   }
 ]
