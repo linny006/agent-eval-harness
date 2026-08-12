@@ -432,6 +432,15 @@
     "url": "https://github.com/lehigh-university-libraries/htr"
   },
   {
+    "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
+    "id": "j-newcom/retail-cpg-eval-datasets",
+    "language": "Python",
+    "name": "j-newcom/retail-cpg-eval-datasets",
+    "stars": 0,
+    "updated_at": "2026-07-28T15:48:18Z",
+    "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -889,14 +898,5 @@
     "stars": 4,
     "updated_at": "2026-06-11T11:20:58Z",
     "url": "https://github.com/ejentum/eval"
-  },
-  {
-    "description": "A lightweight harness to test agent behaviour (tool-call correctness, injection refusal, cost ceilings) before deploymen",
-    "id": "akanjilal-work/agent-eval-harness",
-    "language": "Python",
-    "name": "akanjilal-work/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:29:09Z",
-    "url": "https://github.com/akanjilal-work/agent-eval-harness"
   }
 ]
