@@ -1,5 +1,14 @@
 [
   {
+    "description": "Bilingual reduced-fare policy assistant for five California transit agencies, grounded in dated citations and shipped wi",
+    "id": "ChelseaKR/fare-policy-assistant",
+    "language": "HTML",
+    "name": "ChelseaKR/fare-policy-assistant",
+    "stars": 1,
+    "updated_at": "2026-08-13T02:45:13Z",
+    "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T07:51:51Z",
     "url": "https://github.com/mpuodziukas-labs/eval-harness-template"
-  },
-  {
-    "description": "A/B evaluate any LLM task with and without Ejentum cognitive injection. n8n workflow + TypeScript module.",
-    "id": "ejentum/eval",
-    "language": "Python",
-    "name": "ejentum/eval",
-    "stars": 4,
-    "updated_at": "2026-06-11T11:20:58Z",
-    "url": "https://github.com/ejentum/eval"
   }
 ]
