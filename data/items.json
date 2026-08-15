@@ -594,6 +594,15 @@
     "url": "https://github.com/AshC2004/llm-eval-harness"
   },
   {
+    "description": "Official repository for \"CausalDS: Benchmarking Causal Reasoning in Data-Science Agents\"",
+    "id": "andleb/causalds",
+    "language": "Python",
+    "name": "andleb/causalds",
+    "stars": 2,
+    "updated_at": "2026-07-17T20:38:00Z",
+    "url": "https://github.com/andleb/causalds"
+  },
+  {
     "description": "A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality \u2014 we measured whether any",
     "id": "sahuno/confounded",
     "language": "R",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:42:37Z",
     "url": "https://github.com/jedobe/skill-evaluator"
-  },
-  {
-    "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
-    "id": "ALEX-nlp/OpenSkillEval",
-    "language": "Python",
-    "name": "ALEX-nlp/OpenSkillEval",
-    "stars": 13,
-    "updated_at": "2026-06-15T02:14:09Z",
-    "url": "https://github.com/ALEX-nlp/OpenSkillEval"
   }
 ]
