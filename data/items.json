@@ -1,5 +1,14 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 8,
+    "updated_at": "2026-08-15T20:03:34Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -637,15 +646,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T18:28:06Z",
     "url": "https://github.com/rogue-socket/focusgroup"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 8,
-    "updated_at": "2026-07-13T03:14:02Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat",
