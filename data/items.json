@@ -1,19 +1,37 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 334,
+    "updated_at": "2026-08-15T16:46:26Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Evaluation and regression harness for real-time voice agents. Text evals score words; voice agents fail on timing. Ringd",
     "id": "Vishalvk2219/Ringdown",
     "language": "Python",
     "name": "Vishalvk2219/Ringdown",
     "stars": 0,
-    "updated_at": "2026-08-15T16:14:18Z",
+    "updated_at": "2026-08-15T16:55:05Z",
     "url": "https://github.com/Vishalvk2219/Ringdown"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11063,
+    "updated_at": "2026-08-15T15:59:19Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24255,
+    "stars": 24256,
     "updated_at": "2026-08-15T15:50:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -63,15 +81,6 @@
     "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11062,
-    "updated_at": "2026-08-15T15:59:19Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
     "id": "j-newcom/retail-cpg-eval-datasets",
     "language": "Python",
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T13:21:42Z",
     "url": "https://github.com/karlmehta/trustmodel-mcp"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 334,
-    "updated_at": "2026-08-15T15:53:13Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
