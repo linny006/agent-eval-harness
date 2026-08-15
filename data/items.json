@@ -1,14 +1,5 @@
 [
   {
-    "description": "An open reference implementation for accessible, evaluated, multilingual, production-grade public-sector RAG chatbots \u2014 ",
-    "id": "ChelseaKR/civic-rag-starter-kit",
-    "language": "Python",
-    "name": "ChelseaKR/civic-rag-starter-kit",
-    "stars": 1,
-    "updated_at": "2026-08-15T18:51:21Z",
-    "url": "https://github.com/ChelseaKR/civic-rag-starter-kit"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -898,5 +889,14 @@
     "stars": 0,
     "updated_at": "2026-06-17T00:42:37Z",
     "url": "https://github.com/jedobe/skill-evaluator"
+  },
+  {
+    "description": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
+    "id": "ALEX-nlp/OpenSkillEval",
+    "language": "Python",
+    "name": "ALEX-nlp/OpenSkillEval",
+    "stars": 13,
+    "updated_at": "2026-06-15T02:14:09Z",
+    "url": "https://github.com/ALEX-nlp/OpenSkillEval"
   }
 ]
