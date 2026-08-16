@@ -1,5 +1,14 @@
 [
   {
+    "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
+    "id": "ahmedmoha9088/PhoenixFish",
+    "language": "Java",
+    "name": "ahmedmoha9088/PhoenixFish",
+    "stars": 0,
+    "updated_at": "2026-08-16T20:10:45Z",
+    "url": "https://github.com/ahmedmoha9088/PhoenixFish"
+  },
+  {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T23:15:47Z",
     "url": "https://github.com/TeracAI/svg-arena"
-  },
-  {
-    "description": "Zero-dependency detector and classifier for LLM refusals, deflections, and capability disclaimers \u2014 CLI + library with s",
-    "id": "Ayubjon/refusal-radar",
-    "language": "JavaScript",
-    "name": "Ayubjon/refusal-radar",
-    "stars": 1,
-    "updated_at": "2026-06-20T15:14:56Z",
-    "url": "https://github.com/Ayubjon/refusal-radar"
   }
 ]
