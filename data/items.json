@@ -1,5 +1,14 @@
 [
   {
+    "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
+    "id": "ChelseaKR/sprout",
+    "language": "Python",
+    "name": "ChelseaKR/sprout",
+    "stars": 1,
+    "updated_at": "2026-08-16T19:59:52Z",
+    "url": "https://github.com/ChelseaKR/sprout"
+  },
+  {
     "description": "Bilingual reduced-fare policy assistant for eighteen California transit agencies, grounded in dated citations and shippe",
     "id": "ChelseaKR/fare-policy-assistant",
     "language": "HTML",
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T15:14:56Z",
     "url": "https://github.com/Ayubjon/refusal-radar"
-  },
-  {
-    "description": "Single-file labeling tool for LLM-as-judge calibration. Three-pane comparison + multi-dim scoring. Zero deployment.",
-    "id": "melody-ling-L/judgebuddy",
-    "language": "HTML",
-    "name": "melody-ling-L/judgebuddy",
-    "stars": 0,
-    "updated_at": "2026-06-20T10:07:23Z",
-    "url": "https://github.com/melody-ling-L/judgebuddy"
   }
 ]
