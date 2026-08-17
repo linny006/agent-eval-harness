@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 19:04 UTC
+> ⏰ Last updated: 2026-08-17 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -98,7 +98,7 @@ expired items removed — so you can rely on what you see being current.
 | 54 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-30 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
 | 55 | [isatimur/mash-core](https://github.com/isatimur/mash-core) | 0 | Python | 2026-07-29 |  |
 | 56 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-07-29 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
-| 57 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 11 | Python | 2026-07-29 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 57 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 12 | Python | 2026-07-29 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
 | 58 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-07-29 | Handwritten Text Recognition llm eval tool |
 | 59 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 1 | TypeScript | 2026-08-10 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
 | 60 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-07-27 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
