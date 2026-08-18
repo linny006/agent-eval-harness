@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM Agent Evaluation Platform",
+    "id": "modwin/agent-eval-framework",
+    "language": "Python",
+    "name": "modwin/agent-eval-framework",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:59:38Z",
+    "url": "https://github.com/modwin/agent-eval-framework"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24338,
+    "stars": 24340,
     "updated_at": "2026-08-18T03:57:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T18:58:45Z",
     "url": "https://github.com/gashel01/evalmcp"
-  },
-  {
-    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
-    "id": "anejakartik/evalstack",
-    "language": "TypeScript",
-    "name": "anejakartik/evalstack",
-    "stars": 0,
-    "updated_at": "2026-06-22T05:56:36Z",
-    "url": "https://github.com/anejakartik/evalstack"
   }
 ]
