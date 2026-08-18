@@ -1,5 +1,14 @@
 [
   {
+    "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
+    "id": "sunxin-ai/dsh-design-qa",
+    "language": "JavaScript",
+    "name": "sunxin-ai/dsh-design-qa",
+    "stars": 1,
+    "updated_at": "2026-08-18T09:42:21Z",
+    "url": "https://github.com/sunxin-ai/dsh-design-qa"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T05:56:36Z",
     "url": "https://github.com/anejakartik/evalstack"
-  },
-  {
-    "description": "NL\u2192SQL multi-agent pipeline (LangGraph + Claude) with deterministic SQL-injection guardrails and golden-set eval.",
-    "id": "jmpei/nl2sql-agents",
-    "language": "Python",
-    "name": "jmpei/nl2sql-agents",
-    "stars": 0,
-    "updated_at": "2026-06-21T18:14:07Z",
-    "url": "https://github.com/jmpei/nl2sql-agents"
   }
 ]
