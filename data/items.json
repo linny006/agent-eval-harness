@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11088,
+    "updated_at": "2026-08-18T01:44:15Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 5755,
     "updated_at": "2026-08-18T01:51:24Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11087,
-    "updated_at": "2026-08-18T01:44:15Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
@@ -32,7 +32,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24318,
-    "updated_at": "2026-08-18T00:50:30Z",
+    "updated_at": "2026-08-18T02:02:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
