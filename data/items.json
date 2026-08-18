@@ -1,10 +1,19 @@
 [
   {
+    "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
+    "id": "fabio-barboza/logistic-platform",
+    "language": "Java",
+    "name": "fabio-barboza/logistic-platform",
+    "stars": 0,
+    "updated_at": "2026-08-18T22:55:02Z",
+    "url": "https://github.com/fabio-barboza/logistic-platform"
+  },
+  {
     "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
     "id": "cannonade-ai/cannonade",
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-18T22:37:45Z",
     "url": "https://github.com/cannonade-ai/cannonade"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T03:52:11Z",
     "url": "https://github.com/melody-ling-L/eval-resume"
-  },
-  {
-    "description": "Evaluation for AI agents \u2014 judge-based scoring and native RAG metrics (faithfulness, relevancy, context precision/recall",
-    "id": "gashel01/evalmcp",
-    "language": "Python",
-    "name": "gashel01/evalmcp",
-    "stars": 0,
-    "updated_at": "2026-06-22T18:58:45Z",
-    "url": "https://github.com/gashel01/evalmcp"
   }
 ]
