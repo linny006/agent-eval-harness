@@ -1,5 +1,14 @@
 [
   {
+    "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
+    "id": "sunxin-ai/dsh-design-qa",
+    "language": "JavaScript",
+    "name": "sunxin-ai/dsh-design-qa",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:01:49Z",
+    "url": "https://github.com/sunxin-ai/dsh-design-qa"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 337,
     "updated_at": "2026-08-18T09:52:16Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
-    "id": "sunxin-ai/dsh-design-qa",
-    "language": "JavaScript",
-    "name": "sunxin-ai/dsh-design-qa",
-    "stars": 1,
-    "updated_at": "2026-08-18T09:42:21Z",
-    "url": "https://github.com/sunxin-ai/dsh-design-qa"
   },
   {
     "description": "AI Observability & Evaluation",
