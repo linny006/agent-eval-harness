@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11129,
+    "updated_at": "2026-08-20T17:42:48Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
+    "id": "tainguyen07/llm-eval-harness",
+    "language": "Python",
+    "name": "tainguyen07/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:36:59Z",
+    "url": "https://github.com/tainguyen07/llm-eval-harness"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -36,15 +54,6 @@
     "url": "https://github.com/fabio-barboza/logistic-platform"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11128,
-    "updated_at": "2026-08-20T17:04:28Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -54,20 +63,11 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
-    "id": "tainguyen07/llm-eval-harness",
-    "language": "\u2014",
-    "name": "tainguyen07/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-08-20T16:22:15Z",
-    "url": "https://github.com/tainguyen07/llm-eval-harness"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24408,
+    "stars": 24409,
     "updated_at": "2026-08-20T13:02:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
