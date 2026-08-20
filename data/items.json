@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
+    "id": "bhavya7995/AI_governance",
+    "language": "PowerShell",
+    "name": "bhavya7995/AI_governance",
+    "stars": 1,
+    "updated_at": "2026-08-20T10:12:40Z",
+    "url": "https://github.com/bhavya7995/AI_governance"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:11:22Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 338,
     "updated_at": "2026-08-20T08:26:57Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:50:39Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Measure MLX quantization quality loss \u2014 KL divergence, perplexity, top-token agreement for KV cache and weights",
@@ -203,17 +212,8 @@
     "language": "\u2014",
     "name": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "stars": 0,
-    "updated_at": "2026-08-18T03:05:13Z",
+    "updated_at": "2026-08-20T10:13:10Z",
     "url": "https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a",
-    "id": "bhavya7995/AI_governance",
-    "language": "PowerShell",
-    "name": "bhavya7995/AI_governance",
-    "stars": 1,
-    "updated_at": "2026-08-18T03:04:43Z",
-    "url": "https://github.com/bhavya7995/AI_governance"
   },
   {
     "description": "Di\u00e1rio alimentar com IA: eval do pipeline de LLM versionado junto do c\u00f3digo",
