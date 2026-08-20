@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11130,
+    "updated_at": "2026-08-20T22:27:15Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24410,
+    "updated_at": "2026-08-20T22:27:57Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -14,26 +32,8 @@
     "language": "TypeScript",
     "name": "cannonade-ai/cannonade",
     "stars": 2,
-    "updated_at": "2026-08-20T22:17:12Z",
+    "updated_at": "2026-08-20T22:30:24Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11130,
-    "updated_at": "2026-08-20T22:18:26Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24410,
-    "updated_at": "2026-08-20T22:23:37Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
