@@ -1,5 +1,14 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3516,
+    "updated_at": "2026-08-20T10:21:00Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -106,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T21:09:16Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3516,
-    "updated_at": "2026-08-19T18:03:24Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "Agente de IA para logistica: chat em linguagem natural sobre frota, rotas e entregas. Java 21, Spring Boot 4, Spring AI ",
