@@ -1,5 +1,23 @@
 [
   {
+    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
+    "id": "multivon-ai/multivon-eval",
+    "language": "Python",
+    "name": "multivon-ai/multivon-eval",
+    "stars": 15,
+    "updated_at": "2026-08-20T04:13:08Z",
+    "url": "https://github.com/multivon-ai/multivon-eval"
+  },
+  {
+    "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
+    "id": "sunxin-ai/dsh-design-qa",
+    "language": "JavaScript",
+    "name": "sunxin-ai/dsh-design-qa",
+    "stars": 1,
+    "updated_at": "2026-08-20T04:01:59Z",
+    "url": "https://github.com/sunxin-ai/dsh-design-qa"
+  },
+  {
     "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
     "id": "eliasfeitan-pixel/llm-eval-framework",
     "language": "\u2014",
@@ -31,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24389,
+    "stars": 24390,
     "updated_at": "2026-08-20T01:51:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -43,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T21:09:16Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "Practical LLM evaluation for teams that ship to production. Deterministic + LLM-as-judge evaluators, dataset support, CI",
-    "id": "multivon-ai/multivon-eval",
-    "language": "Python",
-    "name": "multivon-ai/multivon-eval",
-    "stars": 15,
-    "updated_at": "2026-08-19T19:01:27Z",
-    "url": "https://github.com/multivon-ai/multivon-eval"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T12:59:38Z",
     "url": "https://github.com/modwin/agent-eval-framework"
-  },
-  {
-    "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
-    "id": "sunxin-ai/dsh-design-qa",
-    "language": "JavaScript",
-    "name": "sunxin-ai/dsh-design-qa",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:03:24Z",
-    "url": "https://github.com/sunxin-ai/dsh-design-qa"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
