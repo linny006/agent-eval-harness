@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-21T11:17:58Z",
+    "updated_at": "2026-08-21T11:57:30Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
+    "id": "lorien/awesome-ai-rankings",
+    "language": "\u2014",
+    "name": "lorien/awesome-ai-rankings",
+    "stars": 0,
+    "updated_at": "2026-08-21T11:49:30Z",
+    "url": "https://github.com/lorien/awesome-ai-rankings"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -40,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24426,
+    "stars": 24427,
     "updated_at": "2026-08-21T05:03:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-06-29T08:04:27Z",
     "url": "https://github.com/TheAnacondA57/BidAgent"
-  },
-  {
-    "description": "Mission Spec \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ud50c\ub85c\ub97c \uc704\ud55c task contract layer",
-    "id": "chquandogong/mission-spec",
-    "language": "TypeScript",
-    "name": "chquandogong/mission-spec",
-    "stars": 0,
-    "updated_at": "2026-06-29T03:33:40Z",
-    "url": "https://github.com/chquandogong/mission-spec"
   }
 ]
