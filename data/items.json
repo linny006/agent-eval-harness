@@ -40,7 +40,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24476,
+    "stars": 24477,
     "updated_at": "2026-08-23T03:11:11Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -340,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T13:21:42Z",
     "url": "https://github.com/karlmehta/trustmodel-mcp"
-  },
-  {
-    "description": "Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th",
-    "id": "rithvik-bk/voiceos-eval",
-    "language": "JavaScript",
-    "name": "rithvik-bk/voiceos-eval",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:32:22Z",
-    "url": "https://github.com/rithvik-bk/voiceos-eval"
   },
   {
     "description": "Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs",
@@ -898,5 +889,14 @@
     "stars": 1,
     "updated_at": "2026-06-29T08:04:27Z",
     "url": "https://github.com/TheAnacondA57/BidAgent"
+  },
+  {
+    "description": "Mission Spec \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc6cc\ud06c\ud50c\ub85c\ub97c \uc704\ud55c task contract layer",
+    "id": "chquandogong/mission-spec",
+    "language": "TypeScript",
+    "name": "chquandogong/mission-spec",
+    "stars": 0,
+    "updated_at": "2026-06-29T03:33:40Z",
+    "url": "https://github.com/chquandogong/mission-spec"
   }
 ]
