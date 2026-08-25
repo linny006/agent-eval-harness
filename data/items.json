@@ -1,5 +1,14 @@
 [
   {
+    "description": "",
+    "id": "isatimur/mash-core",
+    "language": "Python",
+    "name": "isatimur/mash-core",
+    "stars": 0,
+    "updated_at": "2026-08-25T22:15:25Z",
+    "url": "https://github.com/isatimur/mash-core"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -574,15 +583,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T11:48:57Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "",
-    "id": "isatimur/mash-core",
-    "language": "Python",
-    "name": "isatimur/mash-core",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:49:22Z",
-    "url": "https://github.com/isatimur/mash-core"
   },
   {
     "description": "LLM evaluation framework \u2014 define what correct, well-formed, and safe means before you measure",
