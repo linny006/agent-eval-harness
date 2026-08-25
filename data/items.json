@@ -1,11 +1,20 @@
 [
   {
+    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "id": "truera/trulens",
+    "language": "Python",
+    "name": "truera/trulens",
+    "stars": 3522,
+    "updated_at": "2026-08-25T21:50:33Z",
+    "url": "https://github.com/truera/trulens"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11193,
-    "updated_at": "2026-08-25T21:18:59Z",
+    "updated_at": "2026-08-25T21:55:36Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T20:05:53Z",
     "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
-    "id": "truera/trulens",
-    "language": "Python",
-    "name": "truera/trulens",
-    "stars": 3522,
-    "updated_at": "2026-08-25T19:19:19Z",
-    "url": "https://github.com/truera/trulens"
   },
   {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24569,
-    "updated_at": "2026-08-25T18:42:11Z",
+    "updated_at": "2026-08-25T21:51:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
