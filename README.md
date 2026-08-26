@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 05:30 UTC
+> ⏰ Last updated: 2026-08-26 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -96,7 +96,7 @@ expired items removed — so you can rely on what you see being current.
 | 52 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
 | 53 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-08-10 | Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c |
 | 54 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-08-05 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
-| 55 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-08-22 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
+| 55 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-08-26 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
 | 56 | [junju523/agent-eval-harness-demo](https://github.com/junju523/agent-eval-harness-demo) | 0 | JavaScript | 2026-08-05 | Automated eval harness for AI agents — gold set + scoring + CI that fails the build on regressions. Self-contained, no A |
 | 57 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 1 | Python | 2026-08-04 | Statistically rigorous LLM evaluation for pytest — treats every eval as a proportion with a Wilson confidence interval,  |
 | 58 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
