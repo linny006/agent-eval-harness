@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24590,
+    "updated_at": "2026-08-26T14:09:35Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
     "id": "camerontjs-dot/verified-done",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "HaileyStorm/Creative-Writing-Rubrics",
     "stars": 0,
-    "updated_at": "2026-08-26T13:45:19Z",
+    "updated_at": "2026-08-26T14:07:08Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
@@ -45,21 +54,12 @@
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24589,
-    "updated_at": "2026-08-26T13:54:15Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11200,
-    "updated_at": "2026-08-26T13:41:44Z",
+    "updated_at": "2026-08-26T14:11:02Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
