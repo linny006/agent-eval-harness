@@ -1,11 +1,20 @@
 [
   {
+    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-08-29T18:44:59Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdicts, byte",
     "id": "ChelseaKR/plumbline",
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-08-29T18:41:32Z",
+    "updated_at": "2026-08-29T18:44:43Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T06:57:01Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python callable",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-08-29T18:42:05Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
