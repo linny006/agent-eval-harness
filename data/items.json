@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u8d37\u6b3e\u7ebf\u7d22 CRM\uff1aLLM \u8d44\u8d28\u62bd\u53d6 + eval \u6846\u67b6 + \u89c4\u5219\u5f15\u64ce\u64ae\u5408\u5224\u5b9a",
+    "id": "lihongyu-dev/anzhice-crm",
+    "language": "TypeScript",
+    "name": "lihongyu-dev/anzhice-crm",
+    "stars": 0,
+    "updated_at": "2026-08-29T01:09:19Z",
+    "url": "https://github.com/lihongyu-dev/anzhice-crm"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11227,
+    "updated_at": "2026-08-29T01:14:49Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
@@ -32,7 +50,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 24650,
-    "updated_at": "2026-08-29T00:50:43Z",
+    "updated_at": "2026-08-29T01:05:33Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T00:05:52Z",
     "url": "https://github.com/Kondwani10/Origin-Continuum"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11227,
-    "updated_at": "2026-08-29T00:53:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-01T06:09:34Z",
     "url": "https://github.com/hydrangeas20/safetylens"
-  },
-  {
-    "description": "An LLM-as-judge harness that scores AI-generated campaign phone scripts against a weighted quality rubric with a real Ha",
-    "id": "kilocommits/campaign-eval-harness",
-    "language": "Python",
-    "name": "kilocommits/campaign-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:59:14Z",
-    "url": "https://github.com/kilocommits/campaign-eval-harness"
   }
 ]
