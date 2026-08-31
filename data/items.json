@@ -1,11 +1,20 @@
 [
   {
+    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
+    "id": "Steel-predictor-project/steel-llm-eval",
+    "language": "JavaScript",
+    "name": "Steel-predictor-project/steel-llm-eval",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:41:58Z",
+    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11267,
-    "updated_at": "2026-08-31T21:11:40Z",
+    "stars": 11268,
+    "updated_at": "2026-08-31T21:40:41Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -592,15 +601,6 @@
     "stars": 40,
     "updated_at": "2026-08-03T09:25:37Z",
     "url": "https://github.com/harnexa/nexa-gauge"
-  },
-  {
-    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
-    "id": "Steel-predictor-project/steel-llm-eval",
-    "language": "Python",
-    "name": "Steel-predictor-project/steel-llm-eval",
-    "stars": 0,
-    "updated_at": "2026-08-31T20:55:42Z",
-    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
   },
   {
     "description": "Free Apache-2.0 skills for Claude Code, plus trigger-probe \u2014 the open-source tool we used to measure all 18 of our paid ",
