@@ -1,20 +1,11 @@
 [
   {
-    "description": "v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python ",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:44:04Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
     "description": "In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus",
     "id": "ChelseaKR/sprout",
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-02T02:41:08Z",
+    "updated_at": "2026-09-02T02:51:41Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -23,8 +14,26 @@
     "language": "HTML",
     "name": "ChelseaKR/fare-policy-assistant",
     "stars": 1,
-    "updated_at": "2026-09-02T02:40:58Z",
+    "updated_at": "2026-09-02T02:50:56Z",
     "url": "https://github.com/ChelseaKR/fare-policy-assistant"
+  },
+  {
+    "description": "An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva",
+    "id": "coffee-converter/onthemoney",
+    "language": "Python",
+    "name": "coffee-converter/onthemoney",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:48:00Z",
+    "url": "https://github.com/coffee-converter/onthemoney"
+  },
+  {
+    "description": "v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against any HTTP endpoint or Python ",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-09-02T02:45:28Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
   },
   {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
@@ -58,8 +67,8 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11285,
-    "updated_at": "2026-09-02T01:07:29Z",
+    "stars": 11286,
+    "updated_at": "2026-09-02T02:55:03Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "ChelseaKR/plumbline",
     "stars": 1,
-    "updated_at": "2026-08-29T21:25:28Z",
+    "updated_at": "2026-09-02T02:58:23Z",
     "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
@@ -671,7 +680,7 @@
     "language": "Go",
     "name": "lehigh-university-libraries/htr",
     "stars": 2,
-    "updated_at": "2026-08-28T13:44:38Z",
+    "updated_at": "2026-09-02T02:54:30Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
   },
   {
@@ -817,15 +826,6 @@
     "stars": 99,
     "updated_at": "2026-07-14T16:19:30Z",
     "url": "https://github.com/QuesmaOrg/BinaryAudit"
-  },
-  {
-    "description": "An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva",
-    "id": "coffee-converter/onthemoney",
-    "language": "Python",
-    "name": "coffee-converter/onthemoney",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:41:02Z",
-    "url": "https://github.com/coffee-converter/onthemoney"
   },
   {
     "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
