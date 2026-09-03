@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u6ca1\u8dd1\u8fc7\u7684\uff0c\u4e0d\u51fa\u5382\u3002Baize Prompt Lab \u2014 no eval, no ship.",
+    "id": "SmartStudio/baize-prompts",
+    "language": "\u2014",
+    "name": "SmartStudio/baize-prompts",
+    "stars": 0,
+    "updated_at": "2026-09-03T23:43:37Z",
+    "url": "https://github.com/SmartStudio/baize-prompts"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11313,
-    "updated_at": "2026-09-03T23:28:49Z",
+    "updated_at": "2026-09-03T23:39:11Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T18:01:12Z",
     "url": "https://github.com/christianmacion/judge-harness"
-  },
-  {
-    "description": "Stress-test the tool-routing decision inside an agent loop: audit confusable tools, red-team routing robustness, compare",
-    "id": "plwslpld-arch/loopward",
-    "language": "TypeScript",
-    "name": "plwslpld-arch/loopward",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:16:14Z",
-    "url": "https://github.com/plwslpld-arch/loopward"
   }
 ]
