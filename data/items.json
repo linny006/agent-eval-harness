@@ -1,11 +1,20 @@
 [
   {
+    "description": "Benchmark: do LLMs silently trust plausible-but-wrong tool data?",
+    "id": "Onur45500/SilentTrustBench",
+    "language": "Python",
+    "name": "Onur45500/SilentTrustBench",
+    "stars": 1,
+    "updated_at": "2026-09-03T21:28:40Z",
+    "url": "https://github.com/Onur45500/SilentTrustBench"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11311,
-    "updated_at": "2026-09-03T21:10:36Z",
+    "updated_at": "2026-09-03T21:26:27Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -13,8 +22,8 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 24792,
-    "updated_at": "2026-09-03T20:53:59Z",
+    "stars": 24793,
+    "updated_at": "2026-09-03T21:21:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "ChelseaKR/sprout",
     "stars": 1,
-    "updated_at": "2026-09-03T03:54:23Z",
+    "updated_at": "2026-09-03T21:21:32Z",
     "url": "https://github.com/ChelseaKR/sprout"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T09:16:14Z",
     "url": "https://github.com/plwslpld-arch/loopward"
-  },
-  {
-    "description": "Vital signs for your agent skills: measure whether a skill triggers when it should and whether it actually helps, on a c",
-    "id": "ContextJet-ai/skillvitals",
-    "language": "Python",
-    "name": "ContextJet-ai/skillvitals",
-    "stars": 1,
-    "updated_at": "2026-07-06T06:57:51Z",
-    "url": "https://github.com/ContextJet-ai/skillvitals"
   }
 ]
