@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-04 20:15 UTC
+> ⏰ Last updated: 2026-09-04 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11328 | Python | 2026-09-04 | AI Observability & Evaluation |
-| 2 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-04 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24819 | TypeScript | 2026-09-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 4 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-04 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
-| 5 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-04 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
-| 6 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-04 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
-| 7 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-04 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 8 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-04 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 9 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 345 | TypeScript | 2026-09-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 10 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-04 | 没跑过 = 不出厂。no eval, no ship. |
-| 11 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5801 | Python | 2026-09-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 1 | [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) | 5801 | Python | 2026-09-04 | 🐢 Open-Source Evaluation & Testing library for LLM Agents |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24820 | TypeScript | 2026-09-04 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 3 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11329 | Python | 2026-09-04 | AI Observability & Evaluation |
+| 4 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-04 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 5 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-04 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
+| 6 | [Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-](https://github.com/Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-) | 0 | — | 2026-09-04 | ♻️ Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou |
+| 7 | [bhavya7995/AI_governance](https://github.com/bhavya7995/AI_governance) | 1 | PowerShell | 2026-09-04 | 🤖 Streamline AI-assisted development with a governance kit for rules, enforcement, and decision-making, ensuring speed a |
+| 8 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-04 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 9 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-09-04 | 📐 Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 10 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 345 | TypeScript | 2026-09-04 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 11 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 0 | — | 2026-09-04 | 没跑过 = 不出厂。no eval, no ship. |
 | 12 | [truera/trulens](https://github.com/truera/trulens) | 3535 | Python | 2026-09-04 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 13 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-04 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
 | 14 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
@@ -103,7 +103,7 @@ expired items removed — so you can rely on what you see being current.
 | 59 | [AshwinUgale/goldset](https://github.com/AshwinUgale/goldset) | 4 | Python | 2026-08-15 | Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite — a curation accelerator with  |
 | 60 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 1 | TypeScript | 2026-08-14 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
 | 61 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-13 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
-| 62 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-09-03 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
+| 62 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-09-04 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 63 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-08-11 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 64 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-08-31 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 65 | [KolyaSotnichenko/webitel-tz](https://github.com/KolyaSotnichenko/webitel-tz) | 0 | Python | 2026-08-10 | ISP helpdesk RAG assistant: eval-first take-home with measured v1/v2 regression, two-gate no-answer, diagnostic flow. bg |
