@@ -1,5 +1,14 @@
 [
   {
+    "description": "Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D",
+    "id": "CloudsDocker/AI-FDE-Playbook",
+    "language": "Python",
+    "name": "CloudsDocker/AI-FDE-Playbook",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:11:53Z",
+    "url": "https://github.com/CloudsDocker/AI-FDE-Playbook"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T06:21:22Z",
     "url": "https://github.com/MihirBindu/dynamo-log-report-fix"
-  },
-  {
-    "description": "LLM-as-judge validated vs humans (Cohen's \u03ba), with position-bias exposed.",
-    "id": "christianmacion/judge-harness",
-    "language": "Python",
-    "name": "christianmacion/judge-harness",
-    "stars": 0,
-    "updated_at": "2026-07-08T18:01:12Z",
-    "url": "https://github.com/christianmacion/judge-harness"
   }
 ]
