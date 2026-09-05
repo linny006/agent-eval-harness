@@ -1,5 +1,14 @@
 [
   {
+    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
+    "id": "gititya/Quality-Agency-support",
+    "language": "Python",
+    "name": "gititya/Quality-Agency-support",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:44:53Z",
+    "url": "https://github.com/gititya/Quality-Agency-support"
+  },
+  {
     "description": "\ud83d\udcd0 Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -682,15 +691,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T12:22:32Z",
     "url": "https://github.com/guildshelf/free-skills"
-  },
-  {
-    "description": "Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix. ",
-    "id": "gititya/Quality-Agency-support",
-    "language": "Python",
-    "name": "gititya/Quality-Agency-support",
-    "stars": 0,
-    "updated_at": "2026-09-05T08:53:04Z",
-    "url": "https://github.com/gititya/Quality-Agency-support"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
