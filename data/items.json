@@ -45,6 +45,15 @@
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
+    "description": "A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching, ",
+    "id": "zahid23saim/llm-eval-harness",
+    "language": "Python",
+    "name": "zahid23saim/llm-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-09-07T15:03:03Z",
+    "url": "https://github.com/zahid23saim/llm-eval-harness"
+  },
+  {
     "description": "\u6ca1\u8dd1\u8fc7 = \u4e0d\u51fa\u5382\u3002no eval, no ship.",
     "id": "SmartStudio/baize-prompts",
     "language": "\u2014",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T18:28:06Z",
     "url": "https://github.com/rogue-socket/focusgroup"
-  },
-  {
-    "description": "Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance stat",
-    "id": "attogram/ollama-multirun",
-    "language": "Shell",
-    "name": "attogram/ollama-multirun",
-    "stars": 16,
-    "updated_at": "2026-07-12T14:06:36Z",
-    "url": "https://github.com/attogram/ollama-multirun"
   }
 ]
