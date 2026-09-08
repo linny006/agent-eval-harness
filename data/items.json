@@ -1,11 +1,20 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 24932,
+    "updated_at": "2026-09-08T17:43:56Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11379,
-    "updated_at": "2026-09-08T17:29:39Z",
+    "updated_at": "2026-09-08T17:43:55Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 3540,
     "updated_at": "2026-09-08T16:43:51Z",
     "url": "https://github.com/truera/trulens"
-  },
-  {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 24932,
-    "updated_at": "2026-09-08T17:29:09Z",
-    "url": "https://github.com/promptfoo/promptfoo"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -448,6 +448,15 @@
     "stars": 1,
     "updated_at": "2026-08-27T12:15:18Z",
     "url": "https://github.com/vishalmurugan1986/support-tam-ai-copilot"
+  },
+  {
+    "description": "L10 self-evolving LLM evaluation harness that learns from failures \u2014 faithfulness, relevance, toxicity, format metrics w",
+    "id": "mrodgersjs-web/rig-enhanced-evals",
+    "language": "Python",
+    "name": "mrodgersjs-web/rig-enhanced-evals",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:55:55Z",
+    "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
   },
   {
     "description": "Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split ",
@@ -889,14 +898,5 @@
     "stars": 99,
     "updated_at": "2026-07-14T16:19:30Z",
     "url": "https://github.com/QuesmaOrg/BinaryAudit"
-  },
-  {
-    "description": "Persona-driven dynamic testing for conversational AI products. Focus groups for your agents.",
-    "id": "rogue-socket/focusgroup",
-    "language": "Python",
-    "name": "rogue-socket/focusgroup",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:28:06Z",
-    "url": "https://github.com/rogue-socket/focusgroup"
   }
 ]
