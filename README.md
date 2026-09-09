@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-09 14:00 UTC
+> ⏰ Last updated: 2026-09-09 14:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24970 | TypeScript | 2026-09-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 12 | Python | 2026-09-09 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 24971 | TypeScript | 2026-09-09 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11388 | Python | 2026-09-09 | AI Observability & Evaluation |
 | 3 | [Kondwani10/Origin-Continuum](https://github.com/Kondwani10/Origin-Continuum) | 0 | — | 2026-09-09 | 🌐 Define and explore the Origin ↔ Continuum framework, ensuring proper attribution and continuity in dependency relation |
-| 4 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-09 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
-| 5 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-09 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
-| 6 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 346 | TypeScript | 2026-09-09 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 7 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-09 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
-| 8 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11388 | Python | 2026-09-09 | AI Observability & Evaluation |
+| 4 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 12 | Python | 2026-09-09 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
+| 5 | [HaileyStorm/Creative-Writing-Rubrics](https://github.com/HaileyStorm/Creative-Writing-Rubrics) | 0 | Python | 2026-09-09 | HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data. |
+| 6 | [jeremylongshore/j-rig-skill-binary-eval](https://github.com/jeremylongshore/j-rig-skill-binary-eval) | 2 | TypeScript | 2026-09-09 | Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e |
+| 7 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 346 | TypeScript | 2026-09-09 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 8 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-09 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 9 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-09 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
 | 10 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-09-09 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
 | 11 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-09-09 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
@@ -115,33 +115,33 @@ expired items removed — so you can rely on what you see being current.
 | 71 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-08-11 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
 | 72 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-09-07 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 73 | [KolyaSotnichenko/webitel-tz](https://github.com/KolyaSotnichenko/webitel-tz) | 0 | Python | 2026-08-10 | ISP helpdesk RAG assistant: eval-first take-home with measured v1/v2 regression, two-gate no-answer, diagnostic flow. bg |
-| 74 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
-| 75 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-09-09 | Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c |
-| 76 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-08-05 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
-| 77 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-09-09 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
-| 78 | [junju523/agent-eval-harness-demo](https://github.com/junju523/agent-eval-harness-demo) | 0 | JavaScript | 2026-08-05 | Automated eval harness for AI agents — gold set + scoring + CI that fails the build on regressions. Self-contained, no A |
-| 79 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 2 | Python | 2026-08-04 | Statistically rigorous LLM evaluation for pytest — treats every eval as a proportion with a Wilson confidence interval,  |
-| 80 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
-| 81 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 40 | Python | 2026-08-03 | An graph-eval framework for LLM's  |
-| 82 | [guildshelf/free-skills](https://github.com/guildshelf/free-skills) | 0 | Python | 2026-08-01 | Free Apache-2.0 skills for Claude Code, plus trigger-probe — the open-source tool we used to measure all 18 of our paid  |
-| 83 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-30 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
-| 84 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-09-02 | Handwritten Text Recognition llm eval tool |
-| 85 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-08-24 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
-| 86 | [isatimur/mash-site](https://github.com/isatimur/mash-site) | 0 | HTML | 2026-07-27 | Marketing site for book-mash and mash-core |
-| 87 | [shyam-ganapathy/write-like-me](https://github.com/shyam-ganapathy/write-like-me) | 1 | — | 2026-07-26 | Extract your writing voice from real samples into a reusable agent skill. Captures by diffing, not describing, and ships |
-| 88 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 16 | Rust | 2026-07-26 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
-| 89 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 1 | Python | 2026-07-25 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
-| 90 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-07-25 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
-| 91 | [tkarim45/agent-eval-harness](https://github.com/tkarim45/agent-eval-harness) | 1 | Python | 2026-07-25 | Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau |
-| 92 | [10div10/agent-trajectory-evaluator](https://github.com/10div10/agent-trajectory-evaluator) | 2 | Python | 2026-07-24 | LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency |
-| 93 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-23 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
-| 94 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-22 | Evaluate AI-generated SQL with pytest. |
-| 95 | [mohanish3/eval-atlas](https://github.com/mohanish3/eval-atlas) | 0 | TypeScript | 2026-07-21 | LLM eval dashboard for multiple choice and open ended prompts. Upload JSON or JSONL eval sets, run against OpenAI, Anthr |
-| 96 | [AshC2004/llm-eval-harness](https://github.com/AshC2004/llm-eval-harness) | 0 | Python | 2026-07-18 | Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs |
-| 97 | [andleb/causalds](https://github.com/andleb/causalds) | 2 | Python | 2026-07-17 | Official repository for "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents" |
-| 98 | [sahuno/confounded](https://github.com/sahuno/confounded) | 0 | R | 2026-09-06 | A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality — we measured whether any |
-| 99 | [vijayarjun7/flipcheck](https://github.com/vijayarjun7/flipcheck) | 0 | TypeScript | 2026-07-14 | LLM self-consistency and sycophancy diagnostic — catches contradictions and false-premise acceptance hiding behind confi |
-| 100 | [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit) | 99 | Shell | 2026-07-14 | An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries. |
+| 74 | [AyushCipher/Patch-Pilot](https://github.com/AyushCipher/Patch-Pilot) | 0 | Python | 2026-08-07 | Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re |
+| 75 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
+| 76 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-09-09 | Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c |
+| 77 | [ajmeese7/local-llms](https://github.com/ajmeese7/local-llms) | 1 | Python | 2026-08-05 | Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat |
+| 78 | [reaatech/classifier-evals](https://github.com/reaatech/classifier-evals) | 0 | TypeScript | 2026-09-09 | Offline classifier evaluation harness — dataset loader, confusion matrices, LLM-as-judge with cost accounting, regressio |
+| 79 | [junju523/agent-eval-harness-demo](https://github.com/junju523/agent-eval-harness-demo) | 0 | JavaScript | 2026-08-05 | Automated eval harness for AI agents — gold set + scoring + CI that fails the build on regressions. Self-contained, no A |
+| 80 | [nikolas-sapa/sigeval](https://github.com/nikolas-sapa/sigeval) | 2 | Python | 2026-08-04 | Statistically rigorous LLM evaluation for pytest — treats every eval as a proportion with a Wilson confidence interval,  |
+| 81 | [mac-builds-things/agent-evals-harness](https://github.com/mac-builds-things/agent-evals-harness) | 0 | Python | 2026-08-03 | Stop evaluating agents by feel. Scenario library, scoring rubric, and regression detection. |
+| 82 | [harnexa/nexa-gauge](https://github.com/harnexa/nexa-gauge) | 40 | Python | 2026-08-03 | An graph-eval framework for LLM's  |
+| 83 | [guildshelf/free-skills](https://github.com/guildshelf/free-skills) | 0 | Python | 2026-08-01 | Free Apache-2.0 skills for Claude Code, plus trigger-probe — the open-source tool we used to measure all 18 of our paid  |
+| 84 | [lftherios/session-link](https://github.com/lftherios/session-link) | 0 | Go | 2026-07-30 | A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit. |
+| 85 | [lehigh-university-libraries/htr](https://github.com/lehigh-university-libraries/htr) | 2 | Go | 2026-09-02 | Handwritten Text Recognition llm eval tool |
+| 86 | [reaatech/rag-eval-pack](https://github.com/reaatech/rag-eval-pack) | 0 | TypeScript | 2026-08-24 | RAG evaluation toolkit — faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with |
+| 87 | [isatimur/mash-site](https://github.com/isatimur/mash-site) | 0 | HTML | 2026-07-27 | Marketing site for book-mash and mash-core |
+| 88 | [shyam-ganapathy/write-like-me](https://github.com/shyam-ganapathy/write-like-me) | 1 | — | 2026-07-26 | Extract your writing voice from real samples into a reusable agent skill. Captures by diffing, not describing, and ships |
+| 89 | [Eval-core/evalcore](https://github.com/Eval-core/evalcore) | 16 | Rust | 2026-07-26 | Snapshot testing for LLM apps and agents, built to run locally and block regressions in CI. |
+| 90 | [vitorwilher/copom-rag-service](https://github.com/vitorwilher/copom-rag-service) | 1 | Python | 2026-07-25 | Serviço de RAG sobre atas do Copom + boletim Focus, servido como API (FastAPI+Docker), com eval harness (golden set, LLM |
+| 91 | [tkarim45/multi-agent-eval](https://github.com/tkarim45/multi-agent-eval) | 0 | Python | 2026-07-25 | Does multi-agent beat single-agent? Benchmarks a planner→workers→critic system vs single-agent on quality/cost/latency — |
+| 92 | [tkarim45/agent-eval-harness](https://github.com/tkarim45/agent-eval-harness) | 1 | Python | 2026-07-25 | Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Clau |
+| 93 | [10div10/agent-trajectory-evaluator](https://github.com/10div10/agent-trajectory-evaluator) | 2 | Python | 2026-07-24 | LLM-as-judge evaluator for scoring AI agent trajectories on task completion, tool correctness, and efficiency |
+| 94 | [iZenDeveloper/auditai](https://github.com/iZenDeveloper/auditai) | 0 | Python | 2026-07-23 | Developer-first LLM/RAG safety audits for CI/CD — faithfulness, relevancy, prompt injection (BYOK OpenAI/xAI). pip insta |
+| 95 | [monospaceai/evaldata](https://github.com/monospaceai/evaldata) | 2 | Python | 2026-07-22 | Evaluate AI-generated SQL with pytest. |
+| 96 | [mohanish3/eval-atlas](https://github.com/mohanish3/eval-atlas) | 0 | TypeScript | 2026-07-21 | LLM eval dashboard for multiple choice and open ended prompts. Upload JSON or JSONL eval sets, run against OpenAI, Anthr |
+| 97 | [AshC2004/llm-eval-harness](https://github.com/AshC2004/llm-eval-harness) | 0 | Python | 2026-07-18 | Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs |
+| 98 | [andleb/causalds](https://github.com/andleb/causalds) | 2 | Python | 2026-07-17 | Official repository for "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents" |
+| 99 | [sahuno/confounded](https://github.com/sahuno/confounded) | 0 | R | 2026-09-06 | A gym for scientific judgment. AI agents render fatally flawed analyses at publication quality — we measured whether any |
+| 100 | [vijayarjun7/flipcheck](https://github.com/vijayarjun7/flipcheck) | 0 | TypeScript | 2026-07-14 | LLM self-consistency and sycophancy diagnostic — catches contradictions and false-premise acceptance hiding behind confi |
 <!-- TRACKER_TABLE_END -->
 
 ---
