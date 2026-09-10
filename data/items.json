@@ -1,20 +1,11 @@
 [
   {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-09-10T17:11:58Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25003,
-    "updated_at": "2026-09-10T17:13:48Z",
+    "stars": 25004,
+    "updated_at": "2026-09-10T17:20:27Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -23,8 +14,17 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11409,
-    "updated_at": "2026-09-10T16:51:12Z",
+    "updated_at": "2026-09-10T17:18:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-09-10T17:11:58Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
