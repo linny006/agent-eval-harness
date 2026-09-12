@@ -1,11 +1,20 @@
 [
   {
+    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
+    "id": "cannonade-ai/cannonade",
+    "language": "TypeScript",
+    "name": "cannonade-ai/cannonade",
+    "stars": 2,
+    "updated_at": "2026-09-12T16:40:03Z",
+    "url": "https://github.com/cannonade-ai/cannonade"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25046,
-    "updated_at": "2026-09-12T16:27:30Z",
+    "updated_at": "2026-09-12T16:45:20Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -466,15 +475,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T16:42:56Z",
     "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
-  },
-  {
-    "description": "Local-first desktop app for building LLM test suites and running them against many local or cloud models at once",
-    "id": "cannonade-ai/cannonade",
-    "language": "TypeScript",
-    "name": "cannonade-ai/cannonade",
-    "stars": 2,
-    "updated_at": "2026-08-31T13:44:43Z",
-    "url": "https://github.com/cannonade-ai/cannonade"
   },
   {
     "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
