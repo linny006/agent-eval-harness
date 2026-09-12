@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25045,
-    "updated_at": "2026-09-12T14:04:16Z",
+    "updated_at": "2026-09-12T14:14:34Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -52,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-09-12T11:11:17Z",
     "url": "https://github.com/AndyZhang666666/creative-eval"
+  },
+  {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "JavaScript",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-09-12T11:05:35Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
     "description": "CLI for benchmarks & evals of AI coding agents \u2014 on tasks you already understand, using your Claude / Codex / Gemini ind",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T09:59:15Z",
     "url": "https://github.com/mohanish3/eval-atlas"
-  },
-  {
-    "description": "Automated groundedness scoring, hallucination detection, and regression tracking for RAG and agent outputs",
-    "id": "AshC2004/llm-eval-harness",
-    "language": "Python",
-    "name": "AshC2004/llm-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-07-18T14:53:47Z",
-    "url": "https://github.com/AshC2004/llm-eval-harness"
   }
 ]
