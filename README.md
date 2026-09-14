@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-14 16:00 UTC
+> ⏰ Last updated: 2026-09-14 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11457 | Python | 2026-09-14 | AI Observability & Evaluation |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25095 | TypeScript | 2026-09-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 25096 | TypeScript | 2026-09-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 3 | [truera/trulens](https://github.com/truera/trulens) | 3549 | Python | 2026-09-14 | Evaluation and Tracking for LLM Experiments and AI Agents |
 | 4 | [ahmedmoha9088/PhoenixFish](https://github.com/ahmedmoha9088/PhoenixFish) | 0 | Java | 2026-09-14 | Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame. |
 | 5 | [saddled-panicattack529/idea-evaluation-pipeline](https://github.com/saddled-panicattack529/idea-evaluation-pipeline) | 0 | — | 2026-09-14 | Streamline research idea evaluation for finance and economics to reach top journal quality using an iterative, AI-assist |
@@ -122,7 +122,7 @@ expired items removed — so you can rely on what you see being current.
 | 78 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-13 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
 | 79 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-09-04 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 80 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-08-11 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
-| 81 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-09-07 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
+| 81 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-09-14 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
 | 82 | [KolyaSotnichenko/webitel-tz](https://github.com/KolyaSotnichenko/webitel-tz) | 0 | Python | 2026-08-10 | ISP helpdesk RAG assistant: eval-first take-home with measured v1/v2 regression, two-gate no-answer, diagnostic flow. bg |
 | 83 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
 | 84 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-09-09 | Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c |
