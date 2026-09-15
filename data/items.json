@@ -1,21 +1,30 @@
 [
   {
-    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
-    "id": "IcodeNet/eval-dashboards",
-    "language": "TypeScript",
-    "name": "IcodeNet/eval-dashboards",
-    "stars": 1,
-    "updated_at": "2026-09-15T19:13:42Z",
-    "url": "https://github.com/IcodeNet/eval-dashboards"
+    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
+    "id": "SFX-TECH/sfx-lead-intelligence",
+    "language": "\u2014",
+    "name": "SFX-TECH/sfx-lead-intelligence",
+    "stars": 0,
+    "updated_at": "2026-09-15T19:27:13Z",
+    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25142,
-    "updated_at": "2026-09-15T18:48:56Z",
+    "stars": 25143,
+    "updated_at": "2026-09-15T19:27:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "Beautiful, themeable HTML dashboards, quality gates, and publishing for AI agent eval runs. NYC/Istanbul-style \u2014 bring y",
+    "id": "IcodeNet/eval-dashboards",
+    "language": "TypeScript",
+    "name": "IcodeNet/eval-dashboards",
+    "stars": 1,
+    "updated_at": "2026-09-15T19:20:10Z",
+    "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11472,
-    "updated_at": "2026-09-15T19:01:02Z",
+    "updated_at": "2026-09-15T19:23:54Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -529,15 +538,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T16:42:56Z",
     "url": "https://github.com/homayoun-safarpour/homayoun-safarpour"
-  },
-  {
-    "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
-    "id": "SFX-TECH/sfx-lead-intelligence",
-    "language": "\u2014",
-    "name": "SFX-TECH/sfx-lead-intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-15T17:54:26Z",
-    "url": "https://github.com/SFX-TECH/sfx-lead-intelligence"
   },
   {
     "description": "\u8d37\u6b3e\u7ebf\u7d22 CRM\uff1aLLM \u8d44\u8d28\u62bd\u53d6 + eval \u6846\u67b6 + \u89c4\u5219\u5f15\u64ce\u64ae\u5408\u5224\u5b9a",
