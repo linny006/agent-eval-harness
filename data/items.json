@@ -1,11 +1,20 @@
 [
   {
+    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
+    "id": "anejakartik/evalstack",
+    "language": "Python",
+    "name": "anejakartik/evalstack",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:51:59Z",
+    "url": "https://github.com/anejakartik/evalstack"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25149,
-    "updated_at": "2026-09-16T03:12:57Z",
+    "stars": 25151,
+    "updated_at": "2026-09-16T03:48:07Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -13,7 +22,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11477,
+    "stars": 11478,
     "updated_at": "2026-09-16T03:03:01Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T12:54:15Z",
     "url": "https://github.com/vitorwilher/copom-rag-service"
-  },
-  {
-    "description": "Does multi-agent beat single-agent? Benchmarks a planner\u2192workers\u2192critic system vs single-agent on quality/cost/latency \u2014",
-    "id": "tkarim45/multi-agent-eval",
-    "language": "Python",
-    "name": "tkarim45/multi-agent-eval",
-    "stars": 0,
-    "updated_at": "2026-07-25T07:08:25Z",
-    "url": "https://github.com/tkarim45/multi-agent-eval"
   }
 ]
