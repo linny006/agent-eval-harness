@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "isatimur/book-mash",
+    "language": "Python",
+    "name": "isatimur/book-mash",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:27:52Z",
+    "url": "https://github.com/isatimur/book-mash"
+  },
+  {
+    "description": "",
+    "id": "isatimur/mash-core",
+    "language": "Python",
+    "name": "isatimur/mash-core",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:27:40Z",
+    "url": "https://github.com/isatimur/mash-core"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11516,
+    "updated_at": "2026-09-17T13:11:17Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T11:57:34Z",
     "url": "https://github.com/cannonade-ai/cannonade"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11515,
-    "updated_at": "2026-09-17T13:11:17Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -250,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T03:47:59Z",
     "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
-    "description": "",
-    "id": "isatimur/book-mash",
-    "language": "Python",
-    "name": "isatimur/book-mash",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:41:54Z",
-    "url": "https://github.com/isatimur/book-mash"
   },
   {
     "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
@@ -619,15 +628,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T12:39:28Z",
     "url": "https://github.com/camerontjs-dot/verified-done"
-  },
-  {
-    "description": "",
-    "id": "isatimur/mash-core",
-    "language": "Python",
-    "name": "isatimur/mash-core",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:15:25Z",
-    "url": "https://github.com/isatimur/mash-core"
   },
   {
     "description": "Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs.",
