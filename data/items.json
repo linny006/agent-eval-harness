@@ -1,5 +1,14 @@
 [
   {
+    "description": "Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late",
+    "id": "arunash/earshot",
+    "language": "Python",
+    "name": "arunash/earshot",
+    "stars": 0,
+    "updated_at": "2026-09-18T17:01:33Z",
+    "url": "https://github.com/arunash/earshot"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T01:06:15Z",
     "url": "https://github.com/isatimur/mash-site"
-  },
-  {
-    "description": "Extract your writing voice from real samples into a reusable agent skill. Captures by diffing, not describing, and ships",
-    "id": "shyam-ganapathy/write-like-me",
-    "language": "\u2014",
-    "name": "shyam-ganapathy/write-like-me",
-    "stars": 1,
-    "updated_at": "2026-07-26T11:08:07Z",
-    "url": "https://github.com/shyam-ganapathy/write-like-me"
   }
 ]
