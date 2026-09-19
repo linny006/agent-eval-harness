@@ -1,5 +1,14 @@
 [
   {
+    "description": "\\ Real-time quality gate and aesthetic supervisor for Claude Code using TypeSafe Jev to enforce rigorous physics and dyn",
+    "id": "connectedGraph/claude-svg-warden",
+    "language": "HTML",
+    "name": "connectedGraph/claude-svg-warden",
+    "stars": 0,
+    "updated_at": "2026-09-19T13:43:21Z",
+    "url": "https://github.com/connectedGraph/claude-svg-warden"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T14:10:46Z",
     "url": "https://github.com/reaatech/rag-eval-pack"
-  },
-  {
-    "description": "Marketing site for book-mash and mash-core",
-    "id": "isatimur/mash-site",
-    "language": "HTML",
-    "name": "isatimur/mash-site",
-    "stars": 0,
-    "updated_at": "2026-07-27T01:06:15Z",
-    "url": "https://github.com/isatimur/mash-site"
   }
 ]
