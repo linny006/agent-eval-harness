@@ -9,6 +9,15 @@
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
+    "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
+    "id": "open-compass/opencompass",
+    "language": "Python",
+    "name": "open-compass/opencompass",
+    "stars": 7458,
+    "updated_at": "2026-09-20T07:45:53Z",
+    "url": "https://github.com/open-compass/opencompass"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -889,14 +898,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T02:54:30Z",
     "url": "https://github.com/lehigh-university-libraries/htr"
-  },
-  {
-    "description": "RAG evaluation toolkit \u2014 faithfulness, answer relevance, context precision/recall, cost accounting, CI gates. Pairs with",
-    "id": "reaatech/rag-eval-pack",
-    "language": "TypeScript",
-    "name": "reaatech/rag-eval-pack",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:10:46Z",
-    "url": "https://github.com/reaatech/rag-eval-pack"
   }
 ]
