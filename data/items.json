@@ -549,6 +549,15 @@
     "url": "https://github.com/AyushCipher/Patch-Pilot"
   },
   {
+    "description": "Multilingual GenAI evaluation service across 5 task types and 3 languages, with regression-trend dashboard",
+    "id": "SAY-5/genai-eval",
+    "language": "Python",
+    "name": "SAY-5/genai-eval",
+    "stars": 0,
+    "updated_at": "2026-09-09T01:04:46Z",
+    "url": "https://github.com/SAY-5/genai-eval"
+  },
+  {
     "description": "Verifier-gated support resolution engine \u2014 answers from your own docs with page citations, escalates what it can't verif",
     "id": "ihsanfarabi/cs-agent",
     "language": "C#",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T14:37:43Z",
     "url": "https://github.com/ommiles/compton-eval-analysis"
-  },
-  {
-    "description": "Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c",
-    "id": "mizcausevic-dev/agent-eval-arena",
-    "language": "TypeScript",
-    "name": "mizcausevic-dev/agent-eval-arena",
-    "stars": 0,
-    "updated_at": "2026-09-09T13:01:52Z",
-    "url": "https://github.com/mizcausevic-dev/agent-eval-arena"
   }
 ]

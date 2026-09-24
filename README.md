@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-24 20:15 UTC
+> ⏰ Last updated: 2026-09-24 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -103,45 +103,45 @@ expired items removed — so you can rely on what you see being current.
 | 59 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-10 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
 | 60 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-09-18 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 61 | [AyushCipher/Patch-Pilot](https://github.com/AyushCipher/Patch-Pilot) | 0 | Python | 2026-09-09 | Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re |
-| 62 | [ihsanfarabi/cs-agent](https://github.com/ihsanfarabi/cs-agent) | 0 | C# | 2026-09-08 | Verifier-gated support resolution engine — answers from your own docs with page citations, escalates what it can't verif |
-| 63 | [zahid23saim/llm-eval-harness](https://github.com/zahid23saim/llm-eval-harness) | 1 | Python | 2026-09-08 | A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching,  |
-| 64 | [jafeeri/llm-eval-bench](https://github.com/jafeeri/llm-eval-bench) | 0 | Python | 2026-09-08 | Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed.  |
-| 65 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 44 | JavaScript | 2026-09-07 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
-| 66 | [sailikhithk/eval-infra-for-agents](https://github.com/sailikhithk/eval-infra-for-agents) | 0 | Jupyter Notebook | 2026-09-07 | Field guide to building production-grade evaluation infrastructure for LLM agent systems. Based on real production work  |
-| 67 | [CloudsDocker/AI-FDE-Playbook](https://github.com/CloudsDocker/AI-FDE-Playbook) | 1 | Python | 2026-09-06 | Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D |
-| 68 | [bingfeng288/llm-eval-demo](https://github.com/bingfeng288/llm-eval-demo) | 0 | Python | 2026-09-05 | 开箱即用的 LLM 评测小框架：答案质量 / 幻觉检测 / 拒答合理性 / 自一致性，零依赖零 Key，一条命令出中文 HTML 报告 |
-| 69 | [ynfra/ynoslop](https://github.com/ynfra/ynoslop) | 0 | JavaScript | 2026-09-04 | Ynfra: (No)Slop evals & benchmarks for agent skills |
-| 70 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-21 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
-| 71 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
-| 72 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-02 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
-| 73 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-09-02 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
-| 74 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-09-02 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
-| 75 | [pisigmac/evalgate](https://github.com/pisigmac/evalgate) | 0 | Python | 2026-09-02 | 🚦 Behavioral CI/CD for AI Agents. Stop shipping broken agents to production.roduction-grade evaluation gates and statist |
-| 76 | [ishandutta2007/Awesome-Prompt-Management](https://github.com/ishandutta2007/Awesome-Prompt-Management) | 2 | — | 2026-09-01 | Top Prompt Management (Opensource) 🌟 Star if you like it! 🌟 |
-| 77 | [Steel-predictor-project/steel-llm-eval](https://github.com/Steel-predictor-project/steel-llm-eval) | 0 | JavaScript | 2026-08-31 | Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition,  |
-| 78 | [lihongyu-dev/anzhice-crm](https://github.com/lihongyu-dev/anzhice-crm) | 0 | TypeScript | 2026-08-30 | 贷款线索 CRM：LLM 资质抽取 + eval 框架 + 规则引擎撮合判定 |
-| 79 | [Benj124/judge-dredd](https://github.com/Benj124/judge-dredd) | 0 | TypeScript | 2026-08-29 | Local kit for ingesting a corpus, synthesizing LLM eval questions, reviewing gold, and judging model answers. |
-| 80 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-08-29 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
-| 81 | [camerontjs-dot/agent-eval-notes](https://github.com/camerontjs-dot/agent-eval-notes) | 0 | CSS | 2026-08-28 | Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen |
-| 82 | [camerontjs-dot/verified-done](https://github.com/camerontjs-dot/verified-done) | 0 | Python | 2026-08-28 | Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split  |
-| 83 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 2 | Python | 2026-08-25 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
-| 84 | [rithvik-bk/voiceos-eval](https://github.com/rithvik-bk/voiceos-eval) | 0 | JavaScript | 2026-08-25 | Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th |
-| 85 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-08-22 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
-| 86 | [tainguyen07/llm-eval-harness](https://github.com/tainguyen07/llm-eval-harness) | 4 | Python | 2026-08-21 | Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML |
-| 87 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-20 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
-| 88 | [Player-YN/TokSight](https://github.com/Player-YN/TokSight) | 0 | Python | 2026-08-19 | Local Outcome lab for agent workflows. Import yours, Run N, judge with validate(output) or human Pass/Fail, export trace |
-| 89 | [j-newcom/retail-cpg-eval-datasets](https://github.com/j-newcom/retail-cpg-eval-datasets) | 0 | Python | 2026-08-18 | Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks.  |
-| 90 | [modwin/agent-eval-framework](https://github.com/modwin/agent-eval-framework) | 0 | Python | 2026-08-18 | LLM Agent Evaluation Platform |
-| 91 | [gabriel-ngrs/CalorIA](https://github.com/gabriel-ngrs/CalorIA) | 1 | Python | 2026-09-01 | Diário alimentar com IA: eval do pipeline de LLM versionado junto do código |
-| 92 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
-| 93 | [AshwinUgale/goldset](https://github.com/AshwinUgale/goldset) | 4 | Python | 2026-08-15 | Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite — a curation accelerator with  |
-| 94 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 1 | TypeScript | 2026-08-14 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
-| 95 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-13 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
-| 96 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-08-11 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
-| 97 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-09-21 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
-| 98 | [KolyaSotnichenko/webitel-tz](https://github.com/KolyaSotnichenko/webitel-tz) | 0 | Python | 2026-08-10 | ISP helpdesk RAG assistant: eval-first take-home with measured v1/v2 regression, two-gate no-answer, diagnostic flow. bg |
-| 99 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
-| 100 | [mizcausevic-dev/agent-eval-arena](https://github.com/mizcausevic-dev/agent-eval-arena) | 0 | TypeScript | 2026-09-09 | Agent and LLM evaluation harness: golden datasets, multi-scorer execution, regression detection across model versions, c |
+| 62 | [SAY-5/genai-eval](https://github.com/SAY-5/genai-eval) | 0 | Python | 2026-09-09 | Multilingual GenAI evaluation service across 5 task types and 3 languages, with regression-trend dashboard |
+| 63 | [ihsanfarabi/cs-agent](https://github.com/ihsanfarabi/cs-agent) | 0 | C# | 2026-09-08 | Verifier-gated support resolution engine — answers from your own docs with page citations, escalates what it can't verif |
+| 64 | [zahid23saim/llm-eval-harness](https://github.com/zahid23saim/llm-eval-harness) | 1 | Python | 2026-09-08 | A tiny, dependency-free Python harness for scoring LLM answers against a gold set (exact / contains / numeric matching,  |
+| 65 | [jafeeri/llm-eval-bench](https://github.com/jafeeri/llm-eval-bench) | 0 | Python | 2026-09-08 | Score LLM outputs and block quality regressions in CI. Deterministic checks first, a calibrated LLM judge where needed.  |
+| 66 | [sunxin-ai/dsh-design-qa](https://github.com/sunxin-ai/dsh-design-qa) | 44 | JavaScript | 2026-09-07 | Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches  |
+| 67 | [sailikhithk/eval-infra-for-agents](https://github.com/sailikhithk/eval-infra-for-agents) | 0 | Jupyter Notebook | 2026-09-07 | Field guide to building production-grade evaluation infrastructure for LLM agent systems. Based on real production work  |
+| 68 | [CloudsDocker/AI-FDE-Playbook](https://github.com/CloudsDocker/AI-FDE-Playbook) | 1 | Python | 2026-09-06 | Production reference architecture for Conversational Financial QA (ConvFinQA), AST-sandboxed execution, and AI Forward-D |
+| 69 | [bingfeng288/llm-eval-demo](https://github.com/bingfeng288/llm-eval-demo) | 0 | Python | 2026-09-05 | 开箱即用的 LLM 评测小框架：答案质量 / 幻觉检测 / 拒答合理性 / 自一致性，零依赖零 Key，一条命令出中文 HTML 报告 |
+| 70 | [ynfra/ynoslop](https://github.com/ynfra/ynoslop) | 0 | JavaScript | 2026-09-04 | Ynfra: (No)Slop evals & benchmarks for agent skills |
+| 71 | [valbaudo/awf](https://github.com/valbaudo/awf) | 1 | Go | 2026-09-21 | Run agents you don't babysit, and trust the result. awf runs agentic workflows with independent gates that check every s |
+| 72 | [Onur45500/SilentTrustBench](https://github.com/Onur45500/SilentTrustBench) | 1 | Python | 2026-09-03 | Benchmark: do LLMs silently trust plausible-but-wrong tool data? |
+| 73 | [gmitt98/fieldtest](https://github.com/gmitt98/fieldtest) | 0 | Python | 2026-09-02 | LLM evaluation framework — define what correct, well-formed, and safe means before you measure |
+| 74 | [lorien/awesome-ai-benchmarks](https://github.com/lorien/awesome-ai-benchmarks) | 1 | — | 2026-09-02 | Curated list of benchmarks and rankings of models, agents and other AI-things. |
+| 75 | [coffee-converter/onthemoney](https://github.com/coffee-converter/onthemoney) | 0 | Python | 2026-09-02 | An AI agent that answers questions about U.S. campaign money against real FEC data. Source-cited, graded on a public eva |
+| 76 | [pisigmac/evalgate](https://github.com/pisigmac/evalgate) | 0 | Python | 2026-09-02 | 🚦 Behavioral CI/CD for AI Agents. Stop shipping broken agents to production.roduction-grade evaluation gates and statist |
+| 77 | [ishandutta2007/Awesome-Prompt-Management](https://github.com/ishandutta2007/Awesome-Prompt-Management) | 2 | — | 2026-09-01 | Top Prompt Management (Opensource) 🌟 Star if you like it! 🌟 |
+| 78 | [Steel-predictor-project/steel-llm-eval](https://github.com/Steel-predictor-project/steel-llm-eval) | 0 | JavaScript | 2026-08-31 | Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition,  |
+| 79 | [lihongyu-dev/anzhice-crm](https://github.com/lihongyu-dev/anzhice-crm) | 0 | TypeScript | 2026-08-30 | 贷款线索 CRM：LLM 资质抽取 + eval 框架 + 规则引擎撮合判定 |
+| 80 | [Benj124/judge-dredd](https://github.com/Benj124/judge-dredd) | 0 | TypeScript | 2026-08-29 | Local kit for ingesting a corpus, synthesizing LLM eval questions, reviewing gold, and judging model answers. |
+| 81 | [izam-mohammed/ragrank](https://github.com/izam-mohammed/ragrank) | 47 | Python | 2026-08-29 | 🎯 Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an |
+| 82 | [camerontjs-dot/agent-eval-notes](https://github.com/camerontjs-dot/agent-eval-notes) | 0 | CSS | 2026-08-28 | Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen |
+| 83 | [camerontjs-dot/verified-done](https://github.com/camerontjs-dot/verified-done) | 0 | Python | 2026-08-28 | Does done mean done? Coding-agent honesty demo: verified pass vs false completion vs scope violation. Public demo split  |
+| 84 | [RudrenduPaul/memtrust](https://github.com/RudrenduPaul/memtrust) | 2 | Python | 2026-08-25 | Independent CLI benchmark harness for agent-memory backends (MemPalace, Mem0, Zep, OpenViking); publishes raw eval logs. |
+| 85 | [rithvik-bk/voiceos-eval](https://github.com/rithvik-bk/voiceos-eval) | 0 | JavaScript | 2026-08-25 | Tool-calling eval harness + pre-execution safety gate for voice agents: scores whether the right tool was called with th |
+| 86 | [ozlar34/job-match-radar](https://github.com/ozlar34/job-match-radar) | 1 | Python | 2026-08-22 | Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai |
+| 87 | [tainguyen07/llm-eval-harness](https://github.com/tainguyen07/llm-eval-harness) | 4 | Python | 2026-08-21 | Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML |
+| 88 | [eliasfeitan-pixel/llm-eval-framework](https://github.com/eliasfeitan-pixel/llm-eval-framework) | 1 | — | 2026-08-20 | Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent |
+| 89 | [Player-YN/TokSight](https://github.com/Player-YN/TokSight) | 0 | Python | 2026-08-19 | Local Outcome lab for agent workflows. Import yours, Run N, judge with validate(output) or human Pass/Fail, export trace |
+| 90 | [j-newcom/retail-cpg-eval-datasets](https://github.com/j-newcom/retail-cpg-eval-datasets) | 0 | Python | 2026-08-18 | Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks.  |
+| 91 | [modwin/agent-eval-framework](https://github.com/modwin/agent-eval-framework) | 0 | Python | 2026-08-18 | LLM Agent Evaluation Platform |
+| 92 | [gabriel-ngrs/CalorIA](https://github.com/gabriel-ngrs/CalorIA) | 1 | Python | 2026-09-01 | Diário alimentar com IA: eval do pipeline de LLM versionado junto do código |
+| 93 | [sinakazemnezhad/agent-security-bench](https://github.com/sinakazemnezhad/agent-security-bench) | 0 | Python | 2026-08-16 | Open bench for AI coding-agent ML eval + agent security (prompt injection, jailbreak, tool overreach) with machine-reada |
+| 94 | [AshwinUgale/goldset](https://github.com/AshwinUgale/goldset) | 4 | Python | 2026-08-15 | Turn real traffic/traces into a versioned, deduped, coverage-tracked LLM regression suite — a curation accelerator with  |
+| 95 | [karlmehta/trustmodel-mcp](https://github.com/karlmehta/trustmodel-mcp) | 1 | TypeScript | 2026-08-14 | TrustModel MCP Server — trust evaluation, red-team & governance for AI agents via the Model Context Protocol. Public can |
+| 96 | [asavs/mcp-cocktail](https://github.com/asavs/mcp-cocktail) | 0 | Python | 2026-08-13 | Multi-arm evaluation and self-healing guardrails for MCP servers & CLIs |
+| 97 | [cklxx/ckl-bench](https://github.com/cklxx/ckl-bench) | 0 | HTML | 2026-08-11 | ckl's personal benchmark for doc writing, infra code, and paper reading — one-click evaluation of the latest models via  |
+| 98 | [reaatech/agent-eval-harness](https://github.com/reaatech/agent-eval-harness) | 0 | TypeScript | 2026-09-21 | End-to-end agent evaluation — trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w |
+| 99 | [KolyaSotnichenko/webitel-tz](https://github.com/KolyaSotnichenko/webitel-tz) | 0 | Python | 2026-08-10 | ISP helpdesk RAG assistant: eval-first take-home with measured v1/v2 regression, two-gate no-answer, diagnostic flow. bg |
+| 100 | [ommiles/compton-eval-analysis](https://github.com/ommiles/compton-eval-analysis) | 0 | Python | 2026-08-07 | Statistical analysis for LLM eval runs: bootstrap CIs, paired significance testing, judge reliability, and power analysi |
 <!-- TRACKER_TABLE_END -->
 
 ---
