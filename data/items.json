@@ -1,5 +1,14 @@
 [
   {
+    "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
+    "id": "senguptashubham/judge-calibration",
+    "language": "Python",
+    "name": "senguptashubham/judge-calibration",
+    "stars": 1,
+    "updated_at": "2026-09-25T17:48:24Z",
+    "url": "https://github.com/senguptashubham/judge-calibration"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -22,7 +31,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11613,
+    "stars": 11615,
     "updated_at": "2026-09-25T17:12:06Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -49,18 +58,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25454,
+    "stars": 25455,
     "updated_at": "2026-09-25T16:03:38Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
-    "id": "senguptashubham/judge-calibration",
-    "language": "Python",
-    "name": "senguptashubham/judge-calibration",
-    "stars": 1,
-    "updated_at": "2026-09-25T15:47:05Z",
-    "url": "https://github.com/senguptashubham/judge-calibration"
   },
   {
     "description": "How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs.",
@@ -439,6 +439,15 @@
     "stars": 1,
     "updated_at": "2026-09-17T22:06:43Z",
     "url": "https://github.com/Ruthwik-Data/finrag-eval"
+  },
+  {
+    "description": "Open-source CLI for auditing AI and LLM applications for production readiness across evaluation, observability, guardrai",
+    "id": "uzairkhatri/production-ai-readiness",
+    "language": "Python",
+    "name": "uzairkhatri/production-ai-readiness",
+    "stars": 0,
+    "updated_at": "2026-09-16T10:30:12Z",
+    "url": "https://github.com/uzairkhatri/production-ai-readiness"
   },
   {
     "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T06:32:55Z",
     "url": "https://github.com/cklxx/ckl-bench"
-  },
-  {
-    "description": "End-to-end agent evaluation \u2014 trajectory eval, tool-use correctness, cost-per-task, latency budgets, regression suites w",
-    "id": "reaatech/agent-eval-harness",
-    "language": "TypeScript",
-    "name": "reaatech/agent-eval-harness",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:06:58Z",
-    "url": "https://github.com/reaatech/agent-eval-harness"
   }
 ]
