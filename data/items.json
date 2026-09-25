@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
+    "id": "AyushCipher/Patch-Pilot",
+    "language": "Python",
+    "name": "AyushCipher/Patch-Pilot",
+    "stars": 0,
+    "updated_at": "2026-09-25T09:22:06Z",
+    "url": "https://github.com/AyushCipher/Patch-Pilot"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -40,7 +49,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25437,
+    "stars": 25439,
     "updated_at": "2026-09-25T07:02:47Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -556,15 +565,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T14:04:30Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "Autonomous code-repair ReAct agent that reads failing pytest suites, forms root-cause hypotheses, writes patches, and re",
-    "id": "AyushCipher/Patch-Pilot",
-    "language": "Python",
-    "name": "AyushCipher/Patch-Pilot",
-    "stars": 0,
-    "updated_at": "2026-09-09T16:51:20Z",
-    "url": "https://github.com/AyushCipher/Patch-Pilot"
   },
   {
     "description": "Multilingual GenAI evaluation service across 5 task types and 3 languages, with regression-trend dashboard",
