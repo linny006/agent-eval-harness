@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-29 16:29 UTC
+> ⏰ Last updated: 2026-09-29 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [lyr-ai/agentseism](https://github.com/lyr-ai/agentseism) | 2 | Python | 2026-09-27 | CI for stochastic AI agents |
 | 24 | [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) | 5 | Python | 2026-09-26 | First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs |
 | 25 | [senguptashubham/judge-calibration](https://github.com/senguptashubham/judge-calibration) | 3 | Python | 2026-09-25 | Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench |
-| 26 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-25 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
+| 26 | [goldbarth/chartula-evals](https://github.com/goldbarth/chartula-evals) | 0 | Python | 2026-09-29 | How Chartula is measured: eval cases, run costs, and judgement of the generated changelogs. |
 | 27 | [AyushCipher/Patch-Pilot](https://github.com/AyushCipher/Patch-Pilot) | 0 | Python | 2026-09-25 | Autonomous code-repair ReAct agent powered by FastMCP, AST pre-validation, token-efficient diff patching, and a scored 1 |
 | 28 | [christianmacion/judge-harness](https://github.com/christianmacion/judge-harness) | 0 | Python | 2026-09-25 | LLM-as-judge validated vs humans (Cohen's κ), with position-bias exposed. |
 | 29 | [gititya/support-quality-agency](https://github.com/gititya/support-quality-agency) | 0 | Python | 2026-09-25 | Five local QA judges that review B2B and B2C customer-support replies, catch the risky parts, and explain what to fix.  |
