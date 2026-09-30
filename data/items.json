@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11662,
-    "updated_at": "2026-09-30T15:24:37Z",
+    "updated_at": "2026-09-30T15:44:23Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -14,7 +14,7 @@
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25592,
-    "updated_at": "2026-09-30T15:13:35Z",
+    "updated_at": "2026-09-30T15:38:30Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -124,6 +124,15 @@
     "stars": 2,
     "updated_at": "2026-09-29T13:43:32Z",
     "url": "https://github.com/VioletScar-Hui/sparkjury"
+  },
+  {
+    "description": "Automated LLM bias and toxicity auditing pipeline with flexible scoring and Streamlit UI.",
+    "id": "gopals09920/llm-bias-toxicity-audit",
+    "language": "Python",
+    "name": "gopals09920/llm-bias-toxicity-audit",
+    "stars": 0,
+    "updated_at": "2026-09-29T11:32:48Z",
+    "url": "https://github.com/gopals09920/llm-bias-toxicity-audit"
   },
   {
     "description": "A local-first CLI that turns any LLM session into a permanent URL you can inspect, share, and revisit.",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T07:46:37Z",
     "url": "https://github.com/Player-YN/TokSight"
-  },
-  {
-    "description": "Open, domain-specific evaluation datasets and binary judges for Retail & CPG generative-AI tasks. ",
-    "id": "j-newcom/retail-cpg-eval-datasets",
-    "language": "Python",
-    "name": "j-newcom/retail-cpg-eval-datasets",
-    "stars": 0,
-    "updated_at": "2026-08-18T14:15:39Z",
-    "url": "https://github.com/j-newcom/retail-cpg-eval-datasets"
   }
 ]
