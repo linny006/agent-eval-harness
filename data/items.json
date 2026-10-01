@@ -1,10 +1,28 @@
 [
   {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-01T13:41:26Z",
+    "url": "https://github.com/sx4im/skillcheck"
+  },
+  {
+    "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
+    "id": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
+    "language": "Python",
+    "name": "sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark",
+    "stars": 1,
+    "updated_at": "2026-10-01T13:24:07Z",
+    "url": "https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25616,
+    "stars": 25617,
     "updated_at": "2026-10-01T13:10:40Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T11:27:17Z",
     "url": "https://github.com/lftherios/session-link"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 28,
-    "updated_at": "2026-10-01T11:19:56Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "AI Observability & Evaluation",
@@ -238,7 +247,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7486,
+    "stars": 7487,
     "updated_at": "2026-09-28T08:23:57Z",
     "url": "https://github.com/open-compass/opencompass"
   },
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T03:56:25Z",
     "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
-  },
-  {
-    "description": "Local Outcome lab for agent workflows. Import yours, Run N, judge with validate(output) or human Pass/Fail, export trace",
-    "id": "Player-YN/TokSight",
-    "language": "Python",
-    "name": "Player-YN/TokSight",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:46:37Z",
-    "url": "https://github.com/Player-YN/TokSight"
   }
 ]
