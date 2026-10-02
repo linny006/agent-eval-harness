@@ -1,5 +1,14 @@
 [
   {
+    "description": "Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr",
+    "id": "Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY",
+    "language": "Python",
+    "name": "Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:34:20Z",
+    "url": "https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY"
+  },
+  {
     "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
     "id": "Giskard-AI/giskard-oss",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 4,
     "updated_at": "2026-08-21T00:39:29Z",
     "url": "https://github.com/tainguyen07/llm-eval-harness"
-  },
-  {
-    "description": "Production-grade evaluation framework and automated guardrails for enterprise LLM applications, RAG pipelines, and agent",
-    "id": "eliasfeitan-pixel/llm-eval-framework",
-    "language": "\u2014",
-    "name": "eliasfeitan-pixel/llm-eval-framework",
-    "stars": 1,
-    "updated_at": "2026-08-20T03:56:25Z",
-    "url": "https://github.com/eliasfeitan-pixel/llm-eval-framework"
   }
 ]
