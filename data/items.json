@@ -1,5 +1,14 @@
 [
   {
+    "description": "Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co",
+    "id": "derrickqin/google-adk-laya-router",
+    "language": "Python",
+    "name": "derrickqin/google-adk-laya-router",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:54:33Z",
+    "url": "https://github.com/derrickqin/google-adk-laya-router"
+  },
+  {
     "description": "Elevate your Paper server with an immersive fishing overhaul featuring custom fish, rods, bait, and a dynamic minigame.",
     "id": "ahmedmoha9088/PhoenixFish",
     "language": "Java",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T03:26:22Z",
     "url": "https://github.com/rithvik-bk/voiceos-eval"
-  },
-  {
-    "description": "Evaluation harness for LLM apps: prompt versioning, dataset runners, LLM-as-judge scoring, regression tracking, and HTML",
-    "id": "tainguyen07/llm-eval-harness",
-    "language": "Python",
-    "name": "tainguyen07/llm-eval-harness",
-    "stars": 4,
-    "updated_at": "2026-08-21T00:39:29Z",
-    "url": "https://github.com/tainguyen07/llm-eval-harness"
   }
 ]
