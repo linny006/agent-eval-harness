@@ -1,5 +1,32 @@
 [
   {
+    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
+    "id": "HaileyStorm/Creative-Writing-Rubrics",
+    "language": "Python",
+    "name": "HaileyStorm/Creative-Writing-Rubrics",
+    "stars": 0,
+    "updated_at": "2026-10-04T18:44:08Z",
+    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
+  },
+  {
+    "description": "A curated list of frontier AI evaluation benchmarks, long-horizon agent test suites, terminal sandboxes, RLVR math verif",
+    "id": "jatinsihag2345/awesome-ai-evaluations",
+    "language": "\u2014",
+    "name": "jatinsihag2345/awesome-ai-evaluations",
+    "stars": 1,
+    "updated_at": "2026-10-04T18:42:20Z",
+    "url": "https://github.com/jatinsihag2345/awesome-ai-evaluations"
+  },
+  {
+    "description": "Modular Python SDK for deterministic grading, AST semantic diffing, sandboxed execution, and fuzzy scoring of LLM output",
+    "id": "jatinsihag2345/llm-eval-toolkit",
+    "language": "Python",
+    "name": "jatinsihag2345/llm-eval-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-04T18:42:04Z",
+    "url": "https://github.com/jatinsihag2345/llm-eval-toolkit"
+  },
+  {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
     "id": "Sans-cell-art/-Project-Phoenix-The-E-Waste-Supercomputer-",
     "language": "\u2014",
@@ -40,7 +67,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11704,
+    "stars": 11703,
     "updated_at": "2026-10-04T14:38:21Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -196,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T00:27:52Z",
     "url": "https://github.com/ChelseaKR/plumbline"
-  },
-  {
-    "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
-    "id": "HaileyStorm/Creative-Writing-Rubrics",
-    "language": "Python",
-    "name": "HaileyStorm/Creative-Writing-Rubrics",
-    "stars": 0,
-    "updated_at": "2026-10-01T22:39:16Z",
-    "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
   },
   {
     "description": "Agricultural-advisory QA benchmark in 11 Indian languages \u2014 500 questions \u00d7 11, built from real Kisan Call Centre farmer",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T22:54:43Z",
     "url": "https://github.com/Benj124/judge-dredd"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-08-29T12:36:03Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
-  },
-  {
-    "description": "Public-safe agent evaluation write-ups: harness gates, multi-path coding screens, task-family transfer, RAG routes, agen",
-    "id": "camerontjs-dot/agent-eval-notes",
-    "language": "CSS",
-    "name": "camerontjs-dot/agent-eval-notes",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:21:32Z",
-    "url": "https://github.com/camerontjs-dot/agent-eval-notes"
   }
 ]
