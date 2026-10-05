@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 23:45 UTC
+> ⏰ Last updated: 2026-10-05 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -106,7 +106,7 @@ expired items removed — so you can rely on what you see being current.
 | 62 | [isatimur/book-mash](https://github.com/isatimur/book-mash) | 0 | Python | 2026-09-17 |  |
 | 63 | [isatimur/mash-core](https://github.com/isatimur/mash-core) | 0 | Python | 2026-09-17 |  |
 | 64 | [genesiscode2026/prompt-regression-examples](https://github.com/genesiscode2026/prompt-regression-examples) | 0 | — | 2026-09-17 | Production prompt regression fixtures, subtle anti-patterns, and CI test suites for LLM application teams. |
-| 65 | [crashlabsai/trojan-harbor](https://github.com/crashlabsai/trojan-harbor) | 0 | Python | 2026-09-16 | An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin |
+| 65 | [crashlabsai/trojan-harbor](https://github.com/crashlabsai/trojan-harbor) | 0 | Python | 2026-10-04 | An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin |
 | 66 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-09-16 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 67 | [Ruthwik-Data/finrag-eval](https://github.com/Ruthwik-Data/finrag-eval) | 1 | Python | 2026-09-17 | Local RAG eval on real SEC 10-Ks that catches confident financial hallucinations — and surfaced a metric bug now merged  |
 | 68 | [uzairkhatri/production-ai-readiness](https://github.com/uzairkhatri/production-ai-readiness) | 0 | Python | 2026-09-16 | Open-source CLI for auditing AI and LLM applications for production readiness across evaluation, observability, guardrai |
