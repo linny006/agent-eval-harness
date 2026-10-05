@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11716,
+    "updated_at": "2026-10-05T21:28:12Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T21:16:12Z",
     "url": "https://github.com/HaileyStorm/Creative-Writing-Rubrics"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11717,
-    "updated_at": "2026-10-05T21:16:46Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Deterministic eval harness: replay recorded Devin sessions against rubric graders",
@@ -32,7 +32,7 @@
     "language": "Python",
     "name": "Striveworks/valor",
     "stars": 40,
-    "updated_at": "2026-10-05T20:29:19Z",
+    "updated_at": "2026-10-05T21:23:57Z",
     "url": "https://github.com/Striveworks/valor"
   },
   {
