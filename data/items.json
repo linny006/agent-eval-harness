@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 359,
+    "updated_at": "2026-10-05T23:03:30Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "HBQ-RS: composable binary-question rubrics for creative writing, draft judging, benchmarking, and synthetic data.",
     "id": "HaileyStorm/Creative-Writing-Rubrics",
     "language": "Python",
@@ -70,15 +79,6 @@
     "stars": 25729,
     "updated_at": "2026-10-05T22:49:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 359,
-    "updated_at": "2026-10-05T22:38:57Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
     "description": "Personal site with two interactive LLM eval harness demos",
