@@ -1,11 +1,29 @@
 [
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11733,
+    "updated_at": "2026-10-06T22:29:58Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "Test AI customer service agents for confirmation-based PII disclosure.",
+    "id": "nxtaillc/disclosure-eval",
+    "language": "Python",
+    "name": "nxtaillc/disclosure-eval",
+    "stars": 0,
+    "updated_at": "2026-10-06T22:23:21Z",
+    "url": "https://github.com/nxtaillc/disclosure-eval"
+  },
+  {
     "description": "First independent head-to-head benchmark of System One decision models (Laya vs Jev) on byte-identical inputs",
     "id": "instax-dutta/sysone-bench",
     "language": "Python",
     "name": "instax-dutta/sysone-bench",
     "stars": 6,
-    "updated_at": "2026-10-06T22:09:02Z",
+    "updated_at": "2026-10-06T22:16:52Z",
     "url": "https://github.com/instax-dutta/sysone-bench"
   },
   {
@@ -36,15 +54,6 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11733,
-    "updated_at": "2026-10-06T21:54:08Z",
-    "url": "https://github.com/Arize-ai/phoenix"
-  },
-  {
     "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
     "id": "Striveworks/valor",
     "language": "Python",
@@ -58,7 +67,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25759,
+    "stars": 25760,
     "updated_at": "2026-10-06T19:41:13Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T21:41:58Z",
     "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
-  },
-  {
-    "description": "\u8d37\u6b3e\u7ebf\u7d22 CRM\uff1aLLM \u8d44\u8d28\u62bd\u53d6 + eval \u6846\u67b6 + \u89c4\u5219\u5f15\u64ce\u64ae\u5408\u5224\u5b9a",
-    "id": "lihongyu-dev/anzhice-crm",
-    "language": "TypeScript",
-    "name": "lihongyu-dev/anzhice-crm",
-    "stars": 0,
-    "updated_at": "2026-08-30T09:01:00Z",
-    "url": "https://github.com/lihongyu-dev/anzhice-crm"
   }
 ]
