@@ -1,11 +1,20 @@
 [
   {
+    "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
+    "id": "Striveworks/valor",
+    "language": "Python",
+    "name": "Striveworks/valor",
+    "stars": 40,
+    "updated_at": "2026-10-06T20:00:27Z",
+    "url": "https://github.com/Striveworks/valor"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11732,
-    "updated_at": "2026-10-06T19:45:16Z",
+    "updated_at": "2026-10-06T20:00:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-06T19:36:33Z",
+    "updated_at": "2026-10-06T19:56:43Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T23:36:23Z",
     "url": "https://github.com/nowackk-cp/karkontrol"
-  },
-  {
-    "description": "Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models.",
-    "id": "Striveworks/valor",
-    "language": "Python",
-    "name": "Striveworks/valor",
-    "stars": 40,
-    "updated_at": "2026-10-06T18:53:01Z",
-    "url": "https://github.com/Striveworks/valor"
   },
   {
     "description": "SFX Lead Intelligence Command Center: local-LLM hub plus lead dashboard, quality lifted 61 to 99 percent via a ground-tr",
