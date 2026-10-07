@@ -18,6 +18,15 @@
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11736,
+    "updated_at": "2026-10-07T04:59:01Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "\ud83c\udf10 Define and explore the Origin \u2194 Continuum framework, ensuring proper attribution and continuity in dependency relation",
     "id": "Kondwani10/Origin-Continuum",
     "language": "\u2014",
@@ -34,15 +43,6 @@
     "stars": 360,
     "updated_at": "2026-10-07T04:59:18Z",
     "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11735,
-    "updated_at": "2026-10-07T04:59:01Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Test AI customer service agents for confirmation-based PII disclosure.",
