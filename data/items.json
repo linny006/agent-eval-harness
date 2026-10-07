@@ -1,5 +1,23 @@
 [
   {
+    "description": "13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:59:33Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11741,
+    "updated_at": "2026-10-07T13:47:27Z",
+    "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -25,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T13:02:46Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11741,
-    "updated_at": "2026-10-07T13:42:00Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "\u267b\ufe0f Transform e-waste into a powerful, low-cost cloud operating system, unlocking computing potential and promoting resou",
@@ -889,14 +898,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T17:27:17Z",
     "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management"
-  },
-  {
-    "description": "Open benchmark: how well can LLMs predict knife-steel properties (edge retention, toughness) from chemical composition, ",
-    "id": "Steel-predictor-project/steel-llm-eval",
-    "language": "JavaScript",
-    "name": "Steel-predictor-project/steel-llm-eval",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:41:58Z",
-    "url": "https://github.com/Steel-predictor-project/steel-llm-eval"
   }
 ]
