@@ -1,10 +1,19 @@
 [
   {
+    "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
+    "id": "yukincom/llm-SugarScape",
+    "language": "Python",
+    "name": "yukincom/llm-SugarScape",
+    "stars": 7,
+    "updated_at": "2026-10-08T14:10:49Z",
+    "url": "https://github.com/yukincom/llm-SugarScape"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 25815,
+    "stars": 25814,
     "updated_at": "2026-10-08T13:55:57Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -68,7 +77,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 360,
-    "updated_at": "2026-10-08T13:35:32Z",
+    "updated_at": "2026-10-08T14:14:39Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T02:33:06Z",
     "url": "https://github.com/pisigmac/evalgate"
-  },
-  {
-    "description": "Top Prompt Management (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
-    "id": "ishandutta2007/Awesome-Prompt-Management",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Prompt-Management",
-    "stars": 2,
-    "updated_at": "2026-09-01T17:27:17Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Prompt-Management"
   }
 ]
