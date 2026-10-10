@@ -1,11 +1,20 @@
 [
   {
+    "description": "L10 self-evolving LLM evaluation harness that learns from failures \u2014 faithfulness, relevance, toxicity, format metrics w",
+    "id": "mrodgersjs-web/rig-enhanced-evals",
+    "language": "Python",
+    "name": "mrodgersjs-web/rig-enhanced-evals",
+    "stars": 0,
+    "updated_at": "2026-10-10T23:36:08Z",
+    "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25878,
-    "updated_at": "2026-10-10T23:30:19Z",
+    "updated_at": "2026-10-10T23:44:54Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -727,15 +736,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T11:47:17Z",
     "url": "https://github.com/AndyZhang666666/llm-output-eval"
-  },
-  {
-    "description": "L10 self-evolving LLM evaluation harness that learns from failures \u2014 faithfulness, relevance, toxicity, format metrics w",
-    "id": "mrodgersjs-web/rig-enhanced-evals",
-    "language": "Python",
-    "name": "mrodgersjs-web/rig-enhanced-evals",
-    "stars": 0,
-    "updated_at": "2026-10-10T23:16:28Z",
-    "url": "https://github.com/mrodgersjs-web/rig-enhanced-evals"
   },
   {
     "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
