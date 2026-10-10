@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 23:15 UTC
+> ⏰ Last updated: 2026-10-10 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -123,7 +123,7 @@ expired items removed — so you can rely on what you see being current.
 | 79 | [wynxing/agent-flight-recorder](https://github.com/wynxing/agent-flight-recorder) | 0 | Python | 2026-09-15 | Replay, debug and evaluate AI agents like software — AI Agent 的黑匣子与可回放调试平台：录制、回放、对比、回归用例。 |
 | 80 | [sammyjdev/gnomon-eval](https://github.com/sammyjdev/gnomon-eval) | 0 | Python | 2026-09-13 | Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first. |
 | 81 | [AndyZhang666666/llm-output-eval](https://github.com/AndyZhang666666/llm-output-eval) | 0 | TypeScript | 2026-09-13 | 长文本 LLM 输出评测工具（第二版）：两版 prompt 连跑对比 + Bad Case 导出 + 逐字证据抽取，附 30 条金标集裁判校验 |
-| 82 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-09-12 | L10 self-evolving LLM evaluation harness that learns from failures — faithfulness, relevance, toxicity, format metrics w |
+| 82 | [mrodgersjs-web/rig-enhanced-evals](https://github.com/mrodgersjs-web/rig-enhanced-evals) | 0 | Python | 2026-10-10 | L10 self-evolving LLM evaluation harness that learns from failures — faithfulness, relevance, toxicity, format metrics w |
 | 83 | [AndyZhang666666/filing-eval](https://github.com/AndyZhang666666/filing-eval) | 0 | JavaScript | 2026-09-12 | 公告摘要的断言级事实核查裁判：幻觉检出 / 误报 / 关键信息覆盖三轴度量 |
 | 84 | [AndyZhang666666/creative-eval](https://github.com/AndyZhang666666/creative-eval) | 0 | JavaScript | 2026-09-12 | 短剧剧本初稿的 LLM 评分裁判：5 维度 rubric + 40 条金标集 + 裁判可靠性校验 |
 | 85 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 14 | Python | 2026-09-12 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
