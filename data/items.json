@@ -1,11 +1,20 @@
 [
   {
+    "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
+    "id": "lilyco-42/lyco-router-eval",
+    "language": "\u2014",
+    "name": "lilyco-42/lyco-router-eval",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:07:04Z",
+    "url": "https://github.com/lilyco-42/lyco-router-eval"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25885,
-    "updated_at": "2026-10-11T08:58:20Z",
+    "updated_at": "2026-10-11T09:07:19Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -565,15 +574,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T11:12:24Z",
     "url": "https://github.com/valbaudo/awf"
-  },
-  {
-    "description": "Independent-eval-Qwen3-0.6B-ondevice-router-40cases",
-    "id": "lilyco-42/lyco-router-eval",
-    "language": "\u2014",
-    "name": "lilyco-42/lyco-router-eval",
-    "stars": 0,
-    "updated_at": "2026-09-21T09:48:51Z",
-    "url": "https://github.com/lilyco-42/lyco-router-eval"
   },
   {
     "description": "Same maze, same rules, N decision backends. A zero-key, zero-dependency arena that measures Jev / LLM / local decision m",
