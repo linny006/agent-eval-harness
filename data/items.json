@@ -1,11 +1,20 @@
 [
   {
+    "description": "Check your LLM-as-a-judge: see how often it agrees with human labels, in one command.",
+    "id": "judgekeeper/judgekeeper",
+    "language": "Python",
+    "name": "judgekeeper/judgekeeper",
+    "stars": 0,
+    "updated_at": "2026-10-11T19:45:31Z",
+    "url": "https://github.com/judgekeeper/judgekeeper"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
     "stars": 25899,
-    "updated_at": "2026-10-11T19:45:00Z",
+    "updated_at": "2026-10-11T19:58:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
   {
@@ -40,7 +49,7 @@
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
-    "stars": 11789,
+    "stars": 11790,
     "updated_at": "2026-10-11T17:50:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T02:48:00Z",
     "url": "https://github.com/coffee-converter/onthemoney"
-  },
-  {
-    "description": "\ud83d\udea6 Behavioral CI/CD for AI Agents. Stop shipping broken agents to production.Production-grade evaluation gates and statis",
-    "id": "pisigmac/evalgate",
-    "language": "Python",
-    "name": "pisigmac/evalgate",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:33:06Z",
-    "url": "https://github.com/pisigmac/evalgate"
   }
 ]
