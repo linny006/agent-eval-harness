@@ -1,5 +1,14 @@
 [
   {
+    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
+    "id": "lorien/awesome-ai-benchmarks",
+    "language": "\u2014",
+    "name": "lorien/awesome-ai-benchmarks",
+    "stars": 1,
+    "updated_at": "2026-10-13T09:06:25Z",
+    "url": "https://github.com/lorien/awesome-ai-benchmarks"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -193,7 +202,7 @@
     "id": "sx4im/skillcheck",
     "language": "TypeScript",
     "name": "sx4im/skillcheck",
-    "stars": 28,
+    "stars": 29,
     "updated_at": "2026-10-10T16:27:58Z",
     "url": "https://github.com/sx4im/skillcheck"
   },
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T19:25:27Z",
     "url": "https://github.com/gmitt98/fieldtest"
-  },
-  {
-    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
-    "id": "lorien/awesome-ai-benchmarks",
-    "language": "\u2014",
-    "name": "lorien/awesome-ai-benchmarks",
-    "stars": 1,
-    "updated_at": "2026-09-02T06:50:04Z",
-    "url": "https://github.com/lorien/awesome-ai-benchmarks"
   }
 ]
