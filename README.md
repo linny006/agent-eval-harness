@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-14 23:37 UTC
+> ⏰ Last updated: 2026-10-14 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11839 | Python | 2026-10-14 | AI Observability & Evaluation |
-| 2 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26000 | TypeScript | 2026-10-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 3 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-14 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 1 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-14 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11839 | Python | 2026-10-14 | AI Observability & Evaluation |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26000 | TypeScript | 2026-10-14 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
 | 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 363 | TypeScript | 2026-10-14 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
 | 5 | [homemade-software-inc/completion-kit](https://github.com/homemade-software-inc/completion-kit) | 3 | Ruby | 2026-10-14 | Your prompts need tests too. Run prompts against real datasets, score outputs with LLM judges, version everything, and c |
 | 6 | [NoesisVision/nasde-toolkit](https://github.com/NoesisVision/nasde-toolkit) | 14 | Python | 2026-10-14 | CLI for benchmarks & evals of AI coding agents — on tasks you already understand, using your Claude / Codex / Gemini ind |
@@ -94,7 +94,7 @@ expired items removed — so you can rely on what you see being current.
 | 50 | [derrickqin/google-adk-laya-router](https://github.com/derrickqin/google-adk-laya-router) | 5 | Python | 2026-10-02 | Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co |
 | 51 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-03 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 52 | [Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY](https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY) | 0 | Python | 2026-10-02 | Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr |
-| 53 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-07 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 53 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-14 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 54 | [therealfullmetal55555/llm-eval-harness](https://github.com/therealfullmetal55555/llm-eval-harness) | 1 | Python | 2026-09-30 | Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite) |
 | 55 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-29 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
 | 56 | [VioletScar-Hui/sparkjury](https://github.com/VioletScar-Hui/sparkjury) | 3 | Python | 2026-09-29 | 给别人的 Agent 做体检的评测 Agent：本地三家族裁判打分、分歧交云端仲裁、badcase 聚类、证据卡片、pass^3 回归 \| 第三届 NVIDIA DGX Spark 黑客松 · 能工智人5X |
