@@ -1,5 +1,14 @@
 [
   {
+    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
+    "id": "verifywise-ai/verifywise",
+    "language": "TypeScript",
+    "name": "verifywise-ai/verifywise",
+    "stars": 363,
+    "updated_at": "2026-10-14T00:00:13Z",
+    "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
     "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
     "id": "truera/trulens",
     "language": "Python",
@@ -9,21 +18,12 @@
     "url": "https://github.com/truera/trulens"
   },
   {
-    "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
-    "id": "verifywise-ai/verifywise",
-    "language": "TypeScript",
-    "name": "verifywise-ai/verifywise",
-    "stars": 363,
-    "updated_at": "2026-10-13T22:46:00Z",
-    "url": "https://github.com/verifywise-ai/verifywise"
-  },
-  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11824,
-    "updated_at": "2026-10-13T23:40:44Z",
+    "updated_at": "2026-10-13T23:57:39Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
