@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-16 23:30 UTC
+> ⏰ Last updated: 2026-10-16 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -139,7 +139,7 @@ expired items removed — so you can rely on what you see being current.
 | 95 | [AndyZhang666666/filing-eval](https://github.com/AndyZhang666666/filing-eval) | 0 | JavaScript | 2026-09-12 | 公告摘要的断言级事实核查裁判：幻觉检出 / 误报 / 关键信息覆盖三轴度量 |
 | 96 | [AndyZhang666666/creative-eval](https://github.com/AndyZhang666666/creative-eval) | 0 | JavaScript | 2026-09-12 | 短剧剧本初稿的 LLM 评分裁判：5 维度 rubric + 40 条金标集 + 裁判可靠性校验 |
 | 97 | [T9113/eval-llm-hallucination-detector](https://github.com/T9113/eval-llm-hallucination-detector) | 0 | Python | 2026-09-11 | 🧪 Automated evaluation pipeline for detecting factual hallucinations, toxicity, and answer relevance in LLM generation |
-| 98 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-10-14 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
+| 98 | [pdxlab/trustmodel-mcp-server](https://github.com/pdxlab/trustmodel-mcp-server) | 0 | TypeScript | 2026-10-16 | TrustModel MCP Server — trust evaluation, red-team, and governance for AI agents via the Model Context Protocol. npm: @t |
 | 99 | [SAY-5/genai-eval](https://github.com/SAY-5/genai-eval) | 0 | Python | 2026-09-09 | Multilingual GenAI evaluation service across 5 task types and 3 languages, with regression-trend dashboard |
 | 100 | [ihsanfarabi/cs-agent](https://github.com/ihsanfarabi/cs-agent) | 0 | C# | 2026-09-08 | Verifier-gated support resolution engine — answers from your own docs with page citations, escalates what it can't verif |
 <!-- TRACKER_TABLE_END -->
