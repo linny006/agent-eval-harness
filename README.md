@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 03:45 UTC
+> ⏰ Last updated: 2026-10-17 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -99,7 +99,7 @@ expired items removed — so you can rely on what you see being current.
 | 55 | [derrickqin/google-adk-laya-router](https://github.com/derrickqin/google-adk-laya-router) | 5 | Python | 2026-10-02 | Route each ADK request to the right Gemini tier with Laya on a CPU-only container (Cloud Run), plus an eval scored by co |
 | 56 | [ChelseaKR/gauntlet](https://github.com/ChelseaKR/gauntlet) | 1 | Python | 2026-10-17 | pip install gauntlet-evals · v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against |
 | 57 | [Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY](https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY) | 0 | Python | 2026-10-02 | Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr |
-| 58 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-14 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
+| 58 | [ChelseaKR/plumbline](https://github.com/ChelseaKR/plumbline) | 1 | Python | 2026-10-17 | v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic |
 | 59 | [therealfullmetal55555/llm-eval-harness](https://github.com/therealfullmetal55555/llm-eval-harness) | 1 | Python | 2026-09-30 | Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite) |
 | 60 | [IonDen/mlx-quant-fidelity](https://github.com/IonDen/mlx-quant-fidelity) | 4 | Python | 2026-09-29 | Measure quantization quality loss on Apple Silicon MLX — KL divergence, top-token flip rate and perplexity delta for KV- |
 | 61 | [VioletScar-Hui/sparkjury](https://github.com/VioletScar-Hui/sparkjury) | 3 | Python | 2026-09-29 | 给别人的 Agent 做体检的评测 Agent：本地三家族裁判打分、分歧交云端仲裁、badcase 聚类、证据卡片、pass^3 回归 \| 第三届 NVIDIA DGX Spark 黑客松 · 能工智人5X |
