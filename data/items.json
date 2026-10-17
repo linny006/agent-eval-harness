@@ -1,5 +1,23 @@
 [
   {
+    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
+    "id": "ChelseaKR/plumbline",
+    "language": "Python",
+    "name": "ChelseaKR/plumbline",
+    "stars": 1,
+    "updated_at": "2026-10-17T04:13:33Z",
+    "url": "https://github.com/ChelseaKR/plumbline"
+  },
+  {
+    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
+    "id": "ChelseaKR/gauntlet",
+    "language": "Python",
+    "name": "ChelseaKR/gauntlet",
+    "stars": 1,
+    "updated_at": "2026-10-17T04:13:32Z",
+    "url": "https://github.com/ChelseaKR/gauntlet"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -495,15 +513,6 @@
     "url": "https://github.com/derrickqin/google-adk-laya-router"
   },
   {
-    "description": "pip install gauntlet-evals \u00b7 v0.1.0. Merge-blocking evaluation gates for generative AI features: YAML suites run against",
-    "id": "ChelseaKR/gauntlet",
-    "language": "Python",
-    "name": "ChelseaKR/gauntlet",
-    "stars": 1,
-    "updated_at": "2026-10-17T03:52:32Z",
-    "url": "https://github.com/ChelseaKR/gauntlet"
-  },
-  {
     "description": "Topological Data Analysis (TDA) layer for LLM self-improvement loops featuring persistent homology promotion gates, repr",
     "id": "Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY",
     "language": "Python",
@@ -511,15 +520,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T01:34:20Z",
     "url": "https://github.com/Deivid9920/PROMETHEUSV2-NEUROTOPOLOGY"
-  },
-  {
-    "description": "v0.2.0. Fail-closed evaluation harness for government-facing chat systems: reproducible, provenance-stamped audit verdic",
-    "id": "ChelseaKR/plumbline",
-    "language": "Python",
-    "name": "ChelseaKR/plumbline",
-    "stars": 1,
-    "updated_at": "2026-10-17T03:58:09Z",
-    "url": "https://github.com/ChelseaKR/plumbline"
   },
   {
     "description": "Automated LLM Evaluation Harness (Superseded by Passmark & Bench-Suite)",
