@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agreement + calibration harness for LLM-as-judge graders \u2014 calibration curves, bias/drift detection, per-category scorec",
+    "id": "AkashB98/llm-judge-calibration",
+    "language": "Python",
+    "name": "AkashB98/llm-judge-calibration",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:15:10Z",
+    "url": "https://github.com/AkashB98/llm-judge-calibration"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:19:47Z",
     "url": "https://github.com/AndyZhang666666/creative-eval"
-  },
-  {
-    "description": "\ud83e\uddea Automated evaluation pipeline for detecting factual hallucinations, toxicity, and answer relevance in LLM generation",
-    "id": "T9113/eval-llm-hallucination-detector",
-    "language": "Python",
-    "name": "T9113/eval-llm-hallucination-detector",
-    "stars": 0,
-    "updated_at": "2026-09-11T17:58:31Z",
-    "url": "https://github.com/T9113/eval-llm-hallucination-detector"
   }
 ]
