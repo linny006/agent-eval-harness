@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
+    "id": "HLIntel/thea-software",
+    "language": "Python",
+    "name": "HLIntel/thea-software",
+    "stars": 3,
+    "updated_at": "2026-10-20T01:17:03Z",
+    "url": "https://github.com/HLIntel/thea-software"
+  },
+  {
+    "description": "ASX guidance direction eval: model labels vs arithmetic",
+    "id": "damonphilipross/guidance-eval",
+    "language": "Python",
+    "name": "damonphilipross/guidance-eval",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:01:40Z",
+    "url": "https://github.com/damonphilipross/guidance-eval"
+  },
+  {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
     "id": "decimal-labs/decimalai-python",
     "language": "Python",
@@ -13,18 +31,9 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26157,
+    "stars": 26158,
     "updated_at": "2026-10-20T00:44:29Z",
     "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
-    "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
-    "id": "HLIntel/thea-software",
-    "language": "Python",
-    "name": "HLIntel/thea-software",
-    "stars": 3,
-    "updated_at": "2026-10-20T01:12:31Z",
-    "url": "https://github.com/HLIntel/thea-software"
   },
   {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
@@ -63,6 +72,15 @@
     "url": "https://github.com/IcodeNet/eval-dashboards"
   },
   {
+    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
+    "id": "Giskard-AI/giskard-oss",
+    "language": "Python",
+    "name": "Giskard-AI/giskard-oss",
+    "stars": 5911,
+    "updated_at": "2026-10-19T14:07:35Z",
+    "url": "https://github.com/Giskard-AI/giskard-oss"
+  },
+  {
     "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
     "id": "jeremylongshore/j-rig-skill-binary-eval",
     "language": "TypeScript",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T07:37:25Z",
     "url": "https://github.com/pdxlab/trustmodel-mcp-server"
-  },
-  {
-    "description": "\ud83d\udc22 Open-Source Evaluation & Testing library for LLM Agents",
-    "id": "Giskard-AI/giskard-oss",
-    "language": "Python",
-    "name": "Giskard-AI/giskard-oss",
-    "stars": 5910,
-    "updated_at": "2026-10-19T14:07:35Z",
-    "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
     "description": "Do LLM judges know when they're wrong? Three open-weight judges (Qwen2.5-7B, kev-8b, auto-j-13b) graded against MT-Bench",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-12T14:19:48Z",
     "url": "https://github.com/AndyZhang666666/filing-eval"
-  },
-  {
-    "description": "\u77ed\u5267\u5267\u672c\u521d\u7a3f\u7684 LLM \u8bc4\u5206\u88c1\u5224\uff1a5 \u7ef4\u5ea6 rubric + 40 \u6761\u91d1\u6807\u96c6 + \u88c1\u5224\u53ef\u9760\u6027\u6821\u9a8c",
-    "id": "AndyZhang666666/creative-eval",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/creative-eval",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:19:47Z",
-    "url": "https://github.com/AndyZhang666666/creative-eval"
   }
 ]
