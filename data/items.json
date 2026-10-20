@@ -1,11 +1,20 @@
 [
   {
+    "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
+    "id": "sunxin-ai/dsh-design-qa",
+    "language": "JavaScript",
+    "name": "sunxin-ai/dsh-design-qa",
+    "stars": 44,
+    "updated_at": "2026-10-20T12:25:14Z",
+    "url": "https://github.com/sunxin-ai/dsh-design-qa"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-20T11:58:58Z",
+    "updated_at": "2026-10-20T12:28:00Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Giskard-AI/giskard-oss",
     "stars": 5912,
-    "updated_at": "2026-10-20T11:31:14Z",
+    "updated_at": "2026-10-20T12:24:51Z",
     "url": "https://github.com/Giskard-AI/giskard-oss"
   },
   {
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T11:47:17Z",
     "url": "https://github.com/AndyZhang666666/llm-output-eval"
-  },
-  {
-    "description": "\u516c\u544a\u6458\u8981\u7684\u65ad\u8a00\u7ea7\u4e8b\u5b9e\u6838\u67e5\u88c1\u5224\uff1a\u5e7b\u89c9\u68c0\u51fa / \u8bef\u62a5 / \u5173\u952e\u4fe1\u606f\u8986\u76d6\u4e09\u8f74\u5ea6\u91cf",
-    "id": "AndyZhang666666/filing-eval",
-    "language": "JavaScript",
-    "name": "AndyZhang666666/filing-eval",
-    "stars": 0,
-    "updated_at": "2026-09-12T14:19:48Z",
-    "url": "https://github.com/AndyZhang666666/filing-eval"
   }
 ]
