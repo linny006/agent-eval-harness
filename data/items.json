@@ -1,12 +1,30 @@
 [
   {
+    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
+    "id": "sammyjdev/gnomon-eval",
+    "language": "Python",
+    "name": "sammyjdev/gnomon-eval",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:50:52Z",
+    "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 365,
-    "updated_at": "2026-10-20T18:44:59Z",
+    "updated_at": "2026-10-20T18:58:57Z",
     "url": "https://github.com/verifywise-ai/verifywise"
+  },
+  {
+    "description": "AI Observability & Evaluation",
+    "id": "Arize-ai/phoenix",
+    "language": "Python",
+    "name": "Arize-ai/phoenix",
+    "stars": 11926,
+    "updated_at": "2026-10-20T18:59:38Z",
+    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "AI coding-agent verification \u2014 a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th",
@@ -16,15 +34,6 @@
     "stars": 3,
     "updated_at": "2026-10-20T18:26:34Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "AI Observability & Evaluation",
-    "id": "Arize-ai/phoenix",
-    "language": "Python",
-    "name": "Arize-ai/phoenix",
-    "stars": 11925,
-    "updated_at": "2026-10-20T18:43:03Z",
-    "url": "https://github.com/Arize-ai/phoenix"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -880,15 +889,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T01:44:30Z",
     "url": "https://github.com/wynxing/agent-flight-recorder"
-  },
-  {
-    "description": "Honest RAG evaluation harness: judge metrics with confidence intervals, cost and latency first-class, offline-first.",
-    "id": "sammyjdev/gnomon-eval",
-    "language": "Python",
-    "name": "sammyjdev/gnomon-eval",
-    "stars": 0,
-    "updated_at": "2026-09-13T17:44:51Z",
-    "url": "https://github.com/sammyjdev/gnomon-eval"
   },
   {
     "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
