@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agent \u8bc4\u6d4b\u4e0e\u56de\u5f52\u5de5\u5177\u5305\uff1atrace-first \u65ad\u8a00\u3001bootstrap CI\u3001flaky \u68c0\u6d4b\u3001judge \u6821\u51c6",
+    "id": "Lilim-ing/agent-evalkit",
+    "language": "Python",
+    "name": "Lilim-ing/agent-evalkit",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:56:22Z",
+    "url": "https://github.com/Lilim-ing/agent-evalkit"
+  },
+  {
     "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, ",
     "id": "open-compass/opencompass",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T01:44:30Z",
     "url": "https://github.com/wynxing/agent-flight-recorder"
-  },
-  {
-    "description": "\u957f\u6587\u672c LLM \u8f93\u51fa\u8bc4\u6d4b\u5de5\u5177\uff08\u7b2c\u4e8c\u7248\uff09\uff1a\u4e24\u7248 prompt \u8fde\u8dd1\u5bf9\u6bd4 + Bad Case \u5bfc\u51fa + \u9010\u5b57\u8bc1\u636e\u62bd\u53d6\uff0c\u9644 30 \u6761\u91d1\u6807\u96c6\u88c1\u5224\u6821\u9a8c",
-    "id": "AndyZhang666666/llm-output-eval",
-    "language": "TypeScript",
-    "name": "AndyZhang666666/llm-output-eval",
-    "stars": 0,
-    "updated_at": "2026-09-13T11:47:17Z",
-    "url": "https://github.com/AndyZhang666666/llm-output-eval"
   }
 ]
