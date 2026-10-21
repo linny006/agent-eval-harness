@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-21 14:15 UTC
+> ⏰ Last updated: 2026-10-21 14:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26237 | TypeScript | 2026-10-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
-| 2 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 366 | TypeScript | 2026-10-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
-| 3 | [Lilim-ing/agent-evalkit](https://github.com/Lilim-ing/agent-evalkit) | 0 | Python | 2026-10-21 | Agent 评测与回归工具包：trace-first 断言、bootstrap CI、flaky 检测、judge 校准 |
-| 4 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-21 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
-| 5 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11936 | Python | 2026-10-21 | AI Observability & Evaluation |
-| 6 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7532 | Python | 2026-10-21 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
-| 7 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-21 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
-| 8 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-10-21 | 没跑过 = 不出厂。no eval, no ship. |
-| 9 | [dylanma8232-art/daming-skillgain](https://github.com/dylanma8232-art/daming-skillgain) | 0 | Python | 2026-10-21 | 你的 Skill 到底有没有用？跑一次就知道——用真实任务做对照测试，看它在每个模型上是帮忙还是拖后腿。 \| Measure whether a skill actually helps, per model, via paired wit |
-| 10 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-21 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 1 | [judgekeeper/judgekeeper](https://github.com/judgekeeper/judgekeeper) | 0 | Python | 2026-10-21 | Check your LLM-as-a-judge: see how often it agrees with human labels, in one command. |
+| 2 | [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 11936 | Python | 2026-10-21 | AI Observability & Evaluation |
+| 3 | [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 26238 | TypeScript | 2026-10-21 | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C |
+| 4 | [verifywise-ai/verifywise](https://github.com/verifywise-ai/verifywise) | 366 | TypeScript | 2026-10-21 | Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo |
+| 5 | [Lilim-ing/agent-evalkit](https://github.com/Lilim-ing/agent-evalkit) | 0 | Python | 2026-10-21 | Agent 评测与回归工具包：trace-first 断言、bootstrap CI、flaky 检测、judge 校准 |
+| 6 | [decimal-labs/decimalai-python](https://github.com/decimal-labs/decimalai-python) | 1 | Python | 2026-10-21 | Python SDK for agent evals and skill routing — measure a skill's real lift before you trust it |
+| 7 | [open-compass/opencompass](https://github.com/open-compass/opencompass) | 7532 | Python | 2026-10-21 | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM,  |
+| 8 | [jin2004-cmd/codex-practical-skills](https://github.com/jin2004-cmd/codex-practical-skills) | 1 | Python | 2026-10-21 | AI 实用 Skill 库 · 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p |
+| 9 | [SmartStudio/baize-prompts](https://github.com/SmartStudio/baize-prompts) | 1 | — | 2026-10-21 | 没跑过 = 不出厂。no eval, no ship. |
+| 10 | [dylanma8232-art/daming-skillgain](https://github.com/dylanma8232-art/daming-skillgain) | 0 | Python | 2026-10-21 | 你的 Skill 到底有没有用？跑一次就知道——用真实任务做对照测试，看它在每个模型上是帮忙还是拖后腿。 \| Measure whether a skill actually helps, per model, via paired wit |
 | 11 | [HLIntel/thea-software](https://github.com/HLIntel/thea-software) | 3 | Python | 2026-10-21 | AI coding-agent verification — a machine-readable rulebook (atlas.yaml) telling agents which commands prove a change; th |
 | 12 | [ChelseaKR/fare-policy-assistant](https://github.com/ChelseaKR/fare-policy-assistant) | 1 | HTML | 2026-10-21 | Beta. Reduced-fare policy assistant citing dated corpus passages in English and Spanish; the bilingual-parity gate is cu |
 | 13 | [ChelseaKR/sprout](https://github.com/ChelseaKR/sprout) | 1 | Python | 2026-10-21 | In-build reference implementation: an offline-first plant-care assistant and public evaluation harness with cited-corpus |
@@ -100,7 +100,7 @@ expired items removed — so you can rely on what you see being current.
 | 56 | [sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark](https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark) | 1 | Python | 2026-10-08 | Agricultural-advisory QA benchmark in 11 Indian languages — 500 questions × 11, built from real Kisan Call Centre farmer |
 | 57 | [arunash/earshot](https://github.com/arunash/earshot) | 0 | Python | 2026-10-07 | Blind, reproducible benchmark for production phone voice agents. Measures barge-in latency, false-stop rate and the late |
 | 58 | [nxtaillc/disclosure-eval](https://github.com/nxtaillc/disclosure-eval) | 0 | Python | 2026-10-06 | Test AI customer service agents for confirmation-based PII disclosure. |
-| 59 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-06 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
+| 59 | [Striveworks/valor](https://github.com/Striveworks/valor) | 40 | Python | 2026-10-21 | Valor is a lightweight, numpy-based library designed for fast and seamless evaluation of machine learning models. |
 | 60 | [crashlabsai/trojan-harbor](https://github.com/crashlabsai/trojan-harbor) | 0 | Python | 2026-10-06 | An indirect prompt injection evaluation suite for Harbor, with eight matched attack and clean task families and determin |
 | 61 | [AndyZhang666666/AndyZhang666666.github.io](https://github.com/AndyZhang666666/AndyZhang666666.github.io) | 0 | CSS | 2026-10-06 | Personal site with two interactive LLM eval harness demos |
 | 62 | [nowackk-cp/karkontrol](https://github.com/nowackk-cp/karkontrol) | 0 | Python | 2026-10-05 | AI yazdı, testler kanıtladı: pazaryeri kâr motoru · 669 test · %98,83 mutasyon skoru · LLM eval 52/52 |
