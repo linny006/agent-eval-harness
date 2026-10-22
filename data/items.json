@@ -5,17 +5,35 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11951,
-    "updated_at": "2026-10-22T14:29:58Z",
+    "updated_at": "2026-10-22T14:35:16Z",
     "url": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "description": "An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled binaries.",
+    "id": "QuesmaOrg/BinaryAudit",
+    "language": "Shell",
+    "name": "QuesmaOrg/BinaryAudit",
+    "stars": 106,
+    "updated_at": "2026-10-22T14:27:49Z",
+    "url": "https://github.com/QuesmaOrg/BinaryAudit"
   },
   {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26278,
+    "stars": 26281,
     "updated_at": "2026-10-22T14:03:15Z",
     "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
+    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
+    "id": "izam-mohammed/ragrank",
+    "language": "Python",
+    "name": "izam-mohammed/ragrank",
+    "stars": 47,
+    "updated_at": "2026-10-22T13:13:33Z",
+    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T10:13:19Z",
     "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
-  },
-  {
-    "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
-    "id": "izam-mohammed/ragrank",
-    "language": "Python",
-    "name": "izam-mohammed/ragrank",
-    "stars": 47,
-    "updated_at": "2026-10-22T13:13:33Z",
-    "url": "https://github.com/izam-mohammed/ragrank"
   },
   {
     "description": "Catches AI regressions before your users do, diffs a prompt or model change, has an AI write targeted tests, judges old ",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T02:49:26Z",
     "url": "https://github.com/Ed-Marcavage/awesome-eval-engineering"
-  },
-  {
-    "description": "Replay, debug and evaluate AI agents like software \u2014 AI Agent \u7684\u9ed1\u5323\u5b50\u4e0e\u53ef\u56de\u653e\u8c03\u8bd5\u5e73\u53f0\uff1a\u5f55\u5236\u3001\u56de\u653e\u3001\u5bf9\u6bd4\u3001\u56de\u5f52\u7528\u4f8b\u3002",
-    "id": "wynxing/agent-flight-recorder",
-    "language": "Python",
-    "name": "wynxing/agent-flight-recorder",
-    "stars": 0,
-    "updated_at": "2026-09-15T01:44:30Z",
-    "url": "https://github.com/wynxing/agent-flight-recorder"
   }
 ]
