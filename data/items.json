@@ -1,5 +1,14 @@
 [
   {
+    "description": "Personal site with two interactive LLM eval harness demos",
+    "id": "AndyZhang666666/AndyZhang666666.github.io",
+    "language": "CSS",
+    "name": "AndyZhang666666/AndyZhang666666.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:13:19Z",
+    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
+  },
+  {
     "description": "\ud83c\udfaf Your free LLM evaluation toolkit helps you assess the accuracy of facts, how well it understands context, its tone, an",
     "id": "izam-mohammed/ragrank",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26261,
+    "stars": 26263,
     "updated_at": "2026-10-22T09:31:05Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "decimal-labs/decimalai-python",
     "stars": 1,
-    "updated_at": "2026-10-22T04:44:45Z",
+    "updated_at": "2026-10-22T10:13:56Z",
     "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
@@ -538,15 +547,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T07:20:24Z",
     "url": "https://github.com/crashlabsai/trojan-harbor"
-  },
-  {
-    "description": "Personal site with two interactive LLM eval harness demos",
-    "id": "AndyZhang666666/AndyZhang666666.github.io",
-    "language": "CSS",
-    "name": "AndyZhang666666/AndyZhang666666.github.io",
-    "stars": 0,
-    "updated_at": "2026-10-06T05:06:21Z",
-    "url": "https://github.com/AndyZhang666666/AndyZhang666666.github.io"
   },
   {
     "description": "AI yazd\u0131, testler kan\u0131tlad\u0131: pazaryeri k\u00e2r motoru \u00b7 669 test \u00b7 %98,83 mutasyon skoru \u00b7 LLM eval 52/52",
