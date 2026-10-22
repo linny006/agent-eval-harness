@@ -13,7 +13,7 @@
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
     "name": "promptfoo/promptfoo",
-    "stars": 26248,
+    "stars": 26247,
     "updated_at": "2026-10-22T01:52:39Z",
     "url": "https://github.com/promptfoo/promptfoo"
   },
@@ -41,7 +41,7 @@
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 366,
-    "updated_at": "2026-10-22T02:26:38Z",
+    "updated_at": "2026-10-22T02:37:02Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
@@ -76,7 +76,7 @@
     "id": "open-compass/opencompass",
     "language": "Python",
     "name": "open-compass/opencompass",
-    "stars": 7533,
+    "stars": 7534,
     "updated_at": "2026-10-21T11:49:42Z",
     "url": "https://github.com/open-compass/opencompass"
   },
@@ -142,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-10-20T18:50:52Z",
     "url": "https://github.com/sammyjdev/gnomon-eval"
+  },
+  {
+    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
+    "id": "sx4im/skillcheck",
+    "language": "TypeScript",
+    "name": "sx4im/skillcheck",
+    "stars": 28,
+    "updated_at": "2026-10-20T16:44:22Z",
+    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "Design-fidelity QA for DeepSeek Harness: lend any text-only model an eye, then judge whether the implementation matches ",
@@ -457,15 +466,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T09:07:04Z",
     "url": "https://github.com/lilyco-42/lyco-router-eval"
-  },
-  {
-    "description": "Blind A/B testing for AI agent skills, .cursorrules, CLAUDE.md, and system prompts. Detects placebo and harmful instruct",
-    "id": "sx4im/skillcheck",
-    "language": "TypeScript",
-    "name": "sx4im/skillcheck",
-    "stars": 29,
-    "updated_at": "2026-10-20T16:44:22Z",
-    "url": "https://github.com/sx4im/skillcheck"
   },
   {
     "description": "\u91d1\u878d\u957f\u6587\u672c\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff1a\u68c0\u7d22\u00b7\u5224\u5b9a\u00b7\u8bb0\u5fc6\u00b7\u5f52\u56e0\u56db\u5c42\u5168\u94fe\uff08BM25F \u9010\u9009\u9879\u68c0\u7d22 + \u9009\u9879\u7ea7\u8bc1\u636e\u9694\u79bb + \u5206\u5c42\u8bb0\u5fc6\u538b\u7f29 + \u5f15\u7528\u89c2\u6d4b\u5f52\u56e0\uff09\uff0c\u81ea\u5efa\u4e94\u57df\u8bc4\u6d4b\u96c6\uff08\u6cd5\u89c4/\u8d22\u62a5/\u4fdd\u9669/\u5408\u540c/\u7814\u62a5\uff0c50 \u9898\u542b 193 \u9875\u52df\u96c6\u8bf4\u660e\u4e66\uff09\uff0c791 \u4f8b\u6d4b\u8bd5\u3002\u573a\u666f",
