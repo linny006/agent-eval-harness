@@ -1,5 +1,14 @@
 [
   {
+    "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
+    "id": "ramenprotokol/hallucination-hunter",
+    "language": "Python",
+    "name": "ramenprotokol/hallucination-hunter",
+    "stars": 0,
+    "updated_at": "2026-10-23T02:09:38Z",
+    "url": "https://github.com/ramenprotokol/hallucination-hunter"
+  },
+  {
     "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
     "id": "promptfoo/promptfoo",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 11956,
-    "updated_at": "2026-10-23T01:37:10Z",
+    "updated_at": "2026-10-23T02:14:13Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -673,15 +682,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T09:49:23Z",
     "url": "https://github.com/zahid23saim/llm-eval-harness"
-  },
-  {
-    "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
-    "id": "ramenprotokol/hallucination-hunter",
-    "language": "Python",
-    "name": "ramenprotokol/hallucination-hunter",
-    "stars": 0,
-    "updated_at": "2026-09-28T03:44:07Z",
-    "url": "https://github.com/ramenprotokol/hallucination-hunter"
   },
   {
     "description": "Self-hosted n8n + Supabase pipeline that scrapes LinkedIn and a watchlist of company ATS endpoints, scores listings agai",
