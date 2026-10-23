@@ -1,5 +1,14 @@
 [
   {
+    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
+    "id": "decimal-labs/decimalai-python",
+    "language": "Python",
+    "name": "decimal-labs/decimalai-python",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:33:01Z",
+    "url": "https://github.com/decimal-labs/decimalai-python"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "HLIntel/thea-software",
     "stars": 3,
-    "updated_at": "2026-10-23T05:29:03Z",
+    "updated_at": "2026-10-23T05:33:25Z",
     "url": "https://github.com/HLIntel/thea-software"
-  },
-  {
-    "description": "Python SDK for agent evals and skill routing \u2014 measure a skill's real lift before you trust it",
-    "id": "decimal-labs/decimalai-python",
-    "language": "Python",
-    "name": "decimal-labs/decimalai-python",
-    "stars": 1,
-    "updated_at": "2026-10-23T04:48:13Z",
-    "url": "https://github.com/decimal-labs/decimalai-python"
   },
   {
     "description": "Detect & score LLM hallucinations by groundedness \u2014 labeled data, precision/recall/F1, runs offline with no API key. Plu",
