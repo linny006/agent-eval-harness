@@ -1,5 +1,14 @@
 [
   {
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
+    "id": "promptfoo/promptfoo",
+    "language": "TypeScript",
+    "name": "promptfoo/promptfoo",
+    "stars": 26331,
+    "updated_at": "2026-10-23T11:30:12Z",
+    "url": "https://github.com/promptfoo/promptfoo"
+  },
+  {
     "description": "Multi-agent simulation using LLMs. Agents autonomously decide actions for survival, reproduction, and social behavior in",
     "id": "yukincom/llm-SugarScape",
     "language": "Python",
@@ -72,21 +81,12 @@
     "url": "https://github.com/ramenprotokol/hallucination-hunter"
   },
   {
-    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, C",
-    "id": "promptfoo/promptfoo",
-    "language": "TypeScript",
-    "name": "promptfoo/promptfoo",
-    "stars": 26330,
-    "updated_at": "2026-10-23T11:30:12Z",
-    "url": "https://github.com/promptfoo/promptfoo"
-  },
-  {
     "description": "Complete AI governance and LLM Evals platform with support for EU AI Act, ISO 42001, NIST AI RMF and 20+ more AI framewo",
     "id": "verifywise-ai/verifywise",
     "language": "TypeScript",
     "name": "verifywise-ai/verifywise",
     "stars": 366,
-    "updated_at": "2026-10-23T07:55:54Z",
+    "updated_at": "2026-10-23T11:40:38Z",
     "url": "https://github.com/verifywise-ai/verifywise"
   },
   {
