@@ -99,15 +99,6 @@
     "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
-    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
-    "id": "doomsday-network/github-bounty-scanner",
-    "language": "Python",
-    "name": "doomsday-network/github-bounty-scanner",
-    "stars": 15,
-    "updated_at": "2026-10-25T05:34:35Z",
-    "url": "https://github.com/doomsday-network/github-bounty-scanner"
-  },
-  {
     "description": "Evidence-driven AI development workbench for model evaluation, project context, and controlled agent execution.",
     "id": "TQSY114514/Aether",
     "language": "JavaScript",
@@ -142,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T00:33:26Z",
     "url": "https://github.com/SmartStudio/baize-prompts"
-  },
-  {
-    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
-    "id": "doomsday-network/bounty-guard",
-    "language": "Python",
-    "name": "doomsday-network/bounty-guard",
-    "stars": 22,
-    "updated_at": "2026-10-25T00:31:11Z",
-    "url": "https://github.com/doomsday-network/bounty-guard"
   },
   {
     "description": "Use local Large Language Models for production use cases, and perform benchmarking for task-specific performance evaluat",
@@ -898,5 +880,23 @@
     "stars": 1,
     "updated_at": "2026-09-17T22:06:43Z",
     "url": "https://github.com/Ruthwik-Data/finrag-eval"
+  },
+  {
+    "description": "Open-source CLI for auditing AI and LLM applications for production readiness across evaluation, observability, guardrai",
+    "id": "uzairkhatri/production-ai-readiness",
+    "language": "Python",
+    "name": "uzairkhatri/production-ai-readiness",
+    "stars": 0,
+    "updated_at": "2026-09-16T10:30:12Z",
+    "url": "https://github.com/uzairkhatri/production-ai-readiness"
+  },
+  {
+    "description": "Open-source LLM evaluation framework \u2014 drop-in SDK + CI plugin. LLM-as-judge, regression detection, free + self-hostable",
+    "id": "anejakartik/evalstack",
+    "language": "Python",
+    "name": "anejakartik/evalstack",
+    "stars": 0,
+    "updated_at": "2026-09-16T04:15:17Z",
+    "url": "https://github.com/anejakartik/evalstack"
   }
 ]
