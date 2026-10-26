@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "Arize-ai/phoenix",
     "stars": 12011,
-    "updated_at": "2026-10-26T16:10:06Z",
+    "updated_at": "2026-10-26T16:44:25Z",
     "url": "https://github.com/Arize-ai/phoenix"
   },
   {
@@ -349,15 +349,6 @@
     "stars": 3,
     "updated_at": "2026-10-19T06:56:47Z",
     "url": "https://github.com/senguptashubham/judge-calibration"
-  },
-  {
-    "description": "Curated list of benchmarks and rankings of models, agents and other AI-things.",
-    "id": "lorien/awesome-ai-benchmarks",
-    "language": "\u2014",
-    "name": "lorien/awesome-ai-benchmarks",
-    "stars": 1,
-    "updated_at": "2026-10-17T19:38:51Z",
-    "url": "https://github.com/lorien/awesome-ai-benchmarks"
   },
   {
     "description": "Calibrated LLM-as-a-judge pipeline: rubric, human gold set, frozen splits, bootstrap TPR/TNR/agreement/kappa, bias probe",
@@ -898,5 +889,14 @@
     "stars": 0,
     "updated_at": "2026-09-16T04:15:17Z",
     "url": "https://github.com/anejakartik/evalstack"
+  },
+  {
+    "description": "Reliability and audit-evidence testing for LLM agents - wrap any agent, assert behavior, measure determinism, check grou",
+    "id": "lokesh75-kank/agenteval",
+    "language": "TypeScript",
+    "name": "lokesh75-kank/agenteval",
+    "stars": 0,
+    "updated_at": "2026-09-16T02:42:45Z",
+    "url": "https://github.com/lokesh75-kank/agenteval"
   }
 ]
