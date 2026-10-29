@@ -1,5 +1,14 @@
 [
   {
+    "description": "",
+    "id": "themsquared/agent-verify-gate",
+    "language": "\u2014",
+    "name": "themsquared/agent-verify-gate",
+    "stars": 0,
+    "updated_at": "2026-10-29T13:28:19Z",
+    "url": "https://github.com/themsquared/agent-verify-gate"
+  },
+  {
     "description": "AI Observability & Evaluation",
     "id": "Arize-ai/phoenix",
     "language": "Python",
@@ -889,14 +898,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T22:06:43Z",
     "url": "https://github.com/Ruthwik-Data/finrag-eval"
-  },
-  {
-    "description": "Open-source CLI for auditing AI and LLM applications for production readiness across evaluation, observability, guardrai",
-    "id": "uzairkhatri/production-ai-readiness",
-    "language": "Python",
-    "name": "uzairkhatri/production-ai-readiness",
-    "stars": 0,
-    "updated_at": "2026-09-16T10:30:12Z",
-    "url": "https://github.com/uzairkhatri/production-ai-readiness"
   }
 ]
